@@ -22,7 +22,7 @@ before(() => {
   findTeam2023 = createFindTeam(teams2023);
 });
 
-describe("Finding teams in the 2025 season", function () {
+describe("Finding teams in the 2026 season", function () {
   describe("Behavior of findTeam() when searching for teams", function () {
     ["D", "中日"].forEach((name) => {
       it(`should correctly return the Dragons' details when searching by "${name}"`, function () {

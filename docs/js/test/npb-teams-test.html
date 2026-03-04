@@ -26,7 +26,7 @@
     let findTeam2005, findTeam2006, findTeam2008, findTeam2012, findTeam2020, findTeam2023;
 
     mocha.setup('bdd');
-    
+
     before(() => {
       teams2026 = getTeams('2026-03-27');
       teams2005 = getTeams('2005-03-26');
@@ -43,7 +43,7 @@
       findTeam2023 = createFindTeam(teams2023);
     });
 
-    describe("Finding teams in the 2025 season", function () {
+    describe("Finding teams in the 2026 season", function () {
       describe("Behavior of findTeam() when searching for teams", function () {
         ["D", "中日"].forEach((name) => {
           it(`should correctly return the Dragons' details when searching by "${name}"`, function () {
