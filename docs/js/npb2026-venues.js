@@ -5,7 +5,9 @@ const venues = [
     "jaBoxscoreName": "エスコンＦ",
     "boxscoreName": "ES CON FIELD",
     "name": "ES CON FIELD HOKKAIDO",
-    "alt": [],
+    "alt": [
+      "エスコン"
+    ],
     "url": "https://npb.jp/stadium/detail.html?290",
     "jaAddress": "北海道北広島市Fビレッジ1番地",
     "latitude": 42.990593,
@@ -394,7 +396,7 @@ const venues = [
 ];
 
 function findVenue(name) {
-  return db.find((v) => collectNames(v).some((n) => n === name.replace("　", "")));
+  return venues.find((v) => collectNames(v).some((n) => n === name.replace("　", "")));
 }
 
 function collectNames(obj) {
