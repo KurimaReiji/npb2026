@@ -4,7 +4,8 @@ GAMEDAY ?= $(shell TZ='America/Los_Angeles' date  --rfc-3339=date)
 
 .PHONY: today
 
-today: daily/$(GAMEDAY).json
+today:
+	bun $(SCR) $(GAMEDAY)
 
 daily/%.json: $(SCR)
 	bun $(SCR) $*

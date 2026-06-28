@@ -44,7 +44,7 @@ async function main(date) {
             const { teamCode, teamName } = currentTeam;
             const { id, jaBoxscoreName, boxscoreName, batSide } = players.find((p) => p.id === playerId);
             return {
-              id, jaBoxscoreName, boxscoreName, batSide, teamCode, teamName,
+              id, jaBoxscoreName, boxscoreName: boxscoreName ?? "TBA", batSide, teamCode, teamName,
             }
           })(batterId, players[halfInning === 'top' ? 'away' : 'home']);
           const pitcher = ((playerId, players) => {
@@ -52,7 +52,7 @@ async function main(date) {
             const { teamCode, teamName } = currentTeam;
             const { id, jaBoxscoreName, boxscoreName, pitchHand } = players.find((p) => p.id === playerId);
             return {
-              id, jaBoxscoreName, boxscoreName, pitchHand, teamCode, teamName,
+              id, jaBoxscoreName, boxscoreName: boxscoreName ?? "TBA", pitchHand, teamCode, teamName,
             }
           })(pitcherId, players[halfInning === 'top' ? 'home' : 'away']);
           const { jaText } = play.result;

@@ -5,6 +5,7 @@
     "batter": {
       "id": "11415157",
       "jaBoxscoreName": "名原",
+      "boxscoreName": "Nabara",
       "batSide": "R",
       "teamCode": "C",
       "teamName": "Carp"
@@ -12,6 +13,7 @@
     "pitcher": {
       "id": "13315153",
       "jaBoxscoreName": "村上",
+      "boxscoreName": "Murakami",
       "pitchHand": "R",
       "teamCode": "T",
       "teamName": "Tigers"
@@ -49,6 +51,7 @@
     "batter": {
       "id": "13515157",
       "jaBoxscoreName": "吉田",
+      "boxscoreName": "Yoshida",
       "batSide": "R",
       "teamCode": "F",
       "teamName": "Fighters"
@@ -56,6 +59,7 @@
     "pitcher": {
       "id": "21025155",
       "jaBoxscoreName": "隅田",
+      "boxscoreName": "Sumida",
       "pitchHand": "L",
       "teamCode": "L",
       "teamName": "Lions"
@@ -93,6 +97,7 @@
     "batter": {
       "id": "23325152",
       "jaBoxscoreName": "カナリオ",
+      "boxscoreName": "Canario",
       "batSide": "R",
       "teamCode": "L",
       "teamName": "Lions"
@@ -100,6 +105,7 @@
     "pitcher": {
       "id": "01205155",
       "jaBoxscoreName": "達",
+      "boxscoreName": "Tatsu",
       "pitchHand": "R",
       "teamCode": "F",
       "teamName": "Fighters"
@@ -137,6 +143,7 @@
     "batter": {
       "id": "91995151",
       "jaBoxscoreName": "紅林",
+      "boxscoreName": "Kurebayashi",
       "batSide": "R",
       "teamCode": "B",
       "teamName": "Buffaloes"
@@ -144,6 +151,7 @@
     "pitcher": {
       "id": "91795114",
       "jaBoxscoreName": "岸",
+      "boxscoreName": "Kishi",
       "pitchHand": "R",
       "teamCode": "E",
       "teamName": "Eagles"
