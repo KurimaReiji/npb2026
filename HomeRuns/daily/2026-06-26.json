@@ -1,0 +1,187 @@
+[
+  {
+    "id": "73075159-2026-18",
+    "date": "2026-06-26",
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "71075130",
+      "jaBoxscoreName": "髙橋光成",
+      "boxscoreName": "K.Takahashi",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 18,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0626/l-f-10/playbyplay.html#com1-1"
+  },
+  {
+    "id": "13515157-2026-02",
+    "date": "2026-06-26",
+    "batter": {
+      "id": "13515157",
+      "jaBoxscoreName": "吉田",
+      "boxscoreName": "Yoshida",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "71075130",
+      "jaBoxscoreName": "髙橋光成",
+      "boxscoreName": "K.Takahashi",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 2,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0626/l-f-10/playbyplay.html#com5-1"
+  },
+  {
+    "id": "13515157-2026-03",
+    "date": "2026-06-26",
+    "batter": {
+      "id": "13515157",
+      "jaBoxscoreName": "吉田",
+      "boxscoreName": "Yoshida",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "71075139",
+      "jaBoxscoreName": "中村祐",
+      "boxscoreName": "Y.Nakamura",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 3,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 2,
+      "home": 1
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0626/l-f-10/playbyplay.html#com7-1"
+  },
+  {
+    "id": "23325152-2026-07",
+    "date": "2026-06-26",
+    "batter": {
+      "id": "23325152",
+      "jaBoxscoreName": "カナリオ",
+      "boxscoreName": "Canario",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "41345132",
+      "jaBoxscoreName": "上原",
+      "boxscoreName": "Uehara",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 7,
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 3,
+      "home": 3
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0626/l-f-10/playbyplay.html#com9-2",
+    "isWalkOff": "Y"
+  }
+]

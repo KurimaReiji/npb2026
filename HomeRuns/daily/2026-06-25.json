@@ -1,0 +1,48 @@
+[
+  {
+    "id": "41745135-2026-17",
+    "date": "2026-06-25",
+    "batter": {
+      "id": "41745135",
+      "jaBoxscoreName": "近藤",
+      "boxscoreName": "Kondoh",
+      "batSide": "L",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "pitcher": {
+      "id": "61065159",
+      "jaBoxscoreName": "髙島",
+      "boxscoreName": "Takashima",
+      "pitchHand": "R",
+      "teamCode": "B",
+      "teamName": "Buffaloes"
+    },
+    "number": 17,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay",
+      "name": "MIZUHO PayPay Dome Fukuoka",
+      "jaName": "みずほPayPayドーム福岡"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0625/h-b-10/playbyplay.html#com3-2"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "11415157-2026-03",
+    "date": "2026-06-27",
+    "batter": {
+      "id": "11415157",
+      "jaBoxscoreName": "名原",
+      "batSide": "R",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "pitcher": {
+      "id": "13315153",
+      "jaBoxscoreName": "村上",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "number": 3,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0627/c-t-09/playbyplay.html#com3-2"
+  },
+  {
+    "id": "13515157-2026-04",
+    "date": "2026-06-27",
+    "batter": {
+      "id": "13515157",
+      "jaBoxscoreName": "吉田",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "21025155",
+      "jaBoxscoreName": "隅田",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 4,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0627/l-f-11/playbyplay.html#com6-1"
+  },
+  {
+    "id": "23325152-2026-08",
+    "date": "2026-06-27",
+    "batter": {
+      "id": "23325152",
+      "jaBoxscoreName": "カナリオ",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "01205155",
+      "jaBoxscoreName": "達",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 8,
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 4,
+      "home": 1
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0627/l-f-11/playbyplay.html#com9-2"
+  },
+  {
+    "id": "91995151-2026-09",
+    "date": "2026-06-27",
+    "batter": {
+      "id": "91995151",
+      "jaBoxscoreName": "紅林",
+      "batSide": "R",
+      "teamCode": "B",
+      "teamName": "Buffaloes"
+    },
+    "pitcher": {
+      "id": "91795114",
+      "jaBoxscoreName": "岸",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 9,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Hotto Kobe",
+      "jaBoxscoreName": "ほっと神戸",
+      "name": "Hotto Motto Field Kobe",
+      "jaName": "ほっともっとフィールド神戸"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0627/b-e-08/playbyplay.html#com6-2"
+  }
+]

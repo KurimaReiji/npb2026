@@ -1,0 +1,48 @@
+[
+  {
+    "id": "11815138-2026-14",
+    "date": "2026-06-16",
+    "batter": {
+      "id": "11815138",
+      "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "81085157",
+      "jaBoxscoreName": "辻",
+      "boxscoreName": "Tsuji",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "number": 14,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0616/c-f-03/playbyplay.html#com9-1"
+  }
+]

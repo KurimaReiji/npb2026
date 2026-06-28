@@ -1,0 +1,186 @@
+[
+  {
+    "id": "83385150-2026-06",
+    "date": "2026-06-22",
+    "batter": {
+      "id": "83385150",
+      "jaBoxscoreName": "渡部",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "31835153",
+      "jaBoxscoreName": "早川",
+      "boxscoreName": "Hayakawa",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 6,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0622/e-l-09/playbyplay.html#com3-1"
+  },
+  {
+    "id": "83385150-2026-07",
+    "date": "2026-06-22",
+    "batter": {
+      "id": "83385150",
+      "jaBoxscoreName": "渡部",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "31835153",
+      "jaBoxscoreName": "早川",
+      "boxscoreName": "Hayakawa",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 7,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 3,
+      "home": 1
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0622/e-l-09/playbyplay.html#com7-1"
+  },
+  {
+    "id": "81685153-2026-09",
+    "date": "2026-06-22",
+    "batter": {
+      "id": "81685153",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "71775152",
+      "jaBoxscoreName": "九谷",
+      "boxscoreName": "Kutani",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 9,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 4,
+      "home": 5
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0622/e-l-09/playbyplay.html#com8-1"
+  },
+  {
+    "id": "51155118-2026-06",
+    "date": "2026-06-22",
+    "batter": {
+      "id": "51155118",
+      "jaBoxscoreName": "浅村",
+      "boxscoreName": "Asamura",
+      "batSide": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "pitcher": {
+      "id": "91395152",
+      "jaBoxscoreName": "岩城",
+      "boxscoreName": "Iwaki",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 6,
+    "inning": 11,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 7,
+      "home": 6
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0622/e-l-09/playbyplay.html#com11-2"
+  }
+]

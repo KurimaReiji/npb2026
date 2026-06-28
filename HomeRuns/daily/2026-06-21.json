@@ -1,0 +1,232 @@
+[
+  {
+    "id": "61165159-2026-04",
+    "date": "2026-06-21",
+    "batter": {
+      "id": "61165159",
+      "jaBoxscoreName": "泉口",
+      "boxscoreName": "Izuguchi",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "pitcher": {
+      "id": "63165134",
+      "jaBoxscoreName": "柳",
+      "boxscoreName": "Yanagi",
+      "pitchHand": "R",
+      "teamCode": "D",
+      "teamName": "Dragons"
+    },
+    "number": 4,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0621/g-d-11/playbyplay.html#com4-2"
+  },
+  {
+    "id": "01705130-2026-20",
+    "date": "2026-06-21",
+    "batter": {
+      "id": "01705130",
+      "jaBoxscoreName": "栗原",
+      "boxscoreName": "Kurihara",
+      "batSide": "L",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "pitcher": {
+      "id": "51555157",
+      "jaBoxscoreName": "金村",
+      "boxscoreName": "Kanemura",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 20,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0621/f-h-11/playbyplay.html#com4-1"
+  },
+  {
+    "id": "91895138-2026-10",
+    "date": "2026-06-21",
+    "batter": {
+      "id": "91895138",
+      "jaBoxscoreName": "山口",
+      "boxscoreName": "Yamaguchi",
+      "batSide": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "pitcher": {
+      "id": "21525139",
+      "jaBoxscoreName": "加治屋",
+      "boxscoreName": "Kajiya",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 10,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 4,
+      "home": 4
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0621/m-e-10/playbyplay.html#com8-2"
+  },
+  {
+    "id": "83385150-2026-05",
+    "date": "2026-06-21",
+    "batter": {
+      "id": "83385150",
+      "jaBoxscoreName": "渡部",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "71775139",
+      "jaBoxscoreName": "九里",
+      "boxscoreName": "Kuri",
+      "pitchHand": "R",
+      "teamCode": "B",
+      "teamName": "Buffaloes"
+    },
+    "number": 5,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "bop": 8,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪",
+      "name": "Kyocera Dome Osaka",
+      "jaName": "京セラドーム大阪"
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0621/b-l-12/playbyplay.html#com4-1"
+  },
+  {
+    "id": "61965157-2026-01",
+    "date": "2026-06-21",
+    "batter": {
+      "id": "61965157",
+      "jaBoxscoreName": "杉澤",
+      "boxscoreName": "Sugisawa",
+      "batSide": "L",
+      "teamCode": "B",
+      "teamName": "Buffaloes"
+    },
+    "pitcher": {
+      "id": "53155138",
+      "jaBoxscoreName": "渡邉",
+      "boxscoreName": "Y.Watanabe",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 5,
+      "home": 0
+    },
+    "bop": 8,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪",
+      "name": "Kyocera Dome Osaka",
+      "jaName": "京セラドーム大阪"
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0621/b-l-12/playbyplay.html#com5-2"
+  }
+]

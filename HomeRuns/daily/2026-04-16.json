@@ -1,0 +1,232 @@
+[
+  {
+    "id": "63565152-2026-03",
+    "date": "2026-04-16",
+    "batter": {
+      "id": "63565152",
+      "jaBoxscoreName": "ダルベック",
+      "boxscoreName": "Dalbec",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "pitcher": {
+      "id": "73975152",
+      "jaBoxscoreName": "ルーカス",
+      "boxscoreName": "Lucas",
+      "pitchHand": "L",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0416/t-g-05/playbyplay.html#com1-1"
+  },
+  {
+    "id": "41045153-2026-04",
+    "date": "2026-04-16",
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "11215114",
+      "jaBoxscoreName": "田中将",
+      "boxscoreName": "M.Tanaka",
+      "pitchHand": "R",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "number": 4,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 3,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "センター2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0416/t-g-05/playbyplay.html#com1-2"
+  },
+  {
+    "id": "73375157-2026-02",
+    "date": "2026-04-16",
+    "batter": {
+      "id": "73375157",
+      "jaBoxscoreName": "矢澤",
+      "boxscoreName": "Yazawa",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "71775159",
+      "jaBoxscoreName": "木村",
+      "boxscoreName": "Kimura",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 2,
+      "home": 3
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0416/m-f-06/playbyplay.html#com4-1"
+  },
+  {
+    "id": "31835133-2026-03",
+    "date": "2026-04-16",
+    "batter": {
+      "id": "31835133",
+      "jaBoxscoreName": "柳田",
+      "boxscoreName": "Yanagita",
+      "batSide": "L",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "pitcher": {
+      "id": "81685152",
+      "jaBoxscoreName": "藤原",
+      "boxscoreName": "Fujiwara",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-23",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Kitakyushu",
+      "jaBoxscoreName": "北九州",
+      "name": "Kitakyushu Citizens Baseball Stadium",
+      "jaName": "北九州市民"
+    },
+    "jaText": "左中間3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0416/h-e-06/playbyplay.html#com1-2"
+  },
+  {
+    "id": "21425139-2026-05",
+    "date": "2026-04-16",
+    "batter": {
+      "id": "21425139",
+      "jaBoxscoreName": "山川",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "pitcher": {
+      "id": "81685152",
+      "jaBoxscoreName": "藤原",
+      "boxscoreName": "Fujiwara",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 5,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 4
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Kitakyushu",
+      "jaBoxscoreName": "北九州",
+      "name": "Kitakyushu Citizens Baseball Stadium",
+      "jaName": "北九州市民"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0416/h-e-06/playbyplay.html#com3-2"
+  }
+]

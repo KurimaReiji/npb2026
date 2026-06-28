@@ -1,0 +1,371 @@
+[
+  {
+    "id": "41645159-2026-02",
+    "date": "2026-05-19",
+    "batter": {
+      "id": "41645159",
+      "jaBoxscoreName": "平山",
+      "boxscoreName": "Hirayama",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "pitcher": {
+      "id": "51055132",
+      "jaBoxscoreName": "高橋",
+      "boxscoreName": "K.Takahashi",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Iwaki",
+      "jaBoxscoreName": "いわき",
+      "name": "York Iwaki Stadium",
+      "jaName": "いわきグリーンスタジアム"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0519/s-g-10/playbyplay.html#com1-1",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "41045153-2026-12",
+    "date": "2026-05-19",
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "61565150",
+      "jaBoxscoreName": "金丸",
+      "boxscoreName": "Kanemaru",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "teamName": "Dragons"
+    },
+    "number": 12,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Kurashiki",
+      "jaBoxscoreName": "倉敷",
+      "name": "Kurashiki Muscat Stadium",
+      "jaName": "倉敷マスカットスタジアム"
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0519/t-d-10/playbyplay.html#com3-2"
+  },
+  {
+    "id": "11015138-2026-04",
+    "date": "2026-05-19",
+    "batter": {
+      "id": "11015138",
+      "jaBoxscoreName": "辰己",
+      "boxscoreName": "Tatsumi",
+      "batSide": "L",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "pitcher": {
+      "id": "51355153",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 4,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0519/f-e-10/playbyplay.html#com1-1"
+  },
+  {
+    "id": "21925151-2026-03",
+    "date": "2026-05-19",
+    "batter": {
+      "id": "21925151",
+      "jaBoxscoreName": "郡司",
+      "boxscoreName": "Gunji",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "21925157",
+      "jaBoxscoreName": "荘司",
+      "boxscoreName": "Shoji",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 3,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0519/f-e-10/playbyplay.html#com2-2"
+  },
+  {
+    "id": "11815138-2026-11",
+    "date": "2026-05-19",
+    "batter": {
+      "id": "11815138",
+      "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "21925157",
+      "jaBoxscoreName": "荘司",
+      "boxscoreName": "Shoji",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 11,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 2,
+      "home": 4
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0519/f-e-10/playbyplay.html#com3-2"
+  },
+  {
+    "id": "51455136-2026-02",
+    "date": "2026-05-19",
+    "batter": {
+      "id": "51455136",
+      "jaBoxscoreName": "西川",
+      "boxscoreName": "Nishikawa",
+      "batSide": "L",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 2,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Maebashi",
+      "jaBoxscoreName": "前橋",
+      "name": "Gunma Shikishima Baseball Stadium",
+      "jaName": "上毛新聞敷島"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0519/l-m-10/playbyplay.html#com3-2"
+  },
+  {
+    "id": "81685153-2026-05",
+    "date": "2026-05-19",
+    "batter": {
+      "id": "81685153",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 5,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Maebashi",
+      "jaBoxscoreName": "前橋",
+      "name": "Gunma Shikishima Baseball Stadium",
+      "jaName": "上毛新聞敷島"
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0519/l-m-10/playbyplay.html#com4-2"
+  },
+  {
+    "id": "03505136-2026-04",
+    "date": "2026-05-19",
+    "batter": {
+      "id": "03505136",
+      "jaBoxscoreName": "ソト",
+      "boxscoreName": "Soto",
+      "batSide": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "pitcher": {
+      "id": "91395152",
+      "jaBoxscoreName": "岩城",
+      "boxscoreName": "Iwaki",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 4,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 1,
+      "home": 3
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Maebashi",
+      "jaBoxscoreName": "前橋",
+      "name": "Gunma Shikishima Baseball Stadium",
+      "jaName": "上毛新聞敷島"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0519/l-m-10/playbyplay.html#com9-1"
+  }
+]

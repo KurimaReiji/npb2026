@@ -1,0 +1,140 @@
+[
+  {
+    "id": "21325136-2026-02",
+    "date": "2026-04-14",
+    "batter": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "pitcher": {
+      "id": "03705152",
+      "jaBoxscoreName": "モレッタ",
+      "boxscoreName": "Moreta",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 2,
+      "home": 3
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0414/t-g-04/playbyplay.html#com8-1"
+  },
+  {
+    "id": "51455159-2026-02",
+    "date": "2026-04-14",
+    "batter": {
+      "id": "51455159",
+      "jaBoxscoreName": "寺地",
+      "boxscoreName": "Terachi",
+      "batSide": "L",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "pitcher": {
+      "id": "01205155",
+      "jaBoxscoreName": "達",
+      "boxscoreName": "Tatsu",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 2,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0414/m-f-04/playbyplay.html#com2-2"
+  },
+  {
+    "id": "51055138-2026-02",
+    "date": "2026-04-14",
+    "batter": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 3,
+      "home": 1
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0414/m-f-04/playbyplay.html#com6-1"
+  }
+]

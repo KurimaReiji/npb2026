@@ -1,0 +1,325 @@
+[
+  {
+    "id": "73575150-2026-06",
+    "date": "2026-05-13",
+    "batter": {
+      "id": "73575150",
+      "jaBoxscoreName": "キャベッジ",
+      "boxscoreName": "Cabbage",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "pitcher": {
+      "id": "41245151",
+      "jaBoxscoreName": "玉村",
+      "boxscoreName": "Tamamura",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "number": 6,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Fukui",
+      "jaBoxscoreName": "福井",
+      "name": "Fukui Prefectural Baseball Stadium",
+      "jaName": "福井県営"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0513/g-c-07/playbyplay.html#com5-2"
+  },
+  {
+    "id": "21325138-2026-02",
+    "date": "2026-05-13",
+    "batter": {
+      "id": "21325138",
+      "jaBoxscoreName": "大盛",
+      "boxscoreName": "Ohmori",
+      "batSide": "L",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "pitcher": {
+      "id": "81085155",
+      "jaBoxscoreName": "大勢",
+      "boxscoreName": "Ota",
+      "pitchHand": "R",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Fukui",
+      "jaBoxscoreName": "福井",
+      "name": "Fukui Prefectural Baseball Stadium",
+      "jaName": "福井県営"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0513/g-c-07/playbyplay.html#com8-1"
+  },
+  {
+    "id": "51955114-2026-02",
+    "date": "2026-05-13",
+    "batter": {
+      "id": "51955114",
+      "jaBoxscoreName": "坂本勇",
+      "boxscoreName": "H.Sakamoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "pitcher": {
+      "id": "71375136",
+      "jaBoxscoreName": "遠藤",
+      "boxscoreName": "Endoh",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "number": 2,
+    "inning": 12,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 2,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Fukui",
+      "jaBoxscoreName": "福井",
+      "name": "Fukui Prefectural Baseball Stadium",
+      "jaName": "福井県営"
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0513/g-c-07/playbyplay.html#com12-2",
+    "isWalkOff": "Y"
+  },
+  {
+    "id": "73075159-2026-06",
+    "date": "2026-05-13",
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "11515138",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 6,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "センター2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0513/m-f-08/playbyplay.html#com3-1"
+  },
+  {
+    "id": "91895138-2026-01",
+    "date": "2026-05-13",
+    "batter": {
+      "id": "91895138",
+      "jaBoxscoreName": "山口",
+      "boxscoreName": "Yamaguchi",
+      "batSide": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "pitcher": {
+      "id": "81685155",
+      "jaBoxscoreName": "福島",
+      "boxscoreName": "Fukushima",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-2-",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 4,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0513/m-f-08/playbyplay.html#com7-2"
+  },
+  {
+    "id": "11015159-2026-01",
+    "date": "2026-05-13",
+    "batter": {
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "boxscoreName": "Shintoh",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "01905134",
+      "jaBoxscoreName": "澤田",
+      "boxscoreName": "Sawada",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 1,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "-2-",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 4,
+      "home": 2
+    },
+    "bop": 9,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0513/m-f-08/playbyplay.html#com9-1"
+  },
+  {
+    "id": "41745135-2026-09",
+    "date": "2026-05-13",
+    "batter": {
+      "id": "41745135",
+      "jaBoxscoreName": "近藤",
+      "boxscoreName": "Kondoh",
+      "batSide": "L",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "pitcher": {
+      "id": "71075130",
+      "jaBoxscoreName": "髙橋光成",
+      "boxscoreName": "K.Takahashi",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 9,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay",
+      "name": "MIZUHO PayPay Dome Fukuoka",
+      "jaName": "みずほPayPayドーム福岡"
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0513/h-l-11/playbyplay.html#com2-2"
+  }
+]

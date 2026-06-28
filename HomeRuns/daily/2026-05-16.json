@@ -1,0 +1,508 @@
+[
+  {
+    "id": "41945131-2026-03",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "41945131",
+      "jaBoxscoreName": "筒香",
+      "boxscoreName": "Tsutsugoh",
+      "batSide": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars"
+    },
+    "pitcher": {
+      "id": "53355152",
+      "jaBoxscoreName": "ウィットリー",
+      "boxscoreName": "Whitley",
+      "pitchHand": "R",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0516/g-db-08/playbyplay.html#com1-1"
+  },
+  {
+    "id": "03105157-2026-02",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "03105157",
+      "jaBoxscoreName": "村松",
+      "boxscoreName": "Muramatsu",
+      "batSide": "L",
+      "teamCode": "D",
+      "teamName": "Dragons"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 2,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 2
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム",
+      "name": "Vantelin Dome Nagoya",
+      "jaName": "バンテリンドーム ナゴヤ"
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0516/d-s-08/playbyplay.html#com3-2"
+  },
+  {
+    "id": "91195151-2026-01",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "91195151",
+      "jaBoxscoreName": "石川昂",
+      "boxscoreName": "Tak.Ishikawa",
+      "batSide": "R",
+      "teamCode": "D",
+      "teamName": "Dragons"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 4
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム",
+      "name": "Vantelin Dome Nagoya",
+      "jaName": "バンテリンドーム ナゴヤ"
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0516/d-s-08/playbyplay.html#com3-2"
+  },
+  {
+    "id": "41045153-2026-11",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "53155151",
+      "jaBoxscoreName": "森下",
+      "boxscoreName": "Morishita",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "number": 11,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 2
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0516/t-c-07/playbyplay.html#com4-2"
+  },
+  {
+    "id": "31435138-2026-06",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "31435138",
+      "jaBoxscoreName": "野村",
+      "boxscoreName": "Nomura",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "31035150",
+      "jaBoxscoreName": "佐藤爽",
+      "boxscoreName": "So.Satoh",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 6,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0516/f-l-08/playbyplay.html#com1-2"
+  },
+  {
+    "id": "53755150-2026-05",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "53755150",
+      "jaBoxscoreName": "ネビン",
+      "boxscoreName": "Nevin",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "41545132",
+      "jaBoxscoreName": "加藤貴",
+      "boxscoreName": "T.Katoh",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 5,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 3
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0516/f-l-08/playbyplay.html#com2-1"
+  },
+  {
+    "id": "51255155-2026-01",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "51255155",
+      "jaBoxscoreName": "滝澤",
+      "boxscoreName": "Takizawa",
+      "batSide": "L",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "41545132",
+      "jaBoxscoreName": "加藤貴",
+      "boxscoreName": "T.Katoh",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 1,
+      "home": 3
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0516/f-l-08/playbyplay.html#com3-1"
+  },
+  {
+    "id": "23325152-2026-02",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "23325152",
+      "jaBoxscoreName": "カナリオ",
+      "boxscoreName": "Canario",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "41545132",
+      "jaBoxscoreName": "加藤貴",
+      "boxscoreName": "T.Katoh",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 2,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 2,
+      "home": 3
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0516/f-l-08/playbyplay.html#com3-1"
+  },
+  {
+    "id": "53755150-2026-06",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "53755150",
+      "jaBoxscoreName": "ネビン",
+      "boxscoreName": "Nevin",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "41545132",
+      "jaBoxscoreName": "加藤貴",
+      "boxscoreName": "T.Katoh",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 6,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 3,
+      "home": 4
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0516/f-l-08/playbyplay.html#com4-1"
+  },
+  {
+    "id": "73075159-2026-07",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "51555138",
+      "jaBoxscoreName": "甲斐野",
+      "boxscoreName": "Kaino",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 7,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 4,
+      "home": 4
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0516/f-l-08/playbyplay.html#com8-2"
+  },
+  {
+    "id": "41845132-2026-04",
+    "date": "2026-05-16",
+    "batter": {
+      "id": "41845132",
+      "jaBoxscoreName": "村林",
+      "boxscoreName": "Murabayashi",
+      "batSide": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "pitcher": {
+      "id": "53755138",
+      "jaBoxscoreName": "スチュワート・ジュニア",
+      "boxscoreName": "Stewart",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "number": 4,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0516/e-h-11/playbyplay.html#com5-2"
+  }
+]

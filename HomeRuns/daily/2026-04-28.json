@@ -1,0 +1,554 @@
+[
+  {
+    "id": "11915134-2026-02",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "boxscoreName": "Sakakura",
+      "batSide": "L",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "pitcher": {
+      "id": "51055137",
+      "jaBoxscoreName": "則本",
+      "boxscoreName": "Norimoto",
+      "pitchHand": "R",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "number": 2,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/g-c-03/playbyplay.html#com5-1"
+  },
+  {
+    "id": "73575150-2026-05",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "73575150",
+      "jaBoxscoreName": "キャベッジ",
+      "boxscoreName": "Cabbage",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "pitcher": {
+      "id": "11415134",
+      "jaBoxscoreName": "床田",
+      "boxscoreName": "Tokoda",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "number": 5,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 6,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0428/g-c-03/playbyplay.html#com6-2"
+  },
+  {
+    "id": "11015150-2026-02",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "11015150",
+      "jaBoxscoreName": "佐々木",
+      "boxscoreName": "Sasaki",
+      "batSide": "R",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "pitcher": {
+      "id": "01505136",
+      "jaBoxscoreName": "北浦",
+      "boxscoreName": "Kitaura",
+      "pitchHand": "L",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "number": 2,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 7,
+      "home": 1
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/g-c-03/playbyplay.html#com9-1"
+  },
+  {
+    "id": "93395153-2026-01",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "93395153",
+      "jaBoxscoreName": "矢野",
+      "boxscoreName": "Yano",
+      "batSide": "L",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "pitcher": {
+      "id": "01505136",
+      "jaBoxscoreName": "北浦",
+      "boxscoreName": "Kitaura",
+      "pitchHand": "L",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "number": 1,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 8,
+      "home": 1
+    },
+    "bop": 1,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/g-c-03/playbyplay.html#com9-1"
+  },
+  {
+    "id": "21325134-2026-04",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "21325134",
+      "jaBoxscoreName": "大山",
+      "boxscoreName": "Ohyama",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "53555157",
+      "jaBoxscoreName": "吉村",
+      "boxscoreName": "Yoshimura",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 4,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 6
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "センター3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0428/s-t-04/playbyplay.html#com4-1"
+  },
+  {
+    "id": "71275151-2026-01",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "71275151",
+      "jaBoxscoreName": "武岡",
+      "boxscoreName": "Takeoka",
+      "batSide": "L",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "pitcher": {
+      "id": "01105159",
+      "jaBoxscoreName": "石黒",
+      "boxscoreName": "Ishiguro",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 4,
+      "home": 6
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/s-t-04/playbyplay.html#com6-2"
+  },
+  {
+    "id": "51155153-2026-02",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "51155153",
+      "jaBoxscoreName": "赤羽",
+      "boxscoreName": "Akahane",
+      "batSide": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "pitcher": {
+      "id": "51255157",
+      "jaBoxscoreName": "富田",
+      "boxscoreName": "Tomida",
+      "pitchHand": "L",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "number": 2,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 4,
+      "home": 7
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/s-t-04/playbyplay.html#com7-2"
+  },
+  {
+    "id": "61165132-2026-01",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "61165132",
+      "jaBoxscoreName": "阿部",
+      "boxscoreName": "Abe",
+      "batSide": "R",
+      "teamCode": "D",
+      "teamName": "Dragons"
+    },
+    "pitcher": {
+      "id": "51155136",
+      "jaBoxscoreName": "東",
+      "boxscoreName": "K.Azuma",
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム",
+      "name": "Vantelin Dome Nagoya",
+      "jaName": "バンテリンドーム ナゴヤ"
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/d-db-03/playbyplay.html#com4-2"
+  },
+  {
+    "id": "81685153-2026-01",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "81685153",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "61865159",
+      "jaBoxscoreName": "細野",
+      "boxscoreName": "Hosono",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0428/l-f-04/playbyplay.html#com1-2"
+  },
+  {
+    "id": "43945152-2026-03",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "43945152",
+      "jaBoxscoreName": "カストロ",
+      "boxscoreName": "Castro",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "91395152",
+      "jaBoxscoreName": "岩城",
+      "boxscoreName": "Iwaki",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 3,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/l-f-04/playbyplay.html#com9-1"
+  },
+  {
+    "id": "51455159-2026-03",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "51455159",
+      "jaBoxscoreName": "寺地",
+      "boxscoreName": "Terachi",
+      "batSide": "L",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "pitcher": {
+      "id": "21925157",
+      "jaBoxscoreName": "荘司",
+      "boxscoreName": "Shoji",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 3,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/m-e-04/playbyplay.html#com6-2"
+  },
+  {
+    "id": "01705130-2026-05",
+    "date": "2026-04-28",
+    "batter": {
+      "id": "01705130",
+      "jaBoxscoreName": "栗原",
+      "boxscoreName": "Kurihara",
+      "batSide": "L",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "pitcher": {
+      "id": "61765159",
+      "jaBoxscoreName": "権田",
+      "boxscoreName": "Gonda",
+      "pitchHand": "R",
+      "teamCode": "B",
+      "teamName": "Buffaloes"
+    },
+    "number": 5,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 4,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪",
+      "name": "Kyocera Dome Osaka",
+      "jaName": "京セラドーム大阪"
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0428/b-h-04/playbyplay.html#com9-1"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "id": "43145157-2026-04",
+    "date": "2026-04-09",
+    "batter": {
+      "id": "43145157",
+      "jaBoxscoreName": "森下",
+      "boxscoreName": "Morishita",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 4,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0409/t-s-03/playbyplay.html#com4-2"
+  },
+  {
+    "id": "41545136-2026-05",
+    "date": "2026-04-09",
+    "batter": {
+      "id": "41545136",
+      "jaBoxscoreName": "清宮幸",
+      "boxscoreName": "Kiyomiya",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "21525139",
+      "jaBoxscoreName": "加治屋",
+      "boxscoreName": "Kajiya",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "number": 5,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "bop": 2,
+    "rbi": 3,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "左中間3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0409/e-f-03/playbyplay.html#com6-1"
+  },
+  {
+    "id": "41745135-2026-04",
+    "date": "2026-04-09",
+    "batter": {
+      "id": "41745135",
+      "jaBoxscoreName": "近藤",
+      "boxscoreName": "Kondoh",
+      "batSide": "L",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "pitcher": {
+      "id": "73975150",
+      "jaBoxscoreName": "E.ラミレス",
+      "boxscoreName": "Ramirez",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "number": 4,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay",
+      "name": "MIZUHO PayPay Dome Fukuoka",
+      "jaName": "みずほPayPayドーム福岡"
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0409/h-l-03/playbyplay.html#com7-2"
+  }
+]

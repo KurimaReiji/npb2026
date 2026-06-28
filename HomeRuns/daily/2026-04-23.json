@@ -1,0 +1,48 @@
+[
+  {
+    "id": "53755153-2026-05",
+    "date": "2026-04-23",
+    "batter": {
+      "id": "53755153",
+      "jaBoxscoreName": "サンタナ",
+      "boxscoreName": "Santana",
+      "batSide": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "pitcher": {
+      "id": "91595150",
+      "jaBoxscoreName": "岡本",
+      "boxscoreName": "Okamoto",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "number": 5,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島"
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0423/c-s-05/playbyplay.html#com5-1"
+  }
+]
