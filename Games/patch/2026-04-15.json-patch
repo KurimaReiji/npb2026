@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/8/home/errors",
+    "value": 1,
+    "_jq": "jq .[0].linescore.innings[2].home daily/2026-04-15.json",
+    "_comment": "P Muller, throwing error on infield single, 2B runner scored, Batter runner to 2B, top 2nd, Carp at Dragons"
+  },
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/0/home/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[0].home daily/2026-04-15.json",
+    "_comment": "2B Narama, throwing error on single, 1B runner scored, Batter runner to 2B, bottom 1st, Fighters at Marines"
+  }
+]

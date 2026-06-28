@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/8/home/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[8].home daily/2026-04-02.json",
+    "_comment": "LF Hosokawa, fielding error on single, Batter runner to 2B, top 9th, Giants at Dragons"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/0/away/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[0].away daily/2026-04-02.json",
+    "_comment": "P Takeda, throwing error on pickoff attempt, 1B runner to 2B, bottom 1st, Baystars at Tigers"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/1/away/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[1].away daily/2026-04-02.json",
+    "_comment": "C Matsuo, throwing error on stealing, 1B runner to 3B, bottom 2nd, Baystars at Tigers"
+  }
+]

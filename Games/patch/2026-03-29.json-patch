@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/4/home/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[4] Games/daily/2026-03-29.json",
+    "_comment": "SS Tomosugi, throwing error on infield single, 1B runner to 3B, top 5th, Lions at Marines"
+  },
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/0/away/errors",
+    "value": 1,
+    "_jq": "jq .[4].linescore.innings[0] Games/daily/2026-03-29.json",
+    "_comment": "CF Nakashima, fielding error on single, 1B runner to 3B, bottom 1st, Eagles at Buffaloes"
+  },
+  {
+    "op": "replace",
+    "path": "/5/linescore/innings/4/away/errors",
+    "value": 1,
+    "_jq": "jq .[5].linescore.innings[4] Games/daily/2026-03-29.json",
+    "_comment": "RF Mannami, fielding error on single, Batter runner to 3B, bottom 4th, Fighters at Hawks"
+  }
+]

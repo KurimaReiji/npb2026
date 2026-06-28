@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/4/home/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[4].home daily/2026-05-06.json",
+    "_comment": "P Fukazawa, throwing error on sacrifice bunt, 1B runner to 3B, Batter runner to 1B, top 5th, Carp at Baystars"
+  },
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/8/away/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[8].away daily/2026-05-06.json",
+    "_comment": "SS Yano, throwing error on infield single, 1B runner to 3B, Batter runner to 1B, bottom 9th, Carp at Baystars"
+  },
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/7/home/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[7].home daily/2026-05-06.json",
+    "_comment": "P S.Watanabe, throwing error on pickoff attempt, 1B runner to 2B, top 8th, Fighters at Eagles"
+  }
+]

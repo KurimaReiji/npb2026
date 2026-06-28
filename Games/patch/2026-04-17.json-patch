@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/8/home/errors",
+    "value": 1,
+    "_jq": "jq .[4].linescore.innings[8].home daily/2026-04-17.json",
+    "_comment": "P Suzuki, throwing error on pickoff attempt, 1B runner to 2B, bottom 9th, Marines at Eagles"
+  },
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/10/home/errors",
+    "value": 1,
+    "_jq": "jq .[4].linescore.innings[10].home daily/2026-04-17.json",
+    "_comment": "C Satoh, throwing error on stealing, 1B runner to 3B, bottom 11th, Marines at Eagles"
+  }
+]

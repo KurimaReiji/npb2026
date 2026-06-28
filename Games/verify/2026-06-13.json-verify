@@ -1,0 +1,16 @@
+[
+  {
+    "op": "test",
+    "path": "/0/plays/75/runs/away",
+    "value": 3,
+    "_jq": "jq .[0].plays[75] Games/daily/2026-06-13.json",
+    "_comment": "Dragons at Fighters"
+  },
+  {
+    "op": "test",
+    "path": "/0/plays/75/runs/home",
+    "value": 3,
+    "_jq": "jq .[0].plays[75] Games/daily/2026-06-13.json",
+    "_comment": "Dragons at Fighters"
+  }
+]

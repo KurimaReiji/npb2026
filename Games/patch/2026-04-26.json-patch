@@ -1,0 +1,30 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/7/home/errors",
+    "value": 2,
+    "_jq": "jq .[0].linescore.innings[7].home daily/2026-04-26.json",
+    "_comment": "P Sakamoto, fielding and throwing error on sacrifice bunt, 1B runner to 3B, Batter runner to 2B, top 8th, Giants at Baystars"
+  },
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/7/away/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[7].away daily/2026-04-26.json",
+    "_comment": "C K.Suzuki, throwing error on stealing, 1B runner to 3B, bottom 8th, Swallows at Dragons"
+  },
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/9/home/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[9].home daily/2026-04-26.json",
+    "_comment": "RF Muto, fielding error on single, 1B runner to 3B, top 10th, Lions at Eagles"
+  },
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/6/away/errors",
+    "value": 1,
+    "_jq": "jq .[4].linescore.innings[6].away daily/2026-04-26.json",
+    "_comment": "C Martinez, fielding error on foul fly, bottom 7th, Fighters at Buffaloes"
+  }
+]

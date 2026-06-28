@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/3/home/errors",
+    "value": 1,
+    "_jq": "jq .[0].linescore.innings[3].home daily/2026-03-31.json",
+    "_comment": "LF Santana, fielding error on single, 1B runner to 3B, Batter runner to 2B, top 4th, Carp at Swallows"
+  },
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/1/away/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[1].away daily/2026-03-31.json",
+    "_comment": "P Kimura, throwing error on infield single, 2B runner to home, bottom 2nd, Marines at Fighters"
+  }
+]

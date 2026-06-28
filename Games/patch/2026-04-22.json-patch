@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/5/linescore/innings/4/home/errors",
+    "value": 1,
+    "_jq": "jq .[5].linescore.innings[4].home daily/2026-04-22.json",
+    "_comment": "P Mohri, throwing error on sacrifice bunt, 1B runner to 3B, Batter runner to 1B, top 5th, Buffaloes at Marines"
+  }
+]

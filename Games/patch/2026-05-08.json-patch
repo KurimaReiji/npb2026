@@ -1,0 +1,43 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/4/away/errors",
+    "value": 1,
+    "_jq": "jq .[0].linescore.innings[4].away daily/2026-05-08.json",
+    "_comment": "P Whitley, throwing error on sacrifice bunt, 1B runner to 3B, Batter runner to 1B, bottom 5th, Giants at Dragons"
+  },
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/3/home/errors",
+    "value": 2,
+    "_jq": "jq .[1].linescore.innings[3].home daily/2026-05-08.json",
+    "_comment": "LF Fukushima, fielding error on single, Batter runner to 3B, top 4th, Baystars at Tigers"
+  },
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/6/away/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[6].away daily/2026-05-08.json",
+    "_comment": "2B Hayashi, throwing error on infield single, Batter runner to 2B, bottom 7th, Baystars at Tigers"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/7/away/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[7].away daily/2026-05-08.json",
+    "_comment": "CF Iwata, throwing error on flyout, 2B runner to 3B, 1B runner to 2B, bottom 8th, Swallows at Carp"
+  },
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/5/home/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[5].home daily/2026-05-08.json",
+    "_comment": "LF Lin, fielding error on single, Batter runner to 2B, top 6th, Eagles at Lions"
+  },
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/7/home/errors",
+    "value": 1,
+    "_comment": "C Wakatsuki, throwing error on stealing, 1B runner to 3B, top 8th, Fighters at Buffaloes"
+  }
+]

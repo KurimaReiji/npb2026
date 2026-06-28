@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/0/away/errors",
+    "value": 1,
+    "_jq": "jq .[4].linescore.innings[0].away daily/2026-04-03.json",
+    "_comment": "LF Nakashima, throwing error on double, Batter runner to 3B, bottom 1st, Eagles at Lions"
+  }
+]

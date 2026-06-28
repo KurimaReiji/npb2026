@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/3/home/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[3].home daily/2026-04-29.json",
+    "_comment": "RF Canario, fielding error on single, 1B runner to 3B, Batter runner to 1B, top 4th, Fighters at Lions"
+  },
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/4/away/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[4].away daily/2026-04-29.json",
+    "_comment": "2B Castro, catching error on sacrifice bunt, 1B runner to 2B, Batter runner to 1B, bottom 5th, Fighters at Lions"
+  }
+]

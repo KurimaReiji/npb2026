@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/3/home/errors",
+    "value": 1,
+    "_jq": "jq .[0].linescore.innings[3].home daily/2026-05-01.json",
+    "_comment": "CF Iwata, fielding error on single, Batter runner to 2B, top 4th, Baystars at Swallows"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/1/away/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[1].away daily/2026-05-01.json",
+    "_comment": "C Kinoshita, throwing error on stealing, 1B runner to 3B, bottom 2nd, Dragons at Carp"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/6/away/errors",
+    "value": 2,
+    "_jq": "jq .[2].linescore.innings[6].away daily/2026-05-01.json",
+    "_comment": "RF Ukai, throwing error on flyout, 3B runner scored, 2B runner to 3B, bottom 7th, Dragons at Carp"
+  },
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/4/away/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[4].away daily/2026-05-01.json",
+    "_comment": "2B Ohta, catching error on pickoff attempt, 2B runner to 3B, bottom 5th, Buffaloes at Fighters"
+  },
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/5/home/errors",
+    "value": 2,
+    "_jq": "jq .[4].linescore.innings[5].home daily/2026-05-01.json",
+    "_comment": "RF Inoue, fielding error on double, Batter runner to 3B, top 6th, Lions at Marines"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/10/home/errors",
+    "value": 1,
+    "_jq": "jq .[0].linescore.innings[10].home daily/2026-04-08.json",
+    "_comment": "1B Mimori, throwing error on infield single, 2B runner scored, top 11th, Dragons at Baystars"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/8/home/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[8].home daily/2026-04-10.json",
+    "_comment": "RF Oda, fielding error on double, 1B runner scored, top 9th, Tigers at Dragons"
+  }
+]

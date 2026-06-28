@@ -1,0 +1,167 @@
+[
+  {
+    "op": "test",
+    "path": "/0/link",
+    "value": "https://npb.jp/scores/2026/0327/g-t-01/",
+    "_comment": "Tigers at Giants"
+  },
+  {
+    "op": "test",
+    "path": "/1/link",
+    "value": "https://npb.jp/scores/2026/0327/db-s-01/",
+    "_comment": "Swallows at Baystars"
+  },
+  {
+    "op": "test",
+    "path": "/1/linescore/teams/home/errors",
+    "value": 1
+  },
+  {
+    "op": "test",
+    "path": "/1/linescore/innings/1/home/errors",
+    "value": 1,
+    "_comment": "1B Viciedo, missed catch error (1B runner to 3B) on pickoff play, top 2nd, Swallows at Baystars"
+  },
+  {
+    "op": "test",
+    "path": "/2/link",
+    "value": "https://npb.jp/scores/2026/0327/c-d-01/",
+    "_comment": "Dragons at Carp"
+  },
+  {
+    "op": "test",
+    "path": "/2/linescore/teams/away/runs",
+    "value": 5
+  },
+  {
+    "op": "test",
+    "path": "/2/linescore/teams/away/leftOnBase",
+    "value": 16
+  },
+  {
+    "op": "test",
+    "path": "/2/linescore/innings/9/home/leftOnBase",
+    "value": 2,
+    "_jq": "jq '.[2].linescore.innings[9].home.leftOnBase' Games/daily/2026-03-27.json",
+    "_comment": "two outs on inning Run scores, lob=2"
+  },
+  {
+    "op": "test",
+    "path": "/2/linescore/teams/home/leftOnBase",
+    "value": 9
+  },
+  {
+    "op": "test",
+    "path": "/2/decisions/loser/jaText",
+    "value": "勝野（0勝1敗）",
+    "_jq": "jq '.[2].decisions.loser' daily/2026-03-27.json"
+  },
+  {
+    "op": "test",
+    "path": "/2/boxscore/away/players/2/person/jaBoxscoreName",
+    "value": "石川昂",
+    "_jq": "jq '.[2].boxscore.away.players[2].person' daily/2026-03-27.json",
+    "_comment": "石川昂"
+  },
+  {
+    "op": "test",
+    "path": "/2/boxscore/away/players/8/person/boxscoreName",
+    "value": "Okabayashi",
+    "_jq": "jq '.[2].boxscore.away.players[8].person' daily/2026-03-27.json",
+    "_comment": "Okabayashi"
+  },
+  {
+    "op": "test",
+    "path": "/2/boxscore/away/players/7/person/boxscoreName",
+    "value": "Katsuno",
+    "_jq": "jq '.[2].boxscore.away.players[7].person' daily/2026-03-27.json",
+    "_comment": "Katsuno"
+  },
+  {
+    "op": "test",
+    "path": "/2/players/away/16/boxscoreName",
+    "value": "Fukunaga",
+    "_jq": "jq '.[2].players.away[16]' daily/2026-03-27.json",
+    "_comment": "Fukunaga"
+  },
+  {
+    "op": "test",
+    "path": "/3/link",
+    "value": "https://npb.jp/scores/2026/0327/m-l-01/",
+    "_comment": "Lions at Marines"
+  },
+  {
+    "op": "test",
+    "path": "/3/linescore/teams/home/errors",
+    "value": 1
+  },
+  {
+    "op": "test",
+    "path": "/3/linescore/innings/8/home/leftOnBase",
+    "value": 0,
+    "_jq": "jq .[3].linescore.innings[8] Games/daily/2026-03-27.json",
+    "_comment": "Bot 9th, not played"
+  },
+  {
+    "op": "test",
+    "path": "/3/linescore/innings/6/home/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[6] Games/daily/2026-03-27.json",
+    "_comment": "P Long, a infield single and a throwing error, top 7th, Lions at Marines"
+  },
+  {
+    "op": "test",
+    "path": "/4/link",
+    "value": "https://npb.jp/scores/2026/0327/b-e-01/",
+    "_comment": "Buffaloes at Eagles"
+  },
+  {
+    "op": "test",
+    "path": "/4/linescore/teams/home/errors",
+    "value": 1
+  },
+  {
+    "op": "test",
+    "path": "/4/linescore/innings/1/away/errors",
+    "value": 0
+  },
+  {
+    "op": "test",
+    "path": "/4/linescore/innings/1/home/errors",
+    "value": 1,
+    "_jq": "jq .[4].linescore.innings[1] Games/daily/2026-03-27.json",
+    "_comment": "2B Ohta, thorwing error, top 2nd, Buffaloes at Eagles"
+  },
+  {
+    "op": "test",
+    "path": "/5/link",
+    "value": "https://npb.jp/scores/2026/0327/h-f-01/",
+    "_comment": "Fighters at Hawks"
+  },
+  {
+    "op": "test",
+    "path": "/5/linescore/teams/home/errors",
+    "value": 2
+  },
+  {
+    "op": "test",
+    "path": "/5/linescore/innings/0/home/errors",
+    "value": 1,
+    "_jq": "jq .[5].linescore.innings Games/daily/2026-03-27.json",
+    "_comment": "3B Kurihara, fielding error, top 1st, Fighters at Hawks"
+  },
+  {
+    "op": "test",
+    "path": "/5/linescore/innings/8/home/errors",
+    "value": 1,
+    "_jq": "jq .[5].linescore.innings Games/daily/2026-03-27.json",
+    "_comment": "3B Kurihara, fielding error, top 9th, Fighters at Hawks"
+  },
+  {
+    "op": "test",
+    "path": "/5/homeRuns/away/1/id",
+    "value": "11815138-2026-01",
+    "_jq": "jq .[5].homeRuns.away[1] daily/2026-03-27.json",
+    "_comment": "Home run, Mannami, 11815138-2026-01"
+  }
+]

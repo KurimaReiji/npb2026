@@ -1,0 +1,9 @@
+[
+  {
+    "op": "test",
+    "path": "/3/plays/68/runs/away",
+    "value": 9,
+    "_jq": "jq .[3].plays[68] daily/2026-04-19.json",
+    "_comment": "Genda hit a grand slam, Lions at Fighters"
+  }
+]

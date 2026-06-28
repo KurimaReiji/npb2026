@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/6/away/errors",
+    "value": 2,
+    "_jq": "jq .[0].linescore.innings[6].away daily/2026-04-21.json",
+    "_comment": "SS Muramatsu, throwing error on infield single, 1B runner to 3B, Batter runner to 2B, bottome 7th, Dragons at Giants"
+  },
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/4/away/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[4].away daily/2026-04-21.json",
+    "_comment": "CF Chikamoto, throwing error on single, Batter runner to 3B, bottome 5th, Tigers at Baystars"
+  }
+]

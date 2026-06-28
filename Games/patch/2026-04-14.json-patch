@@ -1,0 +1,30 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/0/away/errors",
+    "value": 1,
+    "_jq": "jq .[0].linescore.innings[0].away daily/2026-04-14.json",
+    "_comment": "3B Miyazaki, throwing error on infield single, Batter runner to 3B, bottom 1st, Baystars at Swallows"
+  },
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/2/away/errors",
+    "value": 2,
+    "_jq": "jq .[4].linescore.innings[2].away daily/2026-04-14.json",
+    "_comment": "P Sumida, throwing error on sacrifice bunt, 2B runner scored, Batter runner to 1B, bottom 3rd, Lions at Buffaloes"
+  },
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/3/away/errors",
+    "value": 1,
+    "_jq": "jq .[4].linescore.innings[3].away daily/2026-04-14.json",
+    "_comment": "LF Kuwahara, fielding error on double, Batter runner to 3B, bottom 4th, Lions at Buffaloes"
+  },
+  {
+    "op": "replace",
+    "path": "/5/linescore/innings/3/home/errors",
+    "value": 1,
+    "_jq": "jq .[5].linescore.innings[3].home daily/2026-04-14.json",
+    "_comment": "P Stuart Jr., throwing error on pickoff attempt, 1B runner to 2B, top 4th, Eagles at Hawks"
+  }
+]

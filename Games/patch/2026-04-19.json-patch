@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/7/home/errors",
+    "value": 3,
+    "_jq": "jq .[3].linescore.innings[7].home daily/2026-04-19.json",
+    "_comment": "1B Kiyomiya, throwing error on FC, 1B runner to 3B, Batter runner to 2B, CF Nishikawa, throwing error on single, Batter runner to 2B, top 8th, Lions at Fighters"
+  }
+]

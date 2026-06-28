@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/2/away/errors",
+    "value": 1,
+    "_jq": "jq .[0].linescore.innings[2].away daily/2026-04-18.json",
+    "_comment": "LF Cabbage, fielding error on single, Batter runner to 2B, bottom 3rd, Swallows at Giants"
+  }
+]

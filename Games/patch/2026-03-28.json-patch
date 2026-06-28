@@ -1,0 +1,30 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/linescore/innings/0/home/errors",
+    "value": 1,
+    "_jq": "jq .[0].linescore.innings[0] Games/daily/2026-03-28.json",
+    "_comment": "C Kishida, throwing error on stealing 2B, runner to 3B, top 1st, Tigers at Giants"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/0/away/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[0] Games/daily/2026-03-28.json",
+    "_comment": "1B Calixte, fielding error in foul territory, bottom 1st, Dragons at Carp"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/6/away/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[6] Games/daily/2026-03-28.json",
+    "_comment": "P Sakurai, throwing error on sacrifice, bases loaded, bottom 7th, Dragons at Carp"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/7/home/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[7] Games/daily/2026-03-28.json",
+    "_comment": "LF Fabian, fielding error, top 8th, Dragons at Carp"
+  }
+]

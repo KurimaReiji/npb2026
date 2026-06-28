@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/6/away/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[6].away daily/2026-04-01.json",
+    "_comment": "LF Nishikawa, fielding error on single, 1B runner to 3B, bottom 8th, Marines at Fighters"
+  },
+  {
+    "op": "replace",
+    "path": "/4/linescore/innings/2/home/errors",
+    "value": 1,
+    "_jq": "jq .[4].linescore.innings[2].home daily/2026-04-01.json",
+    "_comment": "SS Genda, throwing error on double play, Batter runner to 2B, top 3rd, Buffaloes at Lions"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/1/home/errors",
+    "value": 1,
+    "_comment": "Viciedo, missed catch error on pickoff play, top 2nd, Swallows at Baystars"
+  },
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/6/home/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[6] Games/daily/2026-03-27.json",
+    "_comment": "Long, a infield single and a throwing error, top 7th, Lions at Marines"
+  }
+]

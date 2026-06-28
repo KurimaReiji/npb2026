@@ -1,0 +1,31 @@
+[
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/3/home/errors",
+    "value": 1,
+    "_jq": "jq .[1].linescore.innings[3].home daily/2026-04-07.json",
+    "_comment": "1B Ohyama, throwing error on ground out, 1B runner to 3B, top 4th, Swallows at Tigers"
+  },
+  {
+    "op": "replace",
+    "path": "/1/linescore/innings/5/away/errors",
+    "value": 2,
+    "_jq": "jq .[1].linescore.innings[5].away daily/2026-04-07.json",
+    "_comment": "CF Iwata, fielding error on single, 1B runner to 3B, bottom 6th, Swallows at Tigers"
+  },
+  {
+    "op": "replace",
+    "path": "/2/linescore/innings/1/away/errors",
+    "value": 1,
+    "_jq": "jq .[2].linescore.innings[1].away daily/2026-04-07.json",
+    "_comment": "1B Masuda, fielding error on foul fly, bottom 2nd, Giants at Carp"
+  }
+  ,
+  {
+    "op": "replace",
+    "path": "/3/linescore/innings/3/away/errors",
+    "value": 1,
+    "_jq": "jq .[3].linescore.innings[3].away daily/2026-04-07.json",
+    "_comment": "1B Kiyomiya, fielding error on pickoff attempt, bottom 4th, Fighters at Eagles"
+  }
+]

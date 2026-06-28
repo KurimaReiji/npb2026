@@ -1,0 +1,23 @@
+[
+  {
+    "op": "test",
+    "path": "/0/jaStatus",
+    "value": "【雨天のためコールドゲーム】",
+    "_jq": "jq .[0].jaStatus Games/daily/2026-04-09.json",
+    "_comment": "Completed Early, 2 outs, bot 7th"
+  },
+  {
+    "op": "test",
+    "path": "/0/linescore/teams/away/leftOnBase",
+    "value": 9,
+    "_jq": "jq .[0].linescore.teams.away Games/daily/2026-04-09.json",
+    "_comment": "7 innings"
+  },
+   {
+    "op": "test",
+    "path": "/0/linescore/teams/home/leftOnBase",
+    "value": 8,
+    "_jq": "jq .[0].linescore.teams.home Games/daily/2026-04-09.json",
+    "_comment": "6.2 innings"
+  }
+]
