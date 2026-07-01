@@ -575,6 +575,9 @@ export async function parseGameLinks(raw) {
     .filter((o) => o.anchor.text?.includes("試合終了"))
     .map((o) => o.anchor.href)
     ;
+  if (rows.length !== today.length) {
+    console.error(`Scheduled: ${rows.length || 0}, Finished: ${today.length}`);
+  }
   return [rows, today].flat();
 }
 

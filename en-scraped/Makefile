@@ -11,5 +11,8 @@ today: daily/$(GAMEDAY).json
 daily/%.json: $(SCR) ../scraped/daily/%.json
 	bun $(SCR) $*
 
+2026-%:
+	bun $(SCR) 2026-$*
+
 ../scraped/daily/%.json:
 	$(MAKE) -C ../scraped daily/$*.json
