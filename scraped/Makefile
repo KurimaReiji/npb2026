@@ -1,10 +1,13 @@
 SHELL := /bin/bash
-SCR=get-game-info.bun.js
 GAMEDAY ?= $(shell TZ='America/Los_Angeles' date  --rfc-3339=date)
+SCR := get-game-info.bun.js
 
-.PHONY: today
+.PHONY: today nightly
 
 today:
+	bun $(SCR) $(GAMEDAY)
+
+nightly:
 	bun $(SCR) $(GAMEDAY)
 
 daily/%.json: $(SCR)
