@@ -5,7 +5,7 @@
     "batter": {
       "id": "11815138",
       "jaBoxscoreName": "万波",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Mannami",
       "batSide": "R",
       "teamCode": "F",
       "teamName": "Fighters"
@@ -13,7 +13,7 @@
     "pitcher": {
       "id": "41045136",
       "jaBoxscoreName": "田嶋大",
-      "boxscoreName": "TBA",
+      "boxscoreName": "D.Tajima",
       "pitchHand": "L",
       "teamCode": "B",
       "teamName": "Buffaloes"
@@ -51,7 +51,7 @@
     "batter": {
       "id": "73975136",
       "jaBoxscoreName": "マルティネス",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Martinez",
       "batSide": "R",
       "teamCode": "F",
       "teamName": "Fighters"
@@ -59,7 +59,7 @@
     "pitcher": {
       "id": "41045136",
       "jaBoxscoreName": "田嶋大",
-      "boxscoreName": "TBA",
+      "boxscoreName": "D.Tajima",
       "pitchHand": "L",
       "teamCode": "B",
       "teamName": "Buffaloes"
@@ -97,7 +97,7 @@
     "batter": {
       "id": "71075151",
       "jaBoxscoreName": "佐藤",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Satoh",
       "batSide": "L",
       "teamCode": "M",
       "teamName": "Marines"
@@ -105,7 +105,7 @@
     "pitcher": {
       "id": "31235151",
       "jaBoxscoreName": "瀧中",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Takinaka",
       "pitchHand": "R",
       "teamCode": "E",
       "teamName": "Eagles"
@@ -143,7 +143,7 @@
     "batter": {
       "id": "81885155",
       "jaBoxscoreName": "正木",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Masaki",
       "batSide": "R",
       "teamCode": "H",
       "teamName": "Hawks"
@@ -151,7 +151,7 @@
     "pitcher": {
       "id": "23925152",
       "jaBoxscoreName": "ワイナンス",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Winans",
       "pitchHand": "R",
       "teamCode": "L",
       "teamName": "Lions"
@@ -190,7 +190,7 @@
     "batter": {
       "id": "01705130",
       "jaBoxscoreName": "栗原",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Kurihara",
       "batSide": "L",
       "teamCode": "H",
       "teamName": "Hawks"
@@ -198,7 +198,7 @@
     "pitcher": {
       "id": "23925152",
       "jaBoxscoreName": "ワイナンス",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Winans",
       "pitchHand": "R",
       "teamCode": "L",
       "teamName": "Lions"
@@ -236,7 +236,7 @@
     "batter": {
       "id": "31835133",
       "jaBoxscoreName": "柳田",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Yanagita",
       "batSide": "L",
       "teamCode": "H",
       "teamName": "Hawks"
@@ -244,7 +244,7 @@
     "pitcher": {
       "id": "91395159",
       "jaBoxscoreName": "上田",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Ueda",
       "pitchHand": "R",
       "teamCode": "L",
       "teamName": "Lions"
@@ -282,7 +282,7 @@
     "batter": {
       "id": "41745135",
       "jaBoxscoreName": "近藤",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Kondoh",
       "batSide": "L",
       "teamCode": "H",
       "teamName": "Hawks"
@@ -290,7 +290,7 @@
     "pitcher": {
       "id": "91395159",
       "jaBoxscoreName": "上田",
-      "boxscoreName": "TBA",
+      "boxscoreName": "Ueda",
       "pitchHand": "R",
       "teamCode": "L",
       "teamName": "Lions"

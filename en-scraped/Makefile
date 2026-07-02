@@ -8,8 +8,7 @@ SCR=en-get-game-info.bun.js
 
 today: daily/$(GAMEDAY).json
 
-nightly: 
-	bun $(SCR) $(GAMEDAY)
+nightly: daily/$(GAMEDAY).json
 
 daily/%.json: $(SCR) ../scraped/daily/%.json
 	bun $(SCR) $*
