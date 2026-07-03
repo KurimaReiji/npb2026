@@ -398,7 +398,8 @@
           {
             "person": {
               "id": "61165159",
-              "jaBoxscoreName": "泉口"
+              "jaBoxscoreName": "泉口",
+              "boxscoreName": "Izuguchi"
             },
             "stats": {
               "batting": {
@@ -460,7 +461,8 @@
           {
             "person": {
               "id": "81385150",
-              "jaBoxscoreName": "浦田"
+              "jaBoxscoreName": "浦田",
+              "boxscoreName": "Urata"
             },
             "stats": {
               "batting": {
@@ -517,7 +519,8 @@
           {
             "person": {
               "id": "51955114",
-              "jaBoxscoreName": "坂本勇"
+              "jaBoxscoreName": "坂本勇",
+              "boxscoreName": "H.Sakamoto"
             },
             "stats": {
               "batting": {
@@ -569,7 +572,8 @@
           {
             "person": {
               "id": "73375134",
-              "jaBoxscoreName": "吉川"
+              "jaBoxscoreName": "吉川",
+              "boxscoreName": "Yoshikawa"
             },
             "stats": {
               "batting": {
@@ -631,7 +635,8 @@
           {
             "person": {
               "id": "63565152",
-              "jaBoxscoreName": "ダルベック"
+              "jaBoxscoreName": "ダルベック",
+              "boxscoreName": "Dalbec"
             },
             "stats": {
               "batting": {
@@ -693,7 +698,8 @@
           {
             "person": {
               "id": "91595136",
-              "jaBoxscoreName": "岸田"
+              "jaBoxscoreName": "岸田",
+              "boxscoreName": "Kishida"
             },
             "stats": {
               "batting": {
@@ -755,7 +761,8 @@
           {
             "person": {
               "id": "73575150",
-              "jaBoxscoreName": "キャベッジ"
+              "jaBoxscoreName": "キャベッジ",
+              "boxscoreName": "Cabbage"
             },
             "stats": {
               "batting": {
@@ -817,7 +824,8 @@
           {
             "person": {
               "id": "51655153",
-              "jaBoxscoreName": "中山"
+              "jaBoxscoreName": "中山",
+              "boxscoreName": "Nakayama"
             },
             "stats": {
               "batting": {
@@ -874,7 +882,8 @@
           {
             "person": {
               "id": "21425116",
-              "jaBoxscoreName": "丸"
+              "jaBoxscoreName": "丸",
+              "boxscoreName": "Maru"
             },
             "stats": {
               "batting": {
@@ -921,7 +930,8 @@
           {
             "person": {
               "id": "21625135",
-              "jaBoxscoreName": "松本"
+              "jaBoxscoreName": "松本",
+              "boxscoreName": "Matsumoto"
             },
             "stats": {
               "batting": {
@@ -984,7 +994,8 @@
           {
             "person": {
               "id": "51955159",
-              "jaBoxscoreName": "佐々木"
+              "jaBoxscoreName": "佐々木",
+              "boxscoreName": "Sasaki"
             },
             "stats": {
               "batting": {
@@ -1047,7 +1058,8 @@
           {
             "person": {
               "id": "71275152",
-              "jaBoxscoreName": "竹丸"
+              "jaBoxscoreName": "竹丸",
+              "boxscoreName": "Takemaru"
             },
             "stats": {
               "batting": {},
@@ -1193,7 +1205,8 @@
           {
             "person": {
               "id": "63165155",
-              "jaBoxscoreName": "水野"
+              "jaBoxscoreName": "水野",
+              "boxscoreName": "Mizuno"
             },
             "stats": {
               "batting": {
@@ -1255,7 +1268,8 @@
           {
             "person": {
               "id": "21925151",
-              "jaBoxscoreName": "郡司"
+              "jaBoxscoreName": "郡司",
+              "boxscoreName": "Gunji"
             },
             "stats": {
               "batting": {
@@ -1319,7 +1333,8 @@
           {
             "person": {
               "id": "63165150",
-              "jaBoxscoreName": "山縣"
+              "jaBoxscoreName": "山縣",
+              "boxscoreName": "Yamagata"
             },
             "stats": {
               "batting": {
@@ -1360,7 +1375,8 @@
           {
             "person": {
               "id": "73075159",
-              "jaBoxscoreName": "レイエス"
+              "jaBoxscoreName": "レイエス",
+              "boxscoreName": "Reyes"
             },
             "stats": {
               "batting": {
@@ -1417,7 +1433,8 @@
           {
             "person": {
               "id": "43945152",
-              "jaBoxscoreName": "カストロ"
+              "jaBoxscoreName": "カストロ",
+              "boxscoreName": "Castro"
             },
             "stats": {
               "batting": {
@@ -1479,7 +1496,8 @@
           {
             "person": {
               "id": "73375157",
-              "jaBoxscoreName": "矢澤"
+              "jaBoxscoreName": "矢澤",
+              "boxscoreName": "Yazawa"
             },
             "stats": {
               "batting": {
@@ -1520,7 +1538,8 @@
           {
             "person": {
               "id": "11815138",
-              "jaBoxscoreName": "万波"
+              "jaBoxscoreName": "万波",
+              "boxscoreName": "Mannami"
             },
             "stats": {
               "batting": {
@@ -1579,7 +1598,8 @@
           {
             "person": {
               "id": "41545136",
-              "jaBoxscoreName": "清宮幸"
+              "jaBoxscoreName": "清宮幸",
+              "boxscoreName": "Kiyomiya"
             },
             "stats": {
               "batting": {
@@ -1636,7 +1656,8 @@
           {
             "person": {
               "id": "31435138",
-              "jaBoxscoreName": "野村"
+              "jaBoxscoreName": "野村",
+              "boxscoreName": "Nomura"
             },
             "stats": {
               "batting": {
@@ -1693,7 +1714,8 @@
           {
             "person": {
               "id": "11315153",
-              "jaBoxscoreName": "五十幡"
+              "jaBoxscoreName": "五十幡",
+              "boxscoreName": "Isobata"
             },
             "stats": {
               "batting": {
@@ -1734,7 +1756,8 @@
           {
             "person": {
               "id": "11015159",
-              "jaBoxscoreName": "進藤"
+              "jaBoxscoreName": "進藤",
+              "boxscoreName": "Shintoh"
             },
             "stats": {
               "batting": {
@@ -1791,7 +1814,8 @@
           {
             "person": {
               "id": "31435157",
-              "jaBoxscoreName": "奈良間"
+              "jaBoxscoreName": "奈良間",
+              "boxscoreName": "Narama"
             },
             "stats": {
               "batting": {
@@ -1848,7 +1872,8 @@
           {
             "person": {
               "id": "51755155",
-              "jaBoxscoreName": "北山"
+              "jaBoxscoreName": "北山",
+              "boxscoreName": "Kitayama"
             },
             "stats": {
               "batting": {},
@@ -1875,7 +1900,8 @@
           {
             "person": {
               "id": "51055133",
-              "jaBoxscoreName": "島本"
+              "jaBoxscoreName": "島本",
+              "boxscoreName": "Shimamoto"
             },
             "stats": {
               "batting": {},
@@ -1902,7 +1928,8 @@
           {
             "person": {
               "id": "31235134",
-              "jaBoxscoreName": "田中"
+              "jaBoxscoreName": "田中",
+              "boxscoreName": "Tanaka"
             },
             "stats": {
               "batting": {},
@@ -1929,7 +1956,8 @@
           {
             "person": {
               "id": "63365155",
-              "jaBoxscoreName": "柳川"
+              "jaBoxscoreName": "柳川",
+              "boxscoreName": "Yanagawa"
             },
             "stats": {
               "batting": {},
@@ -4110,6 +4138,7 @@
           "jerseyNumber": "21",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Takemaru",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -4220,6 +4249,7 @@
           "jerseyNumber": "27",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kishida",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4240,6 +4270,7 @@
           "jerseyNumber": "2",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Yoshikawa",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4260,6 +4291,7 @@
           "jerseyNumber": "6",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "H.Sakamoto",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4270,6 +4302,7 @@
           "jerseyNumber": "29",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Dalbec",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4280,6 +4313,7 @@
           "jerseyNumber": "32",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Urata",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4290,6 +4324,7 @@
           "jerseyNumber": "35",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Izuguchi",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4300,6 +4335,7 @@
           "jerseyNumber": "8",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Maru",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4310,6 +4346,7 @@
           "jerseyNumber": "9",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Matsumoto",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4320,6 +4357,7 @@
           "jerseyNumber": "13",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Cabbage",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4330,6 +4368,7 @@
           "jerseyNumber": "40",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Nakayama",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4340,6 +4379,7 @@
           "jerseyNumber": "44",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Sasaki",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4362,6 +4402,7 @@
           "jerseyNumber": "12",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Yazawa",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -4372,6 +4413,7 @@
           "jerseyNumber": "15",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kitayama",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4382,6 +4424,7 @@
           "jerseyNumber": "26",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Tanaka",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4412,6 +4455,7 @@
           "jerseyNumber": "40",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Shimamoto",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -4432,6 +4476,7 @@
           "jerseyNumber": "47",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yanagawa",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4472,6 +4517,7 @@
           "jerseyNumber": "3",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Gunji",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4482,6 +4528,7 @@
           "jerseyNumber": "33",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Shintoh",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4512,6 +4559,7 @@
           "jerseyNumber": "5",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Nomura",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4522,6 +4570,7 @@
           "jerseyNumber": "6",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Castro",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4532,6 +4581,7 @@
           "jerseyNumber": "21",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kiyomiya",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4542,6 +4592,7 @@
           "jerseyNumber": "43",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Mizuno",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4552,6 +4603,7 @@
           "jerseyNumber": "54",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamagata",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4572,6 +4624,7 @@
           "jerseyNumber": "58",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Narama",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4592,6 +4645,7 @@
           "jerseyNumber": "50",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Isobata",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -4602,6 +4656,7 @@
           "jerseyNumber": "66",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Mannami",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -4612,6 +4667,7 @@
           "jerseyNumber": "99",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Reyes",
           "batSide": "R",
           "pitchHand": "R"
         }
@@ -5028,7 +5084,8 @@
           {
             "person": {
               "id": "51455151",
-              "jaBoxscoreName": "長岡"
+              "jaBoxscoreName": "長岡",
+              "boxscoreName": "Nagaoka"
             },
             "stats": {
               "batting": {
@@ -5090,7 +5147,8 @@
           {
             "person": {
               "id": "81185159",
-              "jaBoxscoreName": "伊藤"
+              "jaBoxscoreName": "伊藤",
+              "boxscoreName": "Itoh"
             },
             "stats": {
               "batting": {
@@ -5136,7 +5194,8 @@
           {
             "person": {
               "id": "53755153",
-              "jaBoxscoreName": "サンタナ"
+              "jaBoxscoreName": "サンタナ",
+              "boxscoreName": "Santana"
             },
             "stats": {
               "batting": {
@@ -5199,7 +5258,8 @@
           {
             "person": {
               "id": "01005159",
-              "jaBoxscoreName": "鈴木叶"
+              "jaBoxscoreName": "鈴木叶",
+              "boxscoreName": "K.Suzuki"
             },
             "stats": {
               "batting": {
@@ -5261,7 +5321,8 @@
           {
             "person": {
               "id": "23525153",
-              "jaBoxscoreName": "オスナ"
+              "jaBoxscoreName": "オスナ",
+              "boxscoreName": "Osuna"
             },
             "stats": {
               "batting": {
@@ -5324,7 +5385,8 @@
           {
             "person": {
               "id": "71975136",
-              "jaBoxscoreName": "塩見"
+              "jaBoxscoreName": "塩見",
+              "boxscoreName": "Shiomi"
             },
             "stats": {
               "batting": {
@@ -5381,7 +5443,8 @@
           {
             "person": {
               "id": "51355155",
-              "jaBoxscoreName": "岩田"
+              "jaBoxscoreName": "岩田",
+              "boxscoreName": "Iwata"
             },
             "stats": {
               "batting": {
@@ -5428,7 +5491,8 @@
           {
             "person": {
               "id": "11815136",
-              "jaBoxscoreName": "増田"
+              "jaBoxscoreName": "増田",
+              "boxscoreName": "Masuda"
             },
             "stats": {
               "batting": {
@@ -5490,7 +5554,8 @@
           {
             "person": {
               "id": "91595153",
-              "jaBoxscoreName": "内山"
+              "jaBoxscoreName": "内山",
+              "boxscoreName": "Uchiyama"
             },
             "stats": {
               "batting": {
@@ -5552,7 +5617,8 @@
           {
             "person": {
               "id": "71275151",
-              "jaBoxscoreName": "武岡"
+              "jaBoxscoreName": "武岡",
+              "boxscoreName": "Takeoka"
             },
             "stats": {
               "batting": {
@@ -5614,7 +5680,8 @@
           {
             "person": {
               "id": "23125157",
-              "jaBoxscoreName": "モンテル"
+              "jaBoxscoreName": "モンテル",
+              "boxscoreName": "Higuma"
             },
             "stats": {
               "batting": {
@@ -5677,7 +5744,8 @@
           {
             "person": {
               "id": "31735151",
-              "jaBoxscoreName": "奥川"
+              "jaBoxscoreName": "奥川",
+              "boxscoreName": "Okugawa"
             },
             "stats": {
               "batting": {},
@@ -5704,7 +5772,8 @@
           {
             "person": {
               "id": "11815134",
-              "jaBoxscoreName": "星"
+              "jaBoxscoreName": "星",
+              "boxscoreName": "Hoshi"
             },
             "stats": {
               "batting": {},
@@ -5731,7 +5800,8 @@
           {
             "person": {
               "id": "51955138",
-              "jaBoxscoreName": "清水"
+              "jaBoxscoreName": "清水",
+              "boxscoreName": "Shimizu"
             },
             "stats": {
               "batting": {},
@@ -5880,7 +5950,8 @@
           {
             "person": {
               "id": "11015157",
-              "jaBoxscoreName": "平良"
+              "jaBoxscoreName": "平良",
+              "boxscoreName": "Taira"
             },
             "stats": {
               "batting": {
@@ -5942,7 +6013,8 @@
           {
             "person": {
               "id": "21425159",
-              "jaBoxscoreName": "中島"
+              "jaBoxscoreName": "中島",
+              "boxscoreName": "Nakashima"
             },
             "stats": {
               "batting": {
@@ -6004,7 +6076,8 @@
           {
             "person": {
               "id": "11015138",
-              "jaBoxscoreName": "辰己"
+              "jaBoxscoreName": "辰己",
+              "boxscoreName": "Tatsumi"
             },
             "stats": {
               "batting": {
@@ -6067,7 +6140,8 @@
           {
             "person": {
               "id": "51155118",
-              "jaBoxscoreName": "浅村"
+              "jaBoxscoreName": "浅村",
+              "boxscoreName": "Asamura"
             },
             "stats": {
               "batting": {
@@ -6130,7 +6204,8 @@
           {
             "person": {
               "id": "61965151",
-              "jaBoxscoreName": "小深田"
+              "jaBoxscoreName": "小深田",
+              "boxscoreName": "Kobukata"
             },
             "stats": {
               "batting": {
@@ -6171,7 +6246,8 @@
           {
             "person": {
               "id": "41845132",
-              "jaBoxscoreName": "村林"
+              "jaBoxscoreName": "村林",
+              "boxscoreName": "Murabayashi"
             },
             "stats": {
               "batting": {
@@ -6233,7 +6309,8 @@
           {
             "person": {
               "id": "01905151",
-              "jaBoxscoreName": "黒川"
+              "jaBoxscoreName": "黒川",
+              "boxscoreName": "Kurokawa"
             },
             "stats": {
               "batting": {
@@ -6290,7 +6367,8 @@
           {
             "person": {
               "id": "73775152",
-              "jaBoxscoreName": "マッカスカー"
+              "jaBoxscoreName": "マッカスカー",
+              "boxscoreName": "McCusker"
             },
             "stats": {
               "batting": {
@@ -6347,7 +6425,8 @@
           {
             "person": {
               "id": "11815132",
-              "jaBoxscoreName": "堀内"
+              "jaBoxscoreName": "堀内",
+              "boxscoreName": "Horiuchi"
             },
             "stats": {
               "batting": {
@@ -6404,7 +6483,8 @@
           {
             "person": {
               "id": "91095151",
-              "jaBoxscoreName": "佐藤"
+              "jaBoxscoreName": "佐藤",
+              "boxscoreName": "Sato"
             },
             "stats": {
               "batting": {
@@ -6462,7 +6542,8 @@
           {
             "person": {
               "id": "71875153",
-              "jaBoxscoreName": "藤井"
+              "jaBoxscoreName": "藤井",
+              "boxscoreName": "Fujii"
             },
             "stats": {
               "batting": {},
@@ -6489,7 +6570,8 @@
           {
             "person": {
               "id": "61465155",
-              "jaBoxscoreName": "西垣"
+              "jaBoxscoreName": "西垣",
+              "boxscoreName": "Nishigaki"
             },
             "stats": {
               "batting": {},
@@ -6515,7 +6597,8 @@
           {
             "person": {
               "id": "71775152",
-              "jaBoxscoreName": "九谷"
+              "jaBoxscoreName": "九谷",
+              "boxscoreName": "Kutani"
             },
             "stats": {
               "batting": {},
@@ -6541,7 +6624,8 @@
           {
             "person": {
               "id": "81985155",
-              "jaBoxscoreName": "柴田"
+              "jaBoxscoreName": "柴田",
+              "boxscoreName": "Shibata"
             },
             "stats": {
               "batting": {},
@@ -6567,7 +6651,8 @@
           {
             "person": {
               "id": "21525139",
-              "jaBoxscoreName": "加治屋"
+              "jaBoxscoreName": "加治屋",
+              "boxscoreName": "Kajiya"
             },
             "stats": {
               "batting": {},
@@ -6593,7 +6678,8 @@
           {
             "person": {
               "id": "61665134",
-              "jaBoxscoreName": "藤平"
+              "jaBoxscoreName": "藤平",
+              "boxscoreName": "Fujihira"
             },
             "stats": {
               "batting": {},
@@ -8871,6 +8957,7 @@
           "jerseyNumber": "17",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Shimizu",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -8881,6 +8968,7 @@
           "jerseyNumber": "18",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Okugawa",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -8891,6 +8979,7 @@
           "jerseyNumber": "24",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Hoshi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -8981,6 +9070,7 @@
           "jerseyNumber": "65",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "K.Suzuki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -8991,6 +9081,7 @@
           "jerseyNumber": "3",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Uchiyama",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9011,6 +9102,7 @@
           "jerseyNumber": "7",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Nagaoka",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9031,6 +9123,7 @@
           "jerseyNumber": "13",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Osuna",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9051,6 +9144,7 @@
           "jerseyNumber": "60",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Takeoka",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9061,6 +9155,7 @@
           "jerseyNumber": "67",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Itoh",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9071,6 +9166,7 @@
           "jerseyNumber": "9",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Shiomi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9081,6 +9177,7 @@
           "jerseyNumber": "25",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Santana",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9091,6 +9188,7 @@
           "jerseyNumber": "63",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Masuda",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9101,6 +9199,7 @@
           "jerseyNumber": "64",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Iwata",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -9111,6 +9210,7 @@
           "jerseyNumber": "90",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Higuma",
           "batSide": "R",
           "pitchHand": "R"
         }
@@ -9133,6 +9233,7 @@
           "jerseyNumber": "41",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kajiya",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9143,6 +9244,7 @@
           "jerseyNumber": "45",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kutani",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9153,6 +9255,7 @@
           "jerseyNumber": "46",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Fujihira",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9163,6 +9266,7 @@
           "jerseyNumber": "47",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Fujii",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -9173,6 +9277,7 @@
           "jerseyNumber": "49",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Nishigaki",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9213,6 +9318,7 @@
           "jerseyNumber": "71",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Shibata",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9243,6 +9349,7 @@
           "jerseyNumber": "65",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Horiuchi",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9253,6 +9360,7 @@
           "jerseyNumber": "0",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kobukata",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9263,6 +9371,7 @@
           "jerseyNumber": "3",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Asamura",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9273,6 +9382,7 @@
           "jerseyNumber": "6",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Murabayashi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9293,6 +9403,7 @@
           "jerseyNumber": "24",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kurokawa",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9313,6 +9424,7 @@
           "jerseyNumber": "48",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Taira",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9333,6 +9445,7 @@
           "jerseyNumber": "8",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Tatsumi",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9343,6 +9456,7 @@
           "jerseyNumber": "32",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Nakashima",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -9353,6 +9467,7 @@
           "jerseyNumber": "34",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "McCusker",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9363,6 +9478,7 @@
           "jerseyNumber": "38",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Sato",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -9803,7 +9919,8 @@
           {
             "person": {
               "id": "51555151",
-              "jaBoxscoreName": "蝦名"
+              "jaBoxscoreName": "蝦名",
+              "boxscoreName": "Ebina"
             },
             "stats": {
               "batting": {
@@ -9878,7 +9995,8 @@
           {
             "person": {
               "id": "33535159",
-              "jaBoxscoreName": "度会"
+              "jaBoxscoreName": "度会",
+              "boxscoreName": "Watarai"
             },
             "stats": {
               "batting": {
@@ -9950,7 +10068,8 @@
           {
             "person": {
               "id": "91995134",
-              "jaBoxscoreName": "佐野"
+              "jaBoxscoreName": "佐野",
+              "boxscoreName": "Sano"
             },
             "stats": {
               "batting": {
@@ -10019,7 +10138,8 @@
           {
             "person": {
               "id": "51455137",
-              "jaBoxscoreName": "宮﨑"
+              "jaBoxscoreName": "宮﨑",
+              "boxscoreName": "Miyazaki"
             },
             "stats": {
               "batting": {
@@ -10083,7 +10203,8 @@
           {
             "person": {
               "id": "41945131",
-              "jaBoxscoreName": "筒香"
+              "jaBoxscoreName": "筒香",
+              "boxscoreName": "Tsutsugoh"
             },
             "stats": {
               "batting": {
@@ -10146,7 +10267,8 @@
           {
             "person": {
               "id": "41945132",
-              "jaBoxscoreName": "柴田"
+              "jaBoxscoreName": "柴田",
+              "boxscoreName": "Shibata"
             },
             "stats": {
               "batting": {
@@ -10187,7 +10309,8 @@
           {
             "person": {
               "id": "41545138",
-              "jaBoxscoreName": "勝又"
+              "jaBoxscoreName": "勝又",
+              "boxscoreName": "Katsumata"
             },
             "stats": {
               "batting": {
@@ -10249,7 +10372,8 @@
           {
             "person": {
               "id": "71575136",
-              "jaBoxscoreName": "神里"
+              "jaBoxscoreName": "神里",
+              "boxscoreName": "Kamizato"
             },
             "stats": {
               "batting": {
@@ -10290,7 +10414,8 @@
           {
             "person": {
               "id": "91195159",
-              "jaBoxscoreName": "石上"
+              "jaBoxscoreName": "石上",
+              "boxscoreName": "Ishikami"
             },
             "stats": {
               "batting": {
@@ -10352,7 +10477,8 @@
           {
             "person": {
               "id": "21825157",
-              "jaBoxscoreName": "松尾"
+              "jaBoxscoreName": "松尾",
+              "boxscoreName": "Matsuo"
             },
             "stats": {
               "batting": {
@@ -10415,7 +10541,8 @@
           {
             "person": {
               "id": "33135134",
-              "jaBoxscoreName": "三森"
+              "jaBoxscoreName": "三森",
+              "boxscoreName": "Mimori"
             },
             "stats": {
               "batting": {
@@ -10478,7 +10605,8 @@
           {
             "person": {
               "id": "61365136",
-              "jaBoxscoreName": "尾形"
+              "jaBoxscoreName": "尾形",
+              "boxscoreName": "Ogata"
             },
             "stats": {
               "batting": {},
@@ -10505,7 +10633,8 @@
           {
             "person": {
               "id": "21225136",
-              "jaBoxscoreName": "中川虎"
+              "jaBoxscoreName": "中川虎",
+              "boxscoreName": "K.Nakagawa"
             },
             "stats": {
               "batting": {},
@@ -10531,7 +10660,8 @@
           {
             "person": {
               "id": "53955152",
-              "jaBoxscoreName": "ルイーズ"
+              "jaBoxscoreName": "ルイーズ",
+              "boxscoreName": "Ruiz"
             },
             "stats": {
               "batting": {},
@@ -10557,7 +10687,8 @@
           {
             "person": {
               "id": "93995152",
-              "jaBoxscoreName": "レイノルズ"
+              "jaBoxscoreName": "レイノルズ",
+              "boxscoreName": "Reynolds"
             },
             "stats": {
               "batting": {},
@@ -10583,7 +10714,8 @@
           {
             "person": {
               "id": "41145151",
-              "jaBoxscoreName": "伊勢"
+              "jaBoxscoreName": "伊勢",
+              "boxscoreName": "Ise"
             },
             "stats": {
               "batting": {},
@@ -10729,7 +10861,8 @@
           {
             "person": {
               "id": "23325152",
-              "jaBoxscoreName": "カナリオ"
+              "jaBoxscoreName": "カナリオ",
+              "boxscoreName": "Canario"
             },
             "stats": {
               "batting": {
@@ -10791,7 +10924,8 @@
           {
             "person": {
               "id": "51255155",
-              "jaBoxscoreName": "滝澤"
+              "jaBoxscoreName": "滝澤",
+              "boxscoreName": "Takizawa"
             },
             "stats": {
               "batting": {
@@ -10853,7 +10987,8 @@
           {
             "person": {
               "id": "51755135",
-              "jaBoxscoreName": "桑原"
+              "jaBoxscoreName": "桑原",
+              "boxscoreName": "Kuwahara"
             },
             "stats": {
               "batting": {
@@ -10915,7 +11050,8 @@
           {
             "person": {
               "id": "53755150",
-              "jaBoxscoreName": "ネビン"
+              "jaBoxscoreName": "ネビン",
+              "boxscoreName": "Nevin"
             },
             "stats": {
               "batting": {
@@ -10977,7 +11113,8 @@
           {
             "person": {
               "id": "41745152",
-              "jaBoxscoreName": "小島"
+              "jaBoxscoreName": "小島",
+              "boxscoreName": "Kojima"
             },
             "stats": {
               "batting": {
@@ -11039,7 +11176,8 @@
           {
             "person": {
               "id": "81785155",
-              "jaBoxscoreName": "古賀悠"
+              "jaBoxscoreName": "古賀悠",
+              "boxscoreName": "Y.Koga"
             },
             "stats": {
               "batting": {
@@ -11101,7 +11239,8 @@
           {
             "person": {
               "id": "83385150",
-              "jaBoxscoreName": "渡部"
+              "jaBoxscoreName": "渡部",
+              "boxscoreName": "S.Watanabe"
             },
             "stats": {
               "batting": {
@@ -11158,7 +11297,8 @@
           {
             "person": {
               "id": "51955151",
-              "jaBoxscoreName": "岸"
+              "jaBoxscoreName": "岸",
+              "boxscoreName": "Kishi"
             },
             "stats": {
               "batting": {
@@ -11215,7 +11355,8 @@
           {
             "person": {
               "id": "21125134",
-              "jaBoxscoreName": "石井"
+              "jaBoxscoreName": "石井",
+              "boxscoreName": "Ishii"
             },
             "stats": {
               "batting": {
@@ -11272,7 +11413,8 @@
           {
             "person": {
               "id": "23925152",
-              "jaBoxscoreName": "ワイナンス"
+              "jaBoxscoreName": "ワイナンス",
+              "boxscoreName": "Winans"
             },
             "stats": {
               "batting": {},
@@ -11299,7 +11441,8 @@
           {
             "person": {
               "id": "61465151",
-              "jaBoxscoreName": "浜屋"
+              "jaBoxscoreName": "浜屋",
+              "boxscoreName": "Hamaya"
             },
             "stats": {
               "batting": {},
@@ -11325,7 +11468,8 @@
           {
             "person": {
               "id": "51155157",
-              "jaBoxscoreName": "青山"
+              "jaBoxscoreName": "青山",
+              "boxscoreName": "Aoyama"
             },
             "stats": {
               "batting": {},
@@ -11351,7 +11495,8 @@
           {
             "person": {
               "id": "23125153",
-              "jaBoxscoreName": "豆田"
+              "jaBoxscoreName": "豆田",
+              "boxscoreName": "Mameda"
             },
             "stats": {
               "batting": {},
@@ -11377,7 +11522,8 @@
           {
             "person": {
               "id": "91395159",
-              "jaBoxscoreName": "上田"
+              "jaBoxscoreName": "上田",
+              "boxscoreName": "Ueda"
             },
             "stats": {
               "batting": {},
@@ -13812,6 +13958,7 @@
           "jerseyNumber": "13",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ise",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -13842,6 +13989,7 @@
           "jerseyNumber": "36",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Ogata",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -13852,6 +14000,7 @@
           "jerseyNumber": "49",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ruiz",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -13862,6 +14011,7 @@
           "jerseyNumber": "62",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Reynolds",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -13872,6 +14022,7 @@
           "jerseyNumber": "64",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "K.Nakagawa",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -13912,6 +14063,7 @@
           "jerseyNumber": "5",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Matsuo",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -13952,6 +14104,7 @@
           "jerseyNumber": "25",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Tsutsugoh",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -13962,6 +14115,7 @@
           "jerseyNumber": "26",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Mimori",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -13972,6 +14126,7 @@
           "jerseyNumber": "31",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Shibata",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -13992,6 +14147,7 @@
           "jerseyNumber": "44",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Ishikami",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -14002,6 +14158,7 @@
           "jerseyNumber": "51",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Miyazaki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14012,6 +14169,7 @@
           "jerseyNumber": "4",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Watarai",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -14022,6 +14180,7 @@
           "jerseyNumber": "7",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Sano",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -14032,6 +14191,7 @@
           "jerseyNumber": "8",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kamizato",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -14042,6 +14202,7 @@
           "jerseyNumber": "28",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Katsumata",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -14052,6 +14213,7 @@
           "jerseyNumber": "61",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ebina",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14074,6 +14236,7 @@
           "jerseyNumber": "11",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ueda",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14104,6 +14267,7 @@
           "jerseyNumber": "29",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Aoyama",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14114,6 +14278,7 @@
           "jerseyNumber": "30",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Winans",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14154,6 +14319,7 @@
           "jerseyNumber": "70",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Mameda",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14164,6 +14330,7 @@
           "jerseyNumber": "90",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Hamaya",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -14174,6 +14341,7 @@
           "jerseyNumber": "10",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kojima",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -14184,6 +14352,7 @@
           "jerseyNumber": "22",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Y.Koga",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14204,6 +14373,7 @@
           "jerseyNumber": "4",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Ishii",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -14224,6 +14394,7 @@
           "jerseyNumber": "26",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Nevin",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14254,6 +14425,7 @@
           "jerseyNumber": "62",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Takizawa",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -14264,6 +14436,7 @@
           "jerseyNumber": "7",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kuwahara",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14274,6 +14447,7 @@
           "jerseyNumber": "8",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "S.Watanabe",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14284,6 +14458,7 @@
           "jerseyNumber": "25",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Canario",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -14324,6 +14499,7 @@
           "jerseyNumber": "68",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kishi",
           "batSide": "R",
           "pitchHand": "R"
         }
@@ -14747,7 +14923,8 @@
           {
             "person": {
               "id": "41445153",
-              "jaBoxscoreName": "中野"
+              "jaBoxscoreName": "中野",
+              "boxscoreName": "Nakano"
             },
             "stats": {
               "batting": {
@@ -14809,7 +14986,8 @@
           {
             "person": {
               "id": "43145157",
-              "jaBoxscoreName": "森下"
+              "jaBoxscoreName": "森下",
+              "boxscoreName": "Morishita"
             },
             "stats": {
               "batting": {
@@ -14872,7 +15050,8 @@
           {
             "person": {
               "id": "41045153",
-              "jaBoxscoreName": "佐藤"
+              "jaBoxscoreName": "佐藤",
+              "boxscoreName": "Sato"
             },
             "stats": {
               "batting": {
@@ -14934,7 +15113,8 @@
           {
             "person": {
               "id": "21325134",
-              "jaBoxscoreName": "大山"
+              "jaBoxscoreName": "大山",
+              "boxscoreName": "Ohyama"
             },
             "stats": {
               "batting": {
@@ -14996,7 +15176,8 @@
           {
             "person": {
               "id": "91295152",
-              "jaBoxscoreName": "立石"
+              "jaBoxscoreName": "立石",
+              "boxscoreName": "Tateishi"
             },
             "stats": {
               "batting": {
@@ -15058,7 +15239,8 @@
           {
             "person": {
               "id": "41245153",
-              "jaBoxscoreName": "髙寺"
+              "jaBoxscoreName": "髙寺",
+              "boxscoreName": "Takatera"
             },
             "stats": {
               "batting": {
@@ -15120,7 +15302,8 @@
           {
             "person": {
               "id": "83585152",
-              "jaBoxscoreName": "ディベイニー"
+              "jaBoxscoreName": "ディベイニー",
+              "boxscoreName": "Devanney"
             },
             "stats": {
               "batting": {
@@ -15182,7 +15365,8 @@
           {
             "person": {
               "id": "81585136",
-              "jaBoxscoreName": "熊谷"
+              "jaBoxscoreName": "熊谷",
+              "boxscoreName": "Kumagai"
             },
             "stats": {
               "batting": {
@@ -15239,7 +15423,8 @@
           {
             "person": {
               "id": "31235150",
-              "jaBoxscoreName": "嶋村"
+              "jaBoxscoreName": "嶋村",
+              "boxscoreName": "Shimamura"
             },
             "stats": {
               "batting": {
@@ -15286,7 +15471,8 @@
           {
             "person": {
               "id": "91995136",
-              "jaBoxscoreName": "島田"
+              "jaBoxscoreName": "島田",
+              "boxscoreName": "Shimada"
             },
             "stats": {
               "batting": {
@@ -15327,7 +15513,8 @@
           {
             "person": {
               "id": "21325139",
-              "jaBoxscoreName": "梅野"
+              "jaBoxscoreName": "梅野",
+              "boxscoreName": "Umeno"
             },
             "stats": {
               "batting": {
@@ -15384,7 +15571,8 @@
           {
             "person": {
               "id": "31735138",
-              "jaBoxscoreName": "木浪"
+              "jaBoxscoreName": "木浪",
+              "boxscoreName": "Kinami"
             },
             "stats": {
               "batting": {
@@ -15431,7 +15619,8 @@
           {
             "person": {
               "id": "41745134",
-              "jaBoxscoreName": "才木"
+              "jaBoxscoreName": "才木",
+              "boxscoreName": "Saiki"
             },
             "stats": {
               "batting": {},
@@ -15457,7 +15646,8 @@
           {
             "person": {
               "id": "31635134",
-              "jaBoxscoreName": "畠"
+              "jaBoxscoreName": "畠",
+              "boxscoreName": "Hatake"
             },
             "stats": {
               "batting": {},
@@ -15484,7 +15674,8 @@
           {
             "person": {
               "id": "03705152",
-              "jaBoxscoreName": "モレッタ"
+              "jaBoxscoreName": "モレッタ",
+              "boxscoreName": "Moreta"
             },
             "stats": {
               "batting": {},
@@ -15511,7 +15702,8 @@
           {
             "person": {
               "id": "91795151",
-              "jaBoxscoreName": "及川"
+              "jaBoxscoreName": "及川",
+              "boxscoreName": "Oyokawa"
             },
             "stats": {
               "batting": {},
@@ -15658,7 +15850,8 @@
           {
             "person": {
               "id": "11715153",
-              "jaBoxscoreName": "小川"
+              "jaBoxscoreName": "小川",
+              "boxscoreName": "Ogawa"
             },
             "stats": {
               "batting": {
@@ -15720,7 +15913,8 @@
           {
             "person": {
               "id": "71275157",
-              "jaBoxscoreName": "友杉"
+              "jaBoxscoreName": "友杉",
+              "boxscoreName": "Tomosugi"
             },
             "stats": {
               "batting": {
@@ -15782,7 +15976,8 @@
           {
             "person": {
               "id": "21625150",
-              "jaBoxscoreName": "西川"
+              "jaBoxscoreName": "西川",
+              "boxscoreName": "Nishikawa"
             },
             "stats": {
               "batting": {
@@ -15849,7 +16044,8 @@
           {
             "person": {
               "id": "91895138",
-              "jaBoxscoreName": "山口"
+              "jaBoxscoreName": "山口",
+              "boxscoreName": "Yamaguchi"
             },
             "stats": {
               "batting": {
@@ -15914,7 +16110,8 @@
           {
             "person": {
               "id": "33535153",
-              "jaBoxscoreName": "山本"
+              "jaBoxscoreName": "山本",
+              "boxscoreName": "Yamamoto"
             },
             "stats": {
               "batting": {
@@ -15960,7 +16157,8 @@
           {
             "person": {
               "id": "71075151",
-              "jaBoxscoreName": "佐藤"
+              "jaBoxscoreName": "佐藤",
+              "boxscoreName": "Satoh"
             },
             "stats": {
               "batting": {
@@ -16023,7 +16221,8 @@
           {
             "person": {
               "id": "63065155",
-              "jaBoxscoreName": "ポランコ"
+              "jaBoxscoreName": "ポランコ",
+              "boxscoreName": "Polanco"
             },
             "stats": {
               "batting": {
@@ -16080,7 +16279,8 @@
           {
             "person": {
               "id": "01905152",
-              "jaBoxscoreName": "櫻井"
+              "jaBoxscoreName": "櫻井",
+              "boxscoreName": "Sakurai"
             },
             "stats": {
               "batting": {
@@ -16132,7 +16332,8 @@
           {
             "person": {
               "id": "03505136",
-              "jaBoxscoreName": "ソト"
+              "jaBoxscoreName": "ソト",
+              "boxscoreName": "Soto"
             },
             "stats": {
               "batting": {
@@ -16190,7 +16391,8 @@
           {
             "person": {
               "id": "21125155",
-              "jaBoxscoreName": "池田"
+              "jaBoxscoreName": "池田",
+              "boxscoreName": "Ikeda"
             },
             "stats": {
               "batting": {
@@ -16236,7 +16438,8 @@
           {
             "person": {
               "id": "81885136",
-              "jaBoxscoreName": "安田"
+              "jaBoxscoreName": "安田",
+              "boxscoreName": "Yasuda"
             },
             "stats": {
               "batting": {
@@ -16293,7 +16496,8 @@
           {
             "person": {
               "id": "33335136",
-              "jaBoxscoreName": "和田"
+              "jaBoxscoreName": "和田",
+              "boxscoreName": "Wada"
             },
             "stats": {
               "batting": {
@@ -16351,7 +16555,8 @@
           {
             "person": {
               "id": "03905152",
-              "jaBoxscoreName": "ロング"
+              "jaBoxscoreName": "ロング",
+              "boxscoreName": "Long"
             },
             "stats": {
               "batting": {},
@@ -16377,7 +16582,8 @@
           {
             "person": {
               "id": "51555130",
-              "jaBoxscoreName": "小野"
+              "jaBoxscoreName": "小野",
+              "boxscoreName": "Ono"
             },
             "stats": {
               "batting": {},
@@ -16403,7 +16609,8 @@
           {
             "person": {
               "id": "01905134",
-              "jaBoxscoreName": "澤田"
+              "jaBoxscoreName": "澤田",
+              "boxscoreName": "Sawada"
             },
             "stats": {
               "batting": {},
@@ -16430,7 +16637,8 @@
           {
             "person": {
               "id": "31635153",
-              "jaBoxscoreName": "中森"
+              "jaBoxscoreName": "中森",
+              "boxscoreName": "Nakamori"
             },
             "stats": {
               "batting": {},
@@ -16457,7 +16665,8 @@
           {
             "person": {
               "id": "71275153",
-              "jaBoxscoreName": "鈴木"
+              "jaBoxscoreName": "鈴木",
+              "boxscoreName": "Suzuki"
             },
             "stats": {
               "batting": {},
@@ -16484,7 +16693,8 @@
           {
             "person": {
               "id": "23125151",
-              "jaBoxscoreName": "横山"
+              "jaBoxscoreName": "横山",
+              "boxscoreName": "Yokoyama"
             },
             "stats": {
               "batting": {},
@@ -18884,6 +19094,7 @@
           "jerseyNumber": "35",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Saiki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -18894,6 +19105,7 @@
           "jerseyNumber": "36",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Hatake",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -18904,6 +19116,7 @@
           "jerseyNumber": "37",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Oyokawa",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -18944,6 +19157,7 @@
           "jerseyNumber": "99",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Moreta",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -18954,6 +19168,7 @@
           "jerseyNumber": "2",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Umeno",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -18984,6 +19199,7 @@
           "jerseyNumber": "85",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Shimamura",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -18994,6 +19210,7 @@
           "jerseyNumber": "0",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kinami",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19004,6 +19221,7 @@
           "jerseyNumber": "3",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ohyama",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19014,6 +19232,7 @@
           "jerseyNumber": "4",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kumagai",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19024,6 +19243,7 @@
           "jerseyNumber": "7",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Nakano",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19034,6 +19254,7 @@
           "jerseyNumber": "8",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Sato",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19044,6 +19265,7 @@
           "jerseyNumber": "9",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Tateishi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19054,6 +19276,7 @@
           "jerseyNumber": "24",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Devanney",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19084,6 +19307,7 @@
           "jerseyNumber": "67",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Takatera",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19094,6 +19318,7 @@
           "jerseyNumber": "1",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Morishita",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19104,6 +19329,7 @@
           "jerseyNumber": "53",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Shimada",
           "batSide": "L",
           "pitchHand": "R"
         }
@@ -19116,6 +19342,7 @@
           "jerseyNumber": "15",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yokoyama",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19146,6 +19373,7 @@
           "jerseyNumber": "37",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ono",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19156,6 +19384,7 @@
           "jerseyNumber": "47",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Suzuki",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -19176,6 +19405,7 @@
           "jerseyNumber": "54",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Sawada",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19186,6 +19416,7 @@
           "jerseyNumber": "56",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Nakamori",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19196,6 +19427,7 @@
           "jerseyNumber": "73",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Long",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -19216,6 +19448,7 @@
           "jerseyNumber": "32",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Satoh",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19236,6 +19469,7 @@
           "jerseyNumber": "00",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ikeda",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19246,6 +19480,7 @@
           "jerseyNumber": "4",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Tomosugi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19256,6 +19491,7 @@
           "jerseyNumber": "5",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Yasuda",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19276,6 +19512,7 @@
           "jerseyNumber": "55",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Sakurai",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19286,6 +19523,7 @@
           "jerseyNumber": "57",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Ogawa",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -19296,6 +19534,7 @@
           "jerseyNumber": "99",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Soto",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19316,6 +19555,7 @@
           "jerseyNumber": "6",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Nishikawa",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19326,6 +19566,7 @@
           "jerseyNumber": "22",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Polanco",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -19346,6 +19587,7 @@
           "jerseyNumber": "51",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamaguchi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19356,6 +19598,7 @@
           "jerseyNumber": "61",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamamoto",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -19366,6 +19609,7 @@
           "jerseyNumber": "63",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Wada",
           "batSide": "L",
           "pitchHand": "L"
         }
@@ -19788,7 +20032,8 @@
           {
             "person": {
               "id": "03105157",
-              "jaBoxscoreName": "村松"
+              "jaBoxscoreName": "村松",
+              "boxscoreName": "Muramatsu"
             },
             "stats": {
               "batting": {
@@ -19856,7 +20101,8 @@
           {
             "person": {
               "id": "81685157",
-              "jaBoxscoreName": "福永"
+              "jaBoxscoreName": "福永",
+              "boxscoreName": "Fukunaga"
             },
             "stats": {
               "batting": {
@@ -19918,7 +20164,8 @@
           {
             "person": {
               "id": "91395132",
-              "jaBoxscoreName": "板山"
+              "jaBoxscoreName": "板山",
+              "boxscoreName": "Itayama"
             },
             "stats": {
               "batting": {
@@ -19980,7 +20227,8 @@
           {
             "person": {
               "id": "31835134",
-              "jaBoxscoreName": "細川"
+              "jaBoxscoreName": "細川",
+              "boxscoreName": "Hosokawa"
             },
             "stats": {
               "batting": {
@@ -20042,7 +20290,8 @@
           {
             "person": {
               "id": "61165132",
-              "jaBoxscoreName": "阿部"
+              "jaBoxscoreName": "阿部",
+              "boxscoreName": "Abe"
             },
             "stats": {
               "batting": {
@@ -20104,7 +20353,8 @@
           {
             "person": {
               "id": "21125150",
-              "jaBoxscoreName": "石伊"
+              "jaBoxscoreName": "石伊",
+              "boxscoreName": "Ishii"
             },
             "stats": {
               "batting": {
@@ -20166,7 +20416,8 @@
           {
             "person": {
               "id": "91195151",
-              "jaBoxscoreName": "石川昂"
+              "jaBoxscoreName": "石川昂",
+              "boxscoreName": "Tak.Ishikawa"
             },
             "stats": {
               "batting": {
@@ -20232,7 +20483,8 @@
           {
             "person": {
               "id": "71375155",
-              "jaBoxscoreName": "鵜飼"
+              "jaBoxscoreName": "鵜飼",
+              "boxscoreName": "Ukai"
             },
             "stats": {
               "batting": {
@@ -20295,7 +20547,8 @@
           {
             "person": {
               "id": "21025157",
-              "jaBoxscoreName": "田中"
+              "jaBoxscoreName": "田中",
+              "boxscoreName": "Tanaka"
             },
             "stats": {
               "batting": {
@@ -20354,7 +20607,8 @@
           {
             "person": {
               "id": "83785150",
-              "jaBoxscoreName": "ボスラー"
+              "jaBoxscoreName": "ボスラー",
+              "boxscoreName": "Vosler"
             },
             "stats": {
               "batting": {
@@ -20401,7 +20655,8 @@
           {
             "person": {
               "id": "61265153",
-              "jaBoxscoreName": "髙橋宏"
+              "jaBoxscoreName": "髙橋宏",
+              "boxscoreName": "H.Takahashi"
             },
             "stats": {
               "batting": {},
@@ -20427,7 +20682,8 @@
           {
             "person": {
               "id": "37035159",
-              "jaBoxscoreName": "牧野"
+              "jaBoxscoreName": "牧野",
+              "boxscoreName": "Makino"
             },
             "stats": {
               "batting": {},
@@ -20454,7 +20710,8 @@
           {
             "person": {
               "id": "93295157",
-              "jaBoxscoreName": "メヒア"
+              "jaBoxscoreName": "メヒア",
+              "boxscoreName": "Mejia"
             },
             "stats": {
               "batting": {},
@@ -20480,7 +20737,8 @@
           {
             "person": {
               "id": "21625134",
-              "jaBoxscoreName": "藤嶋"
+              "jaBoxscoreName": "藤嶋",
+              "boxscoreName": "Fujishima"
             },
             "stats": {
               "batting": {},
@@ -20506,7 +20764,8 @@
           {
             "person": {
               "id": "11915130",
-              "jaBoxscoreName": "齋藤"
+              "jaBoxscoreName": "齋藤",
+              "boxscoreName": "Saitoh"
             },
             "stats": {
               "batting": {},
@@ -20649,7 +20908,8 @@
           {
             "person": {
               "id": "51255138",
-              "jaBoxscoreName": "中川"
+              "jaBoxscoreName": "中川",
+              "boxscoreName": "Nakagawa"
             },
             "stats": {
               "batting": {
@@ -20716,7 +20976,8 @@
           {
             "person": {
               "id": "63565155",
-              "jaBoxscoreName": "渡部"
+              "jaBoxscoreName": "渡部",
+              "boxscoreName": "H.Watanabe"
             },
             "stats": {
               "batting": {
@@ -20784,7 +21045,8 @@
           {
             "person": {
               "id": "91995151",
-              "jaBoxscoreName": "紅林"
+              "jaBoxscoreName": "紅林",
+              "boxscoreName": "Kurebayashi"
             },
             "stats": {
               "batting": {
@@ -20853,7 +21115,8 @@
           {
             "person": {
               "id": "71475132",
-              "jaBoxscoreName": "西川"
+              "jaBoxscoreName": "西川",
+              "boxscoreName": "Nishikawa"
             },
             "stats": {
               "batting": {
@@ -20917,7 +21180,8 @@
           {
             "person": {
               "id": "11815130",
-              "jaBoxscoreName": "宗"
+              "jaBoxscoreName": "宗",
+              "boxscoreName": "Mune"
             },
             "stats": {
               "batting": {
@@ -20979,7 +21243,8 @@
           {
             "person": {
               "id": "51955153",
-              "jaBoxscoreName": "来田"
+              "jaBoxscoreName": "来田",
+              "boxscoreName": "Kita"
             },
             "stats": {
               "batting": {
@@ -21041,7 +21306,8 @@
           {
             "person": {
               "id": "33335150",
-              "jaBoxscoreName": "山中"
+              "jaBoxscoreName": "山中",
+              "boxscoreName": "Yamanaka"
             },
             "stats": {
               "batting": {
@@ -21105,7 +21371,8 @@
           {
             "person": {
               "id": "51755138",
-              "jaBoxscoreName": "宜保"
+              "jaBoxscoreName": "宜保",
+              "boxscoreName": "Gibo"
             },
             "stats": {
               "batting": {
@@ -21167,7 +21434,8 @@
           {
             "person": {
               "id": "41645139",
-              "jaBoxscoreName": "若月"
+              "jaBoxscoreName": "若月",
+              "boxscoreName": "Wakatsuki"
             },
             "stats": {
               "batting": {
@@ -21229,7 +21497,8 @@
           {
             "person": {
               "id": "61065159",
-              "jaBoxscoreName": "髙島"
+              "jaBoxscoreName": "髙島",
+              "boxscoreName": "Takashima"
             },
             "stats": {
               "batting": {},
@@ -21255,7 +21524,8 @@
           {
             "person": {
               "id": "61965136",
-              "jaBoxscoreName": "博志"
+              "jaBoxscoreName": "博志",
+              "boxscoreName": "Suzuki"
             },
             "stats": {
               "batting": {},
@@ -21282,7 +21552,8 @@
           {
             "person": {
               "id": "33335134",
-              "jaBoxscoreName": "山﨑"
+              "jaBoxscoreName": "山﨑",
+              "boxscoreName": "Yamazaki"
             },
             "stats": {
               "batting": {},
@@ -21309,7 +21580,8 @@
           {
             "person": {
               "id": "33335155",
-              "jaBoxscoreName": "椋木"
+              "jaBoxscoreName": "椋木",
+              "boxscoreName": "Mukunoki"
             },
             "stats": {
               "batting": {},
@@ -21336,7 +21608,8 @@
           {
             "person": {
               "id": "43945159",
-              "jaBoxscoreName": "マチャド"
+              "jaBoxscoreName": "マチャド",
+              "boxscoreName": "Machado"
             },
             "stats": {
               "batting": {},
@@ -23900,6 +24173,7 @@
           "jerseyNumber": "19",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "H.Takahashi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -23930,6 +24204,7 @@
           "jerseyNumber": "54",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Fujishima",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -23940,6 +24215,7 @@
           "jerseyNumber": "59",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Saitoh",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -23950,6 +24226,7 @@
           "jerseyNumber": "68",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Makino",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -23970,6 +24247,7 @@
           "jerseyNumber": "91",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Mejia",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -23980,6 +24258,7 @@
           "jerseyNumber": "9",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ishii",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24010,6 +24289,7 @@
           "jerseyNumber": "2",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Tanaka",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24030,6 +24310,7 @@
           "jerseyNumber": "5",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Muramatsu",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -24040,6 +24321,7 @@
           "jerseyNumber": "7",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Fukunaga",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24050,6 +24332,7 @@
           "jerseyNumber": "25",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Tak.Ishikawa",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24070,6 +24353,7 @@
           "jerseyNumber": "48",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Abe",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24090,6 +24374,7 @@
           "jerseyNumber": "63",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Itayama",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -24110,6 +24395,7 @@
           "jerseyNumber": "24",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Vosler",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -24120,6 +24406,7 @@
           "jerseyNumber": "55",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Hosokawa",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24140,6 +24427,7 @@
           "jerseyNumber": "66",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ukai",
           "batSide": "R",
           "pitchHand": "R"
         }
@@ -24162,6 +24450,7 @@
           "jerseyNumber": "15",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Mukunoki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24172,6 +24461,7 @@
           "jerseyNumber": "21",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamazaki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24192,6 +24482,7 @@
           "jerseyNumber": "42",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Machado",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24212,6 +24503,7 @@
           "jerseyNumber": "66",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Suzuki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24232,6 +24524,7 @@
           "jerseyNumber": "96",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Takashima",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24252,6 +24545,7 @@
           "jerseyNumber": "2",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Wakatsuki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24282,6 +24576,7 @@
           "jerseyNumber": "50",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamanaka",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -24302,6 +24597,7 @@
           "jerseyNumber": "6",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Mune",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -24322,6 +24618,7 @@
           "jerseyNumber": "24",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kurebayashi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24342,6 +24639,7 @@
           "jerseyNumber": "53",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Gibo",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -24352,6 +24650,7 @@
           "jerseyNumber": "67",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Nakagawa",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -24362,6 +24661,7 @@
           "jerseyNumber": "0",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "H.Watanabe",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -24372,6 +24672,7 @@
           "jerseyNumber": "7",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Nishikawa",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -24382,6 +24683,7 @@
           "jerseyNumber": "38",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kita",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -24826,7 +25128,8 @@
           {
             "person": {
               "id": "11415157",
-              "jaBoxscoreName": "名原"
+              "jaBoxscoreName": "名原",
+              "boxscoreName": "Nabara"
             },
             "stats": {
               "batting": {
@@ -24888,7 +25191,8 @@
           {
             "person": {
               "id": "21325138",
-              "jaBoxscoreName": "大盛"
+              "jaBoxscoreName": "大盛",
+              "boxscoreName": "Ohmori"
             },
             "stats": {
               "batting": {
@@ -24950,7 +25254,8 @@
           {
             "person": {
               "id": "61565135",
-              "jaBoxscoreName": "菊池"
+              "jaBoxscoreName": "菊池",
+              "boxscoreName": "R.Kikuchi"
             },
             "stats": {
               "batting": {
@@ -25012,7 +25317,8 @@
           {
             "person": {
               "id": "11915134",
-              "jaBoxscoreName": "坂倉"
+              "jaBoxscoreName": "坂倉",
+              "boxscoreName": "Sakakura"
             },
             "stats": {
               "batting": {
@@ -25074,7 +25380,8 @@
           {
             "person": {
               "id": "53955150",
-              "jaBoxscoreName": "モンテロ"
+              "jaBoxscoreName": "モンテロ",
+              "boxscoreName": "Montero"
             },
             "stats": {
               "batting": {
@@ -25137,7 +25444,8 @@
           {
             "person": {
               "id": "01705138",
-              "jaBoxscoreName": "小園"
+              "jaBoxscoreName": "小園",
+              "boxscoreName": "Kozono"
             },
             "stats": {
               "batting": {
@@ -25200,7 +25508,8 @@
           {
             "person": {
               "id": "43745150",
-              "jaBoxscoreName": "ファビアン"
+              "jaBoxscoreName": "ファビアン",
+              "boxscoreName": "Fabian"
             },
             "stats": {
               "batting": {
@@ -25258,7 +25567,8 @@
           {
             "person": {
               "id": "81885151",
-              "jaBoxscoreName": "持丸"
+              "jaBoxscoreName": "持丸",
+              "boxscoreName": "Mochimaru"
             },
             "stats": {
               "batting": {
@@ -25316,7 +25626,8 @@
           {
             "person": {
               "id": "93395153",
-              "jaBoxscoreName": "矢野"
+              "jaBoxscoreName": "矢野",
+              "boxscoreName": "Yano"
             },
             "stats": {
               "batting": {
@@ -25368,7 +25679,8 @@
           {
             "person": {
               "id": "11015150",
-              "jaBoxscoreName": "佐々木"
+              "jaBoxscoreName": "佐々木",
+              "boxscoreName": "Sasaki"
             },
             "stats": {
               "batting": {
@@ -25420,7 +25732,8 @@
           {
             "person": {
               "id": "91595150",
-              "jaBoxscoreName": "岡本"
+              "jaBoxscoreName": "岡本",
+              "boxscoreName": "Okamoto"
             },
             "stats": {
               "batting": {},
@@ -25447,7 +25760,8 @@
           {
             "person": {
               "id": "71375136",
-              "jaBoxscoreName": "遠藤"
+              "jaBoxscoreName": "遠藤",
+              "boxscoreName": "Endoh"
             },
             "stats": {
               "batting": {},
@@ -25473,7 +25787,8 @@
           {
             "person": {
               "id": "41045159",
-              "jaBoxscoreName": "髙"
+              "jaBoxscoreName": "髙",
+              "boxscoreName": "Taka"
             },
             "stats": {
               "batting": {},
@@ -25618,7 +25933,8 @@
           {
             "person": {
               "id": "81885155",
-              "jaBoxscoreName": "正木"
+              "jaBoxscoreName": "正木",
+              "boxscoreName": "Masaki"
             },
             "stats": {
               "batting": {
@@ -25680,7 +25996,8 @@
           {
             "person": {
               "id": "11215132",
-              "jaBoxscoreName": "谷川原"
+              "jaBoxscoreName": "谷川原",
+              "boxscoreName": "Tanigawara"
             },
             "stats": {
               "batting": {
@@ -25721,7 +26038,8 @@
           {
             "person": {
               "id": "21925136",
-              "jaBoxscoreName": "周東"
+              "jaBoxscoreName": "周東",
+              "boxscoreName": "Shuto"
             },
             "stats": {
               "batting": {
@@ -25783,7 +26101,8 @@
           {
             "person": {
               "id": "41745135",
-              "jaBoxscoreName": "近藤"
+              "jaBoxscoreName": "近藤",
+              "boxscoreName": "Kondoh"
             },
             "stats": {
               "batting": {
@@ -25847,7 +26166,8 @@
           {
             "person": {
               "id": "11715155",
-              "jaBoxscoreName": "川村"
+              "jaBoxscoreName": "川村",
+              "boxscoreName": "Kawamura"
             },
             "stats": {
               "batting": {
@@ -25893,7 +26213,8 @@
           {
             "person": {
               "id": "01705130",
-              "jaBoxscoreName": "栗原"
+              "jaBoxscoreName": "栗原",
+              "boxscoreName": "Kurihara"
             },
             "stats": {
               "batting": {
@@ -25962,7 +26283,8 @@
           {
             "person": {
               "id": "31835133",
-              "jaBoxscoreName": "柳田"
+              "jaBoxscoreName": "柳田",
+              "boxscoreName": "Yanagita"
             },
             "stats": {
               "batting": {
@@ -26019,7 +26341,8 @@
           {
             "person": {
               "id": "23125136",
-              "jaBoxscoreName": "山本祐"
+              "jaBoxscoreName": "山本祐",
+              "boxscoreName": "Y.Yamamoto"
             },
             "stats": {
               "batting": {
@@ -26076,7 +26399,8 @@
           {
             "person": {
               "id": "61465133",
-              "jaBoxscoreName": "牧原大"
+              "jaBoxscoreName": "牧原大",
+              "boxscoreName": "T.Makihara"
             },
             "stats": {
               "batting": {
@@ -26134,7 +26458,8 @@
           {
             "person": {
               "id": "31235152",
-              "jaBoxscoreName": "髙橋"
+              "jaBoxscoreName": "髙橋",
+              "boxscoreName": "Takahashi"
             },
             "stats": {
               "batting": {
@@ -26191,7 +26516,8 @@
           {
             "person": {
               "id": "11615155",
-              "jaBoxscoreName": "野村"
+              "jaBoxscoreName": "野村",
+              "boxscoreName": "Nomura"
             },
             "stats": {
               "batting": {
@@ -26232,7 +26558,8 @@
           {
             "person": {
               "id": "01205150",
-              "jaBoxscoreName": "庄子"
+              "jaBoxscoreName": "庄子",
+              "boxscoreName": "Shoji"
             },
             "stats": {
               "batting": {
@@ -26289,7 +26616,8 @@
           {
             "person": {
               "id": "23525152",
-              "jaBoxscoreName": "徐"
+              "jaBoxscoreName": "徐",
+              "boxscoreName": "JH.Hsu"
             },
             "stats": {
               "batting": {},
@@ -26316,7 +26644,8 @@
           {
             "person": {
               "id": "13415155",
-              "jaBoxscoreName": "オスナ"
+              "jaBoxscoreName": "オスナ",
+              "boxscoreName": "Osuna"
             },
             "stats": {
               "batting": {},
@@ -26343,7 +26672,8 @@
           {
             "person": {
               "id": "61665130",
-              "jaBoxscoreName": "松本裕"
+              "jaBoxscoreName": "松本裕",
+              "boxscoreName": "Y.Matsumoto"
             },
             "stats": {
               "batting": {},
@@ -26370,7 +26700,8 @@
           {
             "person": {
               "id": "91995138",
-              "jaBoxscoreName": "杉山"
+              "jaBoxscoreName": "杉山",
+              "boxscoreName": "Sugiyama"
             },
             "stats": {
               "batting": {},
@@ -28562,6 +28893,7 @@
           "jerseyNumber": "22",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Taka",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -28602,6 +28934,7 @@
           "jerseyNumber": "53",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Okamoto",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28612,6 +28945,7 @@
           "jerseyNumber": "66",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Endoh",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28632,6 +28966,7 @@
           "jerseyNumber": "31",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Sakakura",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28652,6 +28987,7 @@
           "jerseyNumber": "57",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Mochimaru",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28672,6 +29008,7 @@
           "jerseyNumber": "4",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Yano",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28682,6 +29019,7 @@
           "jerseyNumber": "5",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kozono",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28692,6 +29030,7 @@
           "jerseyNumber": "10",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Sasaki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28702,6 +29041,7 @@
           "jerseyNumber": "33",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "R.Kikuchi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28732,6 +29072,7 @@
           "jerseyNumber": "95",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Montero",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28762,6 +29103,7 @@
           "jerseyNumber": "59",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Ohmori",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28772,6 +29114,7 @@
           "jerseyNumber": "61",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Fabian",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28782,6 +29125,7 @@
           "jerseyNumber": "92",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Nabara",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28814,6 +29158,7 @@
           "jerseyNumber": "18",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "JH.Hsu",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28834,6 +29179,7 @@
           "jerseyNumber": "40",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Sugiyama",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28854,6 +29200,7 @@
           "jerseyNumber": "54",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Osuna",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28884,6 +29231,7 @@
           "jerseyNumber": "66",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Y.Matsumoto",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28904,6 +29252,7 @@
           "jerseyNumber": "39",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Y.Yamamoto",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -28914,6 +29263,7 @@
           "jerseyNumber": "45",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Tanigawara",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28954,6 +29304,7 @@
           "jerseyNumber": "8",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "T.Makihara",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28964,6 +29315,7 @@
           "jerseyNumber": "24",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kurihara",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28974,6 +29326,7 @@
           "jerseyNumber": "25",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Shoji",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -28994,6 +29347,7 @@
           "jerseyNumber": "56",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Takahashi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -29004,6 +29358,7 @@
           "jerseyNumber": "99",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Nomura",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -29014,6 +29369,7 @@
           "jerseyNumber": "3",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kondoh",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -29024,6 +29380,7 @@
           "jerseyNumber": "9",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Yanagita",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -29034,6 +29391,7 @@
           "jerseyNumber": "23",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Shuto",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -29044,6 +29402,7 @@
           "jerseyNumber": "31",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Masaki",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -29054,6 +29413,7 @@
           "jerseyNumber": "61",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Kawamura",
           "batSide": "L",
           "pitchHand": "R"
         }

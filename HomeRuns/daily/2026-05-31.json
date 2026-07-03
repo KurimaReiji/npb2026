@@ -5,6 +5,7 @@
     "batter": {
       "id": "11815138",
       "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
       "batSide": "R",
       "teamCode": "F",
       "teamName": "Fighters"
@@ -12,6 +13,7 @@
     "pitcher": {
       "id": "71275152",
       "jaBoxscoreName": "竹丸",
+      "boxscoreName": "Takemaru",
       "pitchHand": "L",
       "teamCode": "G",
       "teamName": "Giants"
@@ -49,6 +51,7 @@
     "batter": {
       "id": "51455137",
       "jaBoxscoreName": "宮﨑",
+      "boxscoreName": "Miyazaki",
       "batSide": "R",
       "teamCode": "DB",
       "teamName": "Baystars"
@@ -56,6 +59,7 @@
     "pitcher": {
       "id": "23925152",
       "jaBoxscoreName": "ワイナンス",
+      "boxscoreName": "Winans",
       "pitchHand": "R",
       "teamCode": "L",
       "teamName": "Lions"
@@ -93,6 +97,7 @@
     "batter": {
       "id": "01705130",
       "jaBoxscoreName": "栗原",
+      "boxscoreName": "Kurihara",
       "batSide": "L",
       "teamCode": "H",
       "teamName": "Hawks"
@@ -100,6 +105,7 @@
     "pitcher": {
       "id": "91595150",
       "jaBoxscoreName": "岡本",
+      "boxscoreName": "Okamoto",
       "pitchHand": "R",
       "teamCode": "C",
       "teamName": "Carp"
