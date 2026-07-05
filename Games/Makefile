@@ -7,8 +7,13 @@ daily/%.json: $(SCR) $(wildcard patch/%.json verify/%.json)
 
 .PHONY: today nightly Mar Apr May Jun Jul all ndjson
 
-today:
+today: ../scraped/daily/$(GAMEDAY).json
 	bun $(SCR) $(GAMEDAY)
+	$(MAKE) ndjson
+	bun create-results.bun.js
+
+../scraped/daily/$(GAMEDAY).json:
+	$(MAKE) -C ../scraped today
 
 nightly: 
 	$(MAKE) -C ../en-scraped nightly

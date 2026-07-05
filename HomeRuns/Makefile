@@ -2,7 +2,14 @@ SHELL := /bin/bash
 GAMEDAY ?= $(shell TZ='America/Los_Angeles' date  --rfc-3339=date)
 SCR=extract-homeRuns.bun.js
 
-.PHONY: ndjson all nightly
+.PHONY: ndjson all daily nightly
+
+daily: ../Games/daily/$(GAMEDAY).json
+	bun $(SCR) $(GAMEDAY)
+	$(MAKE) ndjson
+
+../Games/daily/$(GAMEDAY).json:
+	$(MAKE) -C ../Games today
 
 nightly:
 	bun $(SCR) $(GAMEDAY)

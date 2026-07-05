@@ -1,0 +1,279 @@
+[
+  {
+    "id": "51555155-2026-01",
+    "date": "2026-07-04",
+    "batter": {
+      "id": "51555155",
+      "jaBoxscoreName": "梶原",
+      "boxscoreName": "Kajiwara",
+      "batSide": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars"
+    },
+    "pitcher": {
+      "id": "03105159",
+      "jaBoxscoreName": "松本健",
+      "boxscoreName": "K.Matsumoto",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 1,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0704/s-db-12/playbyplay.html#com2-1"
+  },
+  {
+    "id": "41145152-2026-01",
+    "date": "2026-07-04",
+    "batter": {
+      "id": "41145152",
+      "jaBoxscoreName": "石井",
+      "boxscoreName": "Ishii",
+      "batSide": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "pitcher": {
+      "id": "41045150",
+      "jaBoxscoreName": "篠木",
+      "boxscoreName": "Shinogi",
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "teamName": "Baystars"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0704/s-db-12/playbyplay.html#com3-2"
+  },
+  {
+    "id": "41945131-2026-04",
+    "date": "2026-07-04",
+    "batter": {
+      "id": "41945131",
+      "jaBoxscoreName": "筒香",
+      "boxscoreName": "Tsutsugoh",
+      "batSide": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars"
+    },
+    "pitcher": {
+      "id": "81785136",
+      "jaBoxscoreName": "阪口",
+      "boxscoreName": "Sakaguchi",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 4,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 5,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0704/s-db-12/playbyplay.html#com7-1"
+  },
+  {
+    "id": "13115153-2026-09",
+    "date": "2026-07-04",
+    "batter": {
+      "id": "13115153",
+      "jaBoxscoreName": "牧",
+      "boxscoreName": "Maki",
+      "batSide": "R",
+      "teamCode": "DB",
+      "teamName": "Baystars"
+    },
+    "pitcher": {
+      "id": "01705132",
+      "jaBoxscoreName": "小澤",
+      "boxscoreName": "Kozawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 9,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 8,
+      "home": 1
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0704/s-db-12/playbyplay.html#com9-1"
+  },
+  {
+    "id": "31635138-2026-03",
+    "date": "2026-07-04",
+    "batter": {
+      "id": "31635138",
+      "jaBoxscoreName": "藤原",
+      "boxscoreName": "Fujiwara",
+      "batSide": "L",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "pitcher": {
+      "id": "11815152",
+      "jaBoxscoreName": "北斗",
+      "boxscoreName": "H.Ohyama",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay",
+      "name": "MIZUHO PayPay Dome Fukuoka",
+      "jaName": "みずほPayPayドーム福岡"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0704/h-m-10/playbyplay.html#com1-1",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "81885155-2026-11",
+    "date": "2026-07-04",
+    "batter": {
+      "id": "81885155",
+      "jaBoxscoreName": "正木",
+      "boxscoreName": "Masaki",
+      "batSide": "R",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "pitcher": {
+      "id": "31035157",
+      "jaBoxscoreName": "高野脩",
+      "boxscoreName": "Takano",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 11,
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 8,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay",
+      "name": "MIZUHO PayPay Dome Fukuoka",
+      "jaName": "みずほPayPayドーム福岡"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0704/h-m-10/playbyplay.html#com9-2"
+  }
+]
