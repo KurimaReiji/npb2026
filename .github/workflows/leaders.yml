@@ -10,7 +10,7 @@ jobs:
     env:
       CI_COMMIT_MESSAGE: The CS% leaders saved
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - uses: actions/setup-node@v4
       with:
         node-version: 22
