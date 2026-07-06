@@ -1,5 +1,51 @@
 [
   {
+    "id": "21325136-2026-07",
+    "date": "2026-06-30",
+    "batter": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants"
+    },
+    "pitcher": {
+      "id": "43145153",
+      "jaBoxscoreName": "丸山翔",
+      "boxscoreName": "S.Maruyama",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 7,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Hirosaki",
+      "jaBoxscoreName": "弘前",
+      "name": "Hirosaki City Sports Park Ballpark",
+      "jaName": "弘前はるか夢"
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0630/g-s-12/playbyplay.html#com6-2"
+  },
+  {
     "id": "43145157-2026-18",
     "date": "2026-06-30",
     "batter": {
