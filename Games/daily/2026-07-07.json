@@ -2030,7 +2030,8 @@
           {
             "person": {
               "id": "77775159",
-              "jaBoxscoreName": "知念"
+              "jaBoxscoreName": "知念",
+              "boxscoreName": "Chinen"
             },
             "stats": {
               "batting": {
@@ -5380,6 +5381,7 @@
           "jerseyNumber": "94",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Chinen",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -11417,7 +11419,8 @@
           {
             "person": {
               "id": "13915157",
-              "jaBoxscoreName": "セデーニョ"
+              "jaBoxscoreName": "セデーニョ",
+              "boxscoreName": "Cedeno"
             },
             "stats": {
               "batting": {
@@ -15103,6 +15106,7 @@
           "jerseyNumber": "98",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Cedeno",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -21801,7 +21805,8 @@
           {
             "person": {
               "id": "83185159",
-              "jaBoxscoreName": "宮崎"
+              "jaBoxscoreName": "宮崎",
+              "boxscoreName": "Miyazaki"
             },
             "stats": {
               "batting": {
@@ -25640,6 +25645,7 @@
           "jerseyNumber": "36",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Miyazaki",
           "batSide": "R",
           "pitchHand": "R"
         },
