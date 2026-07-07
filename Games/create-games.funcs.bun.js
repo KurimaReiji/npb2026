@@ -1,18 +1,18 @@
 import { positionMapping } from './constants/positions.js';
 import { boxscoreResults } from './constants/boxscore.js';
 
-export function getBoxscore({ away, home }, boxscoreNames) {
-  function toStats({ batting, pitching }, boxscoreNames) {
+export function getBoxscore({ away, home }, boxscoreNames, boxscoreNamesDB) {
+  function toStats({ batting, pitching }, boxscoreNames, boxscoreNamesDB) {
     const bStat = toBattingStat(batting)
       .map((o, i, ary) => {
         if (i === ary.length - 1) return o;
-        o.person.boxscoreName = boxscoreNames?.batting[i];
+        o.person.boxscoreName = boxscoreNames?.batting[i] ?? boxscoreNamesDB[o.person?.id];
         return o;
       });
     const pStat = toPitchingStat(pitching)
       .map((o, i, ary) => {
         if (i === ary.length - 1) return o;
-        o.person.boxscoreName = boxscoreNames?.pitching[i];
+        o.person.boxscoreName = boxscoreNames?.pitching[i] ?? boxscoreNamesDB[o.person?.id];
         return o;
       });
 
@@ -67,8 +67,8 @@ export function getBoxscore({ away, home }, boxscoreNames) {
   }
 
   const obj = {
-    away: toStats(away, boxscoreNames.away),
-    home: toStats(home, boxscoreNames.home),
+    away: toStats(away, boxscoreNames.away, boxscoreNamesDB),
+    home: toStats(home, boxscoreNames.home, boxscoreNamesDB),
   }
 
   obj.away.innings.forEach((_, idx) => {

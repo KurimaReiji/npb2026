@@ -1,5 +1,6 @@
 import { parseGameInfo, getBoxscore, getLinescore, getDecisions, getBatteries, getHomeRuns, getPlayers, getBoxscoreNames, getPlays } from './create-games.funcs.bun.js';
 import { findVenue } from '../docs/js/npb2026-venues.js';
+import { getBoxscoreNamesFromDB } from '../docs/js/boxscoreNames.js';
 import { applyPatch } from 'fast-json-patch';
 import { join } from 'path';
 import { findTeam } from '../docs/js/npb-teams.js';
@@ -13,6 +14,7 @@ for (const date of dates) {
 async function main(date) {
 
   const { infile, enfile, outfile, patchFile, verifyFile } = getDailyPaths(date);
+  const boxscoreNamesDB = await getBoxscoreNamesFromDB(date);
 
   if (!(await Bun.file(infile).exists())) {
     console.error(`not found: ${infile}`);
@@ -33,7 +35,7 @@ async function main(date) {
 
       const box = scraped['box.html'];
       const boxscoreNames = getBoxscoreNames(en.find(({ venue: v }) => v === venue.boxscoreName));
-      const boxscore = getBoxscore(box, boxscoreNames);
+      const boxscore = getBoxscore(box, boxscoreNames, boxscoreNamesDB);
       const linescore = getLinescore(rawLinescore, boxscore);
       const plays = getPlays(scraped['playbyplay.html'], linescore);
       const players = getPlayers(boxscore, scraped['roster.html']);
