@@ -1701,7 +1701,8 @@
           {
             "person": {
               "id": "53555155",
-              "jaBoxscoreName": "山田"
+              "jaBoxscoreName": "山田",
+              "boxscoreName": "Yamada"
             },
             "stats": {
               "batting": {
@@ -5054,6 +5055,7 @@
           "jerseyNumber": "64",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Yamada",
           "batSide": "L",
           "pitchHand": "L"
         },
