@@ -2174,7 +2174,8 @@
           {
             "person": {
               "id": "41045137",
-              "jaBoxscoreName": "藤浪"
+              "jaBoxscoreName": "藤浪",
+              "boxscoreName": "Fujinami"
             },
             "stats": {
               "batting": {
@@ -2296,7 +2297,8 @@
           {
             "person": {
               "id": "71675134",
-              "jaBoxscoreName": "浜地"
+              "jaBoxscoreName": "浜地",
+              "boxscoreName": "Hamachi"
             },
             "stats": {
               "batting": {
@@ -5763,6 +5765,7 @@
           "jerseyNumber": "27",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Fujinami",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -5794,6 +5797,7 @@
           "jerseyNumber": "52",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Hamachi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -7194,7 +7198,8 @@
           {
             "person": {
               "id": "91795150",
-              "jaBoxscoreName": "菊地"
+              "jaBoxscoreName": "菊地",
+              "boxscoreName": "H.Kikuchi"
             },
             "stats": {
               "batting": {
@@ -10897,6 +10902,7 @@
           "jerseyNumber": "67",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "H.Kikuchi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -23850,7 +23856,8 @@
           {
             "person": {
               "id": "63165152",
-              "jaBoxscoreName": "大聖"
+              "jaBoxscoreName": "大聖",
+              "boxscoreName": "Y.Tanaka"
             },
             "stats": {
               "batting": {},
@@ -26850,6 +26857,7 @@
           "jerseyNumber": "60",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Y.Tanaka",
           "batSide": "L",
           "pitchHand": "R"
         },
