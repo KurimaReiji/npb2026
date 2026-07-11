@@ -5329,8 +5329,9 @@
     "winner": "Lions",
     "loser": "Tigers",
     "flags": {
-      "isOneRunGame": false,
-      "isShutout": false,
+      "firstRun": "Lions",
+      "isOneRunGame": true,
+      "isShutout": true,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
       "isExtraInnings": false,
@@ -11085,8 +11086,9 @@
     "winner": "Fighters",
     "loser": "Carp",
     "flags": {
+      "firstRun": "Fighters",
       "isOneRunGame": false,
-      "isShutout": false,
+      "isShutout": true,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
       "isExtraInnings": false,

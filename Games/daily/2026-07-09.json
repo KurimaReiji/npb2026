@@ -5986,9 +5986,10 @@
     "winner": "Tigers",
     "loser": "Giants",
     "flags": {
+      "firstRun": "Giants",
       "isOneRunGame": false,
       "isShutout": false,
-      "isDoubleDigitRuns": false,
+      "isDoubleDigitRuns": true,
       "isWalkOff": false,
       "isExtraInnings": false,
       "hadComeback": true
@@ -11307,7 +11308,8 @@
     "winner": "Dragons",
     "loser": "Baystars",
     "flags": {
-      "isOneRunGame": false,
+      "firstRun": "Dragons",
+      "isOneRunGame": true,
       "isShutout": false,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
@@ -16361,8 +16363,9 @@
     "winner": "Swallows",
     "loser": "Carp",
     "flags": {
-      "isOneRunGame": false,
-      "isShutout": false,
+      "firstRun": "Swallows",
+      "isOneRunGame": true,
+      "isShutout": true,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
       "isExtraInnings": false,

@@ -62,7 +62,6 @@ async function main(date) {
       }
     })
     .map((game) => {
-      const flags = getFlags(game);
       const starters = ["away", "home"]
         .map((rh) => {
           const starterId = game.boxscore[rh].pitchers[0];
@@ -76,6 +75,7 @@ async function main(date) {
       const sign = Math.sign(game.teams.away.runs - game.teams.home.runs);
       const winner = [game.teams.home.teamName, "Tied", game.teams.away.teamName][sign + 1];
       const loser = [game.teams.away.teamName, "Tied", game.teams.home.teamName][sign + 1];
+      const flags = getFlags(game);
 
       return {
         ...game, winner, loser, flags,
@@ -230,7 +230,7 @@ function getFlags(game) {
   const { linescore, teams } = game;
   const { home, away } = teams;
   const runBalance = getRunBalance(linescore.innings);
-  const firstRun = [home.team, null, away.team].at(1 + Math.sign(runBalance.filter((n) => n !== 0).at(0)));
+  const firstRun = [home.teamName, null, away.teamName].at(1 + Math.sign(runBalance.filter((n) => n !== 0).at(0)));
   const isWalkOff = runBalance.at(-1) < 0 && runBalance.at(-2) >= 0;
   const isExtraInnings = runBalance.length > 18;
   const hadComeback = checkHadComeback(runBalance);
@@ -238,6 +238,6 @@ function getFlags(game) {
   const isShutout = home.runs === 0 || away.runs === 0;
   const isDoubleDigitRuns = home.runs > 9 || away.runs > 9;
   return {
-    isOneRunGame, isShutout, isDoubleDigitRuns, firstRun, isWalkOff, isExtraInnings, hadComeback,
+    firstRun, isOneRunGame, isShutout, isDoubleDigitRuns, isWalkOff, isExtraInnings, hadComeback,
   }
 }

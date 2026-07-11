@@ -30,7 +30,7 @@ May:
 Jun:
 	bun $(SCR) 2026-06-{01..30}
 Jul:
-	bun $(SCR) 2026-06-{01..2}
+	bun $(SCR) 2026-07-{01..10}
 
 all: Mar Apr May Jun Jul
 

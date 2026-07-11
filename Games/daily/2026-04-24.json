@@ -6307,7 +6307,8 @@
     "winner": "Baystars",
     "loser": "Giants",
     "flags": {
-      "isOneRunGame": false,
+      "firstRun": "Giants",
+      "isOneRunGame": true,
       "isShutout": false,
       "isDoubleDigitRuns": false,
       "isWalkOff": true,
@@ -11622,6 +11623,7 @@
     "winner": "Dragons",
     "loser": "Swallows",
     "flags": {
+      "firstRun": "Dragons",
       "isOneRunGame": false,
       "isShutout": false,
       "isDoubleDigitRuns": false,
@@ -16307,7 +16309,8 @@
     "winner": "Buffaloes",
     "loser": "Fighters",
     "flags": {
-      "isOneRunGame": false,
+      "firstRun": "Fighters",
+      "isOneRunGame": true,
       "isShutout": false,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,

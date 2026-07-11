@@ -5514,8 +5514,9 @@
     "winner": "Swallows",
     "loser": "Carp",
     "flags": {
+      "firstRun": "Swallows",
       "isOneRunGame": false,
-      "isShutout": false,
+      "isShutout": true,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
       "isExtraInnings": false,
@@ -11244,7 +11245,8 @@
     "winner": "Eagles",
     "loser": "Fighters",
     "flags": {
-      "isOneRunGame": false,
+      "firstRun": "Eagles",
+      "isOneRunGame": true,
       "isShutout": false,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
@@ -16645,7 +16647,8 @@
     "winner": "Hawks",
     "loser": "Lions",
     "flags": {
-      "isOneRunGame": false,
+      "firstRun": "Hawks",
+      "isOneRunGame": true,
       "isShutout": false,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,

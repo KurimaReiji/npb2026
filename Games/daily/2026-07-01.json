@@ -5384,7 +5384,8 @@
     "winner": "Giants",
     "loser": "Swallows",
     "flags": {
-      "isOneRunGame": false,
+      "firstRun": "Giants",
+      "isOneRunGame": true,
       "isShutout": false,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
@@ -9990,8 +9991,9 @@
     "winner": "Fighters",
     "loser": "Buffaloes",
     "flags": {
+      "firstRun": "Fighters",
       "isOneRunGame": false,
-      "isShutout": false,
+      "isShutout": true,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
       "isExtraInnings": false,
@@ -15006,8 +15008,9 @@
     "winner": "Marines",
     "loser": "Eagles",
     "flags": {
+      "firstRun": "Marines",
       "isOneRunGame": false,
-      "isShutout": false,
+      "isShutout": true,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
       "isExtraInnings": false,
@@ -20451,9 +20454,10 @@
     "winner": "Hawks",
     "loser": "Lions",
     "flags": {
+      "firstRun": "Hawks",
       "isOneRunGame": false,
-      "isShutout": false,
-      "isDoubleDigitRuns": false,
+      "isShutout": true,
+      "isDoubleDigitRuns": true,
       "isWalkOff": false,
       "isExtraInnings": false,
       "hadComeback": false

@@ -6879,7 +6879,8 @@
     "winner": "Eagles",
     "loser": "Lions",
     "flags": {
-      "isOneRunGame": false,
+      "firstRun": "Lions",
+      "isOneRunGame": true,
       "isShutout": false,
       "isDoubleDigitRuns": false,
       "isWalkOff": true,

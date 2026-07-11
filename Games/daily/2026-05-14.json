@@ -6382,8 +6382,9 @@
     "winner": "Tied",
     "loser": "Tied",
     "flags": {
+      "firstRun": "Baystars",
       "isOneRunGame": false,
-      "isShutout": false,
+      "isShutout": true,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
       "isExtraInnings": true,
@@ -11222,8 +11223,9 @@
     "winner": "Eagles",
     "loser": "Buffaloes",
     "flags": {
+      "firstRun": "Eagles",
       "isOneRunGame": false,
-      "isShutout": false,
+      "isShutout": true,
       "isDoubleDigitRuns": false,
       "isWalkOff": false,
       "isExtraInnings": false,
@@ -16152,6 +16154,7 @@
     "winner": "Marines",
     "loser": "Fighters",
     "flags": {
+      "firstRun": "Marines",
       "isOneRunGame": false,
       "isShutout": false,
       "isDoubleDigitRuns": false,
