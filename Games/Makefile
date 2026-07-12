@@ -20,6 +20,7 @@ nightly:
 	bun $(SCR) $(GAMEDAY)
 	$(MAKE) ndjson
 	bun create-results.bun.js
+	bun create-boxscoreNames.bun.js
 
 Mar:
 	bun $(SCR) 2026-03-{27..31}
@@ -30,7 +31,7 @@ May:
 Jun:
 	bun $(SCR) 2026-06-{01..30}
 Jul:
-	bun $(SCR) 2026-07-{01..10}
+	bun $(SCR) 2026-07-{01..11}
 
 all: Mar Apr May Jun Jul
 
