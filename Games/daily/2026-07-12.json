@@ -2120,7 +2120,8 @@
           {
             "person": {
               "id": "23125159",
-              "jaBoxscoreName": "松本凌"
+              "jaBoxscoreName": "松本凌",
+              "boxscoreName": "Ryo.Matsumoto"
             },
             "stats": {
               "batting": {
@@ -5015,6 +5016,7 @@
           "jerseyNumber": "38",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Ryo.Matsumoto",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -16678,7 +16680,8 @@
           {
             "person": {
               "id": "93395159",
-              "jaBoxscoreName": "村田"
+              "jaBoxscoreName": "村田",
+              "boxscoreName": "Murata"
             },
             "stats": {
               "batting": {
@@ -20739,6 +20742,7 @@
           "jerseyNumber": "99",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Murata",
           "batSide": "R",
           "pitchHand": "R"
         },
