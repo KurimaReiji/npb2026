@@ -1038,7 +1038,8 @@
           {
             "person": {
               "id": "03305153",
-              "jaBoxscoreName": "山﨑"
+              "jaBoxscoreName": "山﨑",
+              "boxscoreName": "Yamasaki"
             },
             "stats": {
               "batting": {
@@ -4859,6 +4860,7 @@
           "jerseyNumber": "19",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamasaki",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -17726,7 +17728,8 @@
           {
             "person": {
               "id": "81585153",
-              "jaBoxscoreName": "緒方"
+              "jaBoxscoreName": "緒方",
+              "boxscoreName": "Ogata"
             },
             "stats": {
               "batting": {
@@ -22058,6 +22061,7 @@
           "jerseyNumber": "57",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Ogata",
           "batSide": "L",
           "pitchHand": "R"
         },
