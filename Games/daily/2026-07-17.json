@@ -6126,7 +6126,8 @@
           {
             "person": {
               "id": "11615134",
-              "jaBoxscoreName": "長谷川"
+              "jaBoxscoreName": "長谷川",
+              "boxscoreName": "Hasegawa"
             },
             "stats": {
               "batting": {
@@ -10361,6 +10362,7 @@
           "jerseyNumber": "53",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Hasegawa",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -12799,7 +12801,8 @@
           {
             "person": {
               "id": "31135134",
-              "jaBoxscoreName": "アドゥワ"
+              "jaBoxscoreName": "アドゥワ",
+              "boxscoreName": "Aduwa"
             },
             "stats": {
               "batting": {
@@ -16006,6 +16009,7 @@
           "jerseyNumber": "48",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Aduwa",
           "batSide": "R",
           "pitchHand": "R"
         },
