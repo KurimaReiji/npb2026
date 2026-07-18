@@ -2316,7 +2316,8 @@
           {
             "person": {
               "id": "23225157",
-              "jaBoxscoreName": "バルドナード"
+              "jaBoxscoreName": "バルドナード",
+              "boxscoreName": "Baldonado"
             },
             "stats": {
               "batting": {
@@ -5340,6 +5341,7 @@
           "jerseyNumber": "49",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Baldonado",
           "batSide": "L",
           "pitchHand": "L"
         },
