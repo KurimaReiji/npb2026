@@ -2494,7 +2494,8 @@
           {
             "person": {
               "id": "71575132",
-              "jaBoxscoreName": "小笠原"
+              "jaBoxscoreName": "小笠原",
+              "boxscoreName": "Ogasawara"
             },
             "stats": {
               "batting": {
@@ -5662,6 +5663,7 @@
           "jerseyNumber": "98",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Ogasawara",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -23587,7 +23589,8 @@
           {
             "person": {
               "id": "61165139",
-              "jaBoxscoreName": "石川柊"
+              "jaBoxscoreName": "石川柊",
+              "boxscoreName": "Shu.Ishikawa"
             },
             "stats": {
               "batting": {},
@@ -26175,6 +26178,7 @@
           "jerseyNumber": "21",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Shu.Ishikawa",
           "batSide": "R",
           "pitchHand": "R"
         },
