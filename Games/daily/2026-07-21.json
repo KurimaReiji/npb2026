@@ -1945,7 +1945,8 @@
           {
             "person": {
               "id": "11015155",
-              "jaBoxscoreName": "代木"
+              "jaBoxscoreName": "代木",
+              "boxscoreName": "Shiroki"
             },
             "stats": {
               "batting": {
@@ -5760,6 +5761,7 @@
           "jerseyNumber": "25",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Shiroki",
           "batSide": "L",
           "pitchHand": "L"
         },
