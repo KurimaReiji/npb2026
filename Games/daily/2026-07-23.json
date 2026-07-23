@@ -2350,7 +2350,8 @@
           {
             "person": {
               "id": "43345157",
-              "jaBoxscoreName": "山田"
+              "jaBoxscoreName": "山田",
+              "boxscoreName": "Yamada"
             },
             "stats": {
               "batting": {},
@@ -5541,6 +5542,7 @@
           "jerseyNumber": "36",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamada",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -12439,7 +12441,8 @@
           {
             "person": {
               "id": "83185150",
-              "jaBoxscoreName": "山口"
+              "jaBoxscoreName": "山口",
+              "boxscoreName": "Yamaguchi"
             },
             "stats": {
               "batting": {},
@@ -16458,6 +16461,7 @@
           "jerseyNumber": "47",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamaguchi",
           "batSide": "R",
           "pitchHand": "R"
         },
