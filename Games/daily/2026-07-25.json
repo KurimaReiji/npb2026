@@ -2572,7 +2572,8 @@
           {
             "person": {
               "id": "11615159",
-              "jaBoxscoreName": "西舘"
+              "jaBoxscoreName": "西舘",
+              "boxscoreName": "Nishidate"
             },
             "stats": {
               "batting": {
@@ -5746,6 +5747,7 @@
           "jerseyNumber": "14",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Nishidate",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -7095,7 +7097,8 @@
           {
             "person": {
               "id": "13015152",
-              "jaBoxscoreName": "ビド"
+              "jaBoxscoreName": "ビド",
+              "boxscoreName": "Bido"
             },
             "stats": {
               "batting": {
@@ -11079,6 +11082,7 @@
           "jerseyNumber": "42",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Bido",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -18352,7 +18356,8 @@
           {
             "person": {
               "id": "13015150",
-              "jaBoxscoreName": "マルテ"
+              "jaBoxscoreName": "マルテ",
+              "boxscoreName": "Marte"
             },
             "stats": {
               "batting": {},
@@ -21734,6 +21739,7 @@
           "jerseyNumber": "23",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Marte",
           "batSide": "R",
           "pitchHand": "R"
         },
