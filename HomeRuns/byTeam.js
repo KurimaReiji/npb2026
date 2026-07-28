@@ -34,7 +34,7 @@ const rows = Object.entries(groupedByLaegue)
   })
   ;
 
-const title = `${season} NPB Home Runs (${byTeam.total})`;
+const title = `${season} NPB Home Runs (${byTeam.lastUpdated})`;
 const header = `${"Team".padEnd(10)} ${"Hit".padStart(5)}    ${"Allowed".padStart(5)}    ${"Diff".padStart(5)}`;
 const rowLength = header.length;
 console.log(
@@ -47,9 +47,14 @@ console.log(
     "-".repeat(rowLength),
     rows.at(1).join("\n"),
     "-".repeat(rowLength),
-    byTeam.lastUpdated.padStart(rowLength),
+    `Total: ${byTeam.total}`.padStart(rowLength),
   ].join("\n")
 );
+
+console.warn(data.reduce((a,c)=>{
+  a[c.league] += Number(c.hra);
+  return a;
+},{Central: 0, Pacific:0}));
 
 async function groupByTeam() {
   const stats = {
