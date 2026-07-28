@@ -570,10 +570,12 @@ export async function parseGameLinks(raw) {
     .filter((row) => row.anchor)
     .filter((row) => !row.cancel)
     .map((row) => row.anchor.href)
+    .filter((href) => !href.includes("cl"))
     ;
   const today = (raw.today || [])
     .filter((o) => o.anchor.text?.includes("試合終了"))
     .map((o) => o.anchor.href)
+    .filter((href) => !href.includes("cl"))
     ;
   if (rows.length !== today.length) {
     console.error(`Scheduled: ${rows.length || 0}, Finished: ${today.length}`);
