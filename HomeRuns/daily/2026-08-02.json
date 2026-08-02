@@ -1,0 +1,324 @@
+[
+  {
+    "id": "11915132-2026-04",
+    "date": "2026-08-02",
+    "batter": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "63965150",
+      "jaBoxscoreName": "ウォルターズ",
+      "boxscoreName": "Walters",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 4,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 2,
+      "home": 1
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0802/s-t-15/playbyplay.html#com4-1"
+  },
+  {
+    "id": "11915132-2026-05",
+    "date": "2026-08-02",
+    "batter": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "63365152",
+      "jaBoxscoreName": "キハダ",
+      "boxscoreName": "Quijada",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 5,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 3,
+      "home": 3
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0802/s-t-15/playbyplay.html#com9-1"
+  },
+  {
+    "id": "21325138-2026-05",
+    "date": "2026-08-02",
+    "batter": {
+      "id": "21325138",
+      "jaBoxscoreName": "大盛",
+      "boxscoreName": "Ohmori",
+      "batSide": "L",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "pitcher": {
+      "id": "63165134",
+      "jaBoxscoreName": "柳",
+      "boxscoreName": "Yanagi",
+      "pitchHand": "R",
+      "teamCode": "D",
+      "teamName": "Dragons"
+    },
+    "number": 5,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島"
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0802/c-d-16/playbyplay.html#com3-2"
+  },
+  {
+    "id": "31135133-2026-03",
+    "date": "2026-08-02",
+    "batter": {
+      "id": "31135133",
+      "jaBoxscoreName": "秋山",
+      "boxscoreName": "Akiyama",
+      "batSide": "L",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "pitcher": {
+      "id": "93395150",
+      "jaBoxscoreName": "吉田",
+      "boxscoreName": "Yoshida",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "teamName": "Dragons"
+    },
+    "number": 3,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 3,
+      "home": 2
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島"
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0802/c-d-16/playbyplay.html#com8-2"
+  },
+  {
+    "id": "73075159-2026-23",
+    "date": "2026-08-02",
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 23,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0802/f-m-16/playbyplay.html#com3-2"
+  },
+  {
+    "id": "11015157-2026-09",
+    "date": "2026-08-02",
+    "batter": {
+      "id": "11015157",
+      "jaBoxscoreName": "平良",
+      "boxscoreName": "Taira",
+      "batSide": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "pitcher": {
+      "id": "13115159",
+      "jaBoxscoreName": "前田悠",
+      "boxscoreName": "Y.Maeda",
+      "pitchHand": "L",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "number": 9,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 2
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0802/e-h-17/playbyplay.html#com3-2"
+  },
+  {
+    "id": "73775152-2026-14",
+    "date": "2026-08-02",
+    "batter": {
+      "id": "73775152",
+      "jaBoxscoreName": "マッカスカー",
+      "boxscoreName": "McCusker",
+      "batSide": "R",
+      "teamCode": "E",
+      "teamName": "Eagles"
+    },
+    "pitcher": {
+      "id": "13115159",
+      "jaBoxscoreName": "前田悠",
+      "boxscoreName": "Y.Maeda",
+      "pitchHand": "L",
+      "teamCode": "H",
+      "teamName": "Hawks"
+    },
+    "number": 14,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 10,
+      "home": 3
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0802/e-h-17/playbyplay.html#com6-2"
+  }
+]
