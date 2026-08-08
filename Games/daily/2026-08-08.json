@@ -8255,7 +8255,8 @@
           {
             "person": {
               "id": "41445136",
-              "jaBoxscoreName": "馬場"
+              "jaBoxscoreName": "馬場",
+              "boxscoreName": "Baba"
             },
             "stats": {
               "batting": {
@@ -12912,6 +12913,7 @@
           "jerseyNumber": "96",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Baba",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -29709,7 +29711,8 @@
           {
             "person": {
               "id": "61065138",
-              "jaBoxscoreName": "富山"
+              "jaBoxscoreName": "富山",
+              "boxscoreName": "Tomiyama"
             },
             "stats": {
               "batting": {},
@@ -32863,6 +32866,7 @@
           "jerseyNumber": "28",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Tomiyama",
           "batSide": "L",
           "pitchHand": "L"
         },
