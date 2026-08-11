@@ -22852,7 +22852,8 @@
           {
             "person": {
               "id": "63965134",
-              "jaBoxscoreName": "モイネロ"
+              "jaBoxscoreName": "モイネロ",
+              "boxscoreName": "Moinelo"
             },
             "stats": {
               "batting": {},
@@ -22933,7 +22934,8 @@
           {
             "person": {
               "id": "61965153",
-              "jaBoxscoreName": "小林"
+              "jaBoxscoreName": "小林",
+              "boxscoreName": "Kobayashi"
             },
             "stats": {
               "batting": {},
@@ -25766,6 +25768,7 @@
           "jerseyNumber": "35",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Moinelo",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -25838,6 +25841,7 @@
           "jerseyNumber": "95",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kobayashi",
           "batSide": "R",
           "pitchHand": "R"
         },
