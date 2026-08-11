@@ -11,6 +11,7 @@ today: ../scraped/daily/$(GAMEDAY).json
 	bun $(SCR) $(GAMEDAY)
 	$(MAKE) ndjson
 	bun create-results.bun.js
+	bun create-standings.js
 
 ../scraped/daily/$(GAMEDAY).json:
 	$(MAKE) -C ../scraped today
@@ -20,6 +21,7 @@ nightly:
 	bun $(SCR) $(GAMEDAY)
 	$(MAKE) ndjson
 	bun create-results.bun.js
+	bun create-standings.js
 	bun create-boxscoreNames.bun.js
 
 Mar:
