@@ -6570,7 +6570,8 @@
           {
             "person": {
               "id": "01205152",
-              "jaBoxscoreName": "谷端"
+              "jaBoxscoreName": "谷端",
+              "boxscoreName": "Tanihata"
             },
             "stats": {
               "batting": {
@@ -10551,6 +10552,7 @@
           "jerseyNumber": "25",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Tanihata",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -11987,7 +11989,8 @@
           {
             "person": {
               "id": "53355153",
-              "jaBoxscoreName": "森博"
+              "jaBoxscoreName": "森博",
+              "boxscoreName": "H.Mori"
             },
             "stats": {
               "batting": {
@@ -15857,6 +15860,7 @@
           "jerseyNumber": "62",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "H.Mori",
           "batSide": "R",
           "pitchHand": "R"
         },
