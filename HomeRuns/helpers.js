@@ -41,7 +41,7 @@ function createRow(cur) {
     cur.venue.boxscoreName.padEnd(16),
     cur.gameResult
   ].join(' ');
-  return row.replace('Shu.Ishikawa ', 'Shu.Ishikawa');
+  return row.replace('Shu.Ishikawa ', 'Shu.Ishikawa').replace('Ryo.Matsumoto ','Ryo.Matsumoto');
 }
 
 function getHomerunResponse(season = "2026") {
