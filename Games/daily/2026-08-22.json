@@ -1215,7 +1215,8 @@
           {
             "person": {
               "id": "73175155",
-              "jaBoxscoreName": "松本"
+              "jaBoxscoreName": "松本",
+              "boxscoreName": "Matsumoto"
             },
             "stats": {
               "batting": {
@@ -4912,6 +4913,7 @@
           "jerseyNumber": "45",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Matsumoto",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -6352,7 +6354,8 @@
           {
             "person": {
               "id": "91895133",
-              "jaBoxscoreName": "山田"
+              "jaBoxscoreName": "山田",
+              "boxscoreName": "Yamada"
             },
             "stats": {
               "batting": {
@@ -10919,6 +10922,7 @@
           "jerseyNumber": "1",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yamada",
           "batSide": "R",
           "pitchHand": "R"
         },
