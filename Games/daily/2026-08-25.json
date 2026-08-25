@@ -28511,7 +28511,8 @@
           {
             "person": {
               "id": "03305150",
-              "jaBoxscoreName": "吉納"
+              "jaBoxscoreName": "吉納",
+              "boxscoreName": "Yoshinoh"
             },
             "stats": {
               "batting": {
@@ -28859,7 +28860,8 @@
           {
             "person": {
               "id": "41445134",
-              "jaBoxscoreName": "西口"
+              "jaBoxscoreName": "西口",
+              "boxscoreName": "Nishiguchi"
             },
             "stats": {
               "batting": {},
@@ -29616,7 +29618,8 @@
           {
             "person": {
               "id": "81885159",
-              "jaBoxscoreName": "堀"
+              "jaBoxscoreName": "堀",
+              "boxscoreName": "Hori"
             },
             "stats": {
               "batting": {
@@ -32300,6 +32303,7 @@
           "jerseyNumber": "62",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Nishiguchi",
           "batSide": "R",
           "pitchHand": "R"
         },
@@ -32459,6 +32463,7 @@
           "jerseyNumber": "36",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Yoshinoh",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -32619,6 +32624,7 @@
           "jerseyNumber": "62",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Hori",
           "batSide": "R",
           "pitchHand": "R"
         },
