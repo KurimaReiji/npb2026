@@ -843,7 +843,8 @@
           {
             "person": {
               "id": "43145136",
-              "jaBoxscoreName": "湯浅"
+              "jaBoxscoreName": "湯浅",
+              "boxscoreName": "Yuasa"
             },
             "stats": {
               "batting": {
@@ -2205,7 +2206,7 @@
                   "hits": 1,
                   "rbi": 0,
                   "stolenBases": 0,
-                  "strikeOuts": 2,
+                  "strikeOuts": 1,
                   "baseOnBalls": 0,
                   "intentionalWalks": 0,
                   "hitByPitch": 0,
@@ -2223,8 +2224,8 @@
                 "results": [
                   {
                     "inning": 2,
-                    "jaText": "三　振",
-                    "strikeOuts": 1
+                    "jaText": "三振",
+                    "TBD三振": 1
                   },
                   {
                     "inning": 4,
@@ -5306,6 +5307,7 @@
           "jerseyNumber": "00",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Yuasa",
           "batSide": "R",
           "pitchHand": "R"
         },
