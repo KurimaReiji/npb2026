@@ -1145,7 +1145,8 @@
           {
             "person": {
               "id": "91095155",
-              "jaBoxscoreName": "鈴木大"
+              "jaBoxscoreName": "鈴木大",
+              "boxscoreName": "Y.Suzuki"
             },
             "stats": {
               "batting": {
@@ -2203,7 +2204,8 @@
           {
             "person": {
               "id": "11315115",
-              "jaBoxscoreName": "石川"
+              "jaBoxscoreName": "石川",
+              "boxscoreName": "Ishikawa"
             },
             "stats": {
               "batting": {
@@ -5683,6 +5685,7 @@
           "jerseyNumber": "59",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Y.Suzuki",
           "batSide": "R",
           "pitchHand": "R"
         }
@@ -5705,6 +5708,7 @@
           "jerseyNumber": "19",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Ishikawa",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -7341,7 +7345,8 @@
           {
             "person": {
               "id": "11515155",
-              "jaBoxscoreName": "岡留"
+              "jaBoxscoreName": "岡留",
+              "boxscoreName": "Okadome"
             },
             "stats": {
               "batting": {
@@ -11460,6 +11465,7 @@
           "jerseyNumber": "64",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Okadome",
           "batSide": "R",
           "pitchHand": "R"
         },
