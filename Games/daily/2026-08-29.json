@@ -12424,7 +12424,8 @@
           {
             "person": {
               "id": "91795152",
-              "jaBoxscoreName": "工藤"
+              "jaBoxscoreName": "工藤",
+              "boxscoreName": "Kudo"
             },
             "stats": {
               "batting": {
@@ -16317,6 +16318,7 @@
           "jerseyNumber": "35",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Kudo",
           "batSide": "R",
           "pitchHand": "R"
         },
