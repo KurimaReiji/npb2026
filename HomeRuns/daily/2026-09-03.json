@@ -1,0 +1,186 @@
+[
+  {
+    "id": "41045153-2026-33",
+    "date": "2026-09-03",
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "01805152",
+      "jaBoxscoreName": "増居",
+      "boxscoreName": "Masui",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 33,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 3,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0903/s-t-21/playbyplay.html#com3-1"
+  },
+  {
+    "id": "51155153-2026-06",
+    "date": "2026-09-03",
+    "batter": {
+      "id": "51155153",
+      "jaBoxscoreName": "赤羽",
+      "boxscoreName": "Akahane",
+      "batSide": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "pitcher": {
+      "id": "71375153",
+      "jaBoxscoreName": "伊藤将",
+      "boxscoreName": "M.Itoh",
+      "pitchHand": "L",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "number": 6,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 4,
+      "home": 0
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0903/s-t-21/playbyplay.html#com3-2"
+  },
+  {
+    "id": "41045153-2026-34",
+    "date": "2026-09-03",
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers"
+    },
+    "pitcher": {
+      "id": "03105159",
+      "jaBoxscoreName": "松本健",
+      "boxscoreName": "K.Matsumoto",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows"
+    },
+    "number": 34,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 4,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/0903/s-t-21/playbyplay.html#com5-1"
+  },
+  {
+    "id": "91195151-2026-09",
+    "date": "2026-09-03",
+    "batter": {
+      "id": "91195151",
+      "jaBoxscoreName": "石川昂",
+      "boxscoreName": "Tak.Ishikawa",
+      "batSide": "R",
+      "teamCode": "D",
+      "teamName": "Dragons"
+    },
+    "pitcher": {
+      "id": "91995153",
+      "jaBoxscoreName": "栗林",
+      "boxscoreName": "Kuribayashi",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "teamName": "Carp"
+    },
+    "number": 9,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム",
+      "name": "Vantelin Dome Nagoya",
+      "jaName": "バンテリンドーム ナゴヤ"
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "result": "",
+    "gameResult": "L",
+    "link": "https://npb.jp/scores/2026/0903/d-c-22/playbyplay.html#com3-2"
+  }
+]
