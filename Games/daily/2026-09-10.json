@@ -7440,7 +7440,8 @@
           {
             "person": {
               "id": "31335159",
-              "jaBoxscoreName": "井上絢"
+              "jaBoxscoreName": "井上絢",
+              "boxscoreName": "K.Inoue"
             },
             "stats": {
               "batting": {
@@ -10495,6 +10496,7 @@
           "jerseyNumber": "55",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "K.Inoue",
           "batSide": "L",
           "pitchHand": "R"
         },
