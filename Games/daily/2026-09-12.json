@@ -24112,7 +24112,8 @@
           {
             "person": {
               "id": "31235130",
-              "jaBoxscoreName": "田中貴"
+              "jaBoxscoreName": "田中貴",
+              "boxscoreName": "T.Tanaka"
             },
             "stats": {
               "batting": {
@@ -27890,6 +27891,7 @@
           "jerseyNumber": "44",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "T.Tanaka",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -30324,7 +30326,8 @@
           {
             "person": {
               "id": "23025152",
-              "jaBoxscoreName": "ラトリッジ"
+              "jaBoxscoreName": "ラトリッジ",
+              "boxscoreName": "Rutledge"
             },
             "stats": {
               "batting": {},
@@ -33298,6 +33301,7 @@
           "jerseyNumber": "14",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Rutledge",
           "batSide": "R",
           "pitchHand": "R"
         },
