@@ -8602,7 +8602,8 @@
           {
             "person": {
               "id": "71975134",
-              "jaBoxscoreName": "佐々木"
+              "jaBoxscoreName": "佐々木",
+              "boxscoreName": "Sasaki"
             },
             "stats": {
               "batting": {
@@ -13064,6 +13065,7 @@
           "jerseyNumber": "41",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Sasaki",
           "batSide": "R",
           "pitchHand": "R"
         },
