@@ -17223,7 +17223,8 @@
           {
             "person": {
               "id": "61165152",
-              "jaBoxscoreName": "石垣元"
+              "jaBoxscoreName": "石垣元",
+              "boxscoreName": "G.Ishigaki"
             },
             "stats": {
               "batting": {},
@@ -17249,7 +17250,8 @@
           {
             "person": {
               "id": "61865136",
-              "jaBoxscoreName": "森"
+              "jaBoxscoreName": "森",
+              "boxscoreName": "Mori"
             },
             "stats": {
               "batting": {},
@@ -20211,6 +20213,7 @@
           "jerseyNumber": "18",
           "jaBatSide": "両",
           "jaPitchHand": "右",
+          "boxscoreName": "G.Ishigaki",
           "batSide": "S",
           "pitchHand": "R"
         },
@@ -20296,6 +20299,7 @@
           "jerseyNumber": "92",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Mori",
           "batSide": "L",
           "pitchHand": "R"
         },
