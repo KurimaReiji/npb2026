@@ -10931,7 +10931,8 @@
           {
             "person": {
               "id": "51055155",
-              "jaBoxscoreName": "末包"
+              "jaBoxscoreName": "末包",
+              "boxscoreName": "Suekane"
             },
             "stats": {
               "batting": {
@@ -14253,6 +14254,7 @@
           "jerseyNumber": "52",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Suekane",
           "batSide": "R",
           "pitchHand": "R"
         },
