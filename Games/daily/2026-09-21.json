@@ -1463,7 +1463,8 @@
           {
             "person": {
               "id": "53155157",
-              "jaBoxscoreName": "宮内"
+              "jaBoxscoreName": "宮内",
+              "boxscoreName": "Miyauchi"
             },
             "stats": {
               "batting": {
@@ -5104,6 +5105,7 @@
           "jerseyNumber": "53",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Miyauchi",
           "batSide": "R",
           "pitchHand": "R"
         },
