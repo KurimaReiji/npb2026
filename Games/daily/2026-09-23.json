@@ -14841,7 +14841,8 @@
           {
             "person": {
               "id": "91995157",
-              "jaBoxscoreName": "清水"
+              "jaBoxscoreName": "清水",
+              "boxscoreName": "Shimizu"
             },
             "stats": {
               "batting": {
@@ -17955,6 +17956,7 @@
           "jerseyNumber": "62",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "Shimizu",
           "batSide": "L",
           "pitchHand": "R"
         },
@@ -20905,7 +20907,8 @@
           {
             "person": {
               "id": "61665151",
-              "jaBoxscoreName": "松岡"
+              "jaBoxscoreName": "松岡",
+              "boxscoreName": "Matsuoka"
             },
             "stats": {
               "batting": {},
@@ -24871,6 +24874,7 @@
           "jerseyNumber": "93",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Matsuoka",
           "batSide": "R",
           "pitchHand": "R"
         },
