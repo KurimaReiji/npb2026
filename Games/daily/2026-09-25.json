@@ -23020,7 +23020,8 @@
           {
             "person": {
               "id": "43545150",
-              "jaBoxscoreName": "陳"
+              "jaBoxscoreName": "陳",
+              "boxscoreName": "MH.Chen"
             },
             "stats": {
               "batting": {},
@@ -26207,6 +26208,7 @@
           "jerseyNumber": "92",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "MH.Chen",
           "batSide": "L",
           "pitchHand": "R"
         },
