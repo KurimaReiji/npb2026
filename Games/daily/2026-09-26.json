@@ -940,7 +940,8 @@
           {
             "person": {
               "id": "03105150",
-              "jaBoxscoreName": "森駿"
+              "jaBoxscoreName": "森駿",
+              "boxscoreName": "S.Mori"
             },
             "stats": {
               "batting": {
@@ -5419,6 +5420,7 @@
           "jerseyNumber": "31",
           "jaBatSide": "左",
           "jaPitchHand": "右",
+          "boxscoreName": "S.Mori",
           "batSide": "L",
           "pitchHand": "R"
         },
