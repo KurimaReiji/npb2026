@@ -18599,7 +18599,8 @@
           {
             "person": {
               "id": "01505118",
-              "jaBoxscoreName": "辛島"
+              "jaBoxscoreName": "辛島",
+              "boxscoreName": "Karashima"
             },
             "stats": {
               "batting": {},
@@ -21217,6 +21218,7 @@
           "jerseyNumber": "58",
           "jaBatSide": "左",
           "jaPitchHand": "左",
+          "boxscoreName": "Karashima",
           "batSide": "L",
           "pitchHand": "L"
         },
@@ -23425,7 +23427,8 @@
           {
             "person": {
               "id": "01605152",
-              "jaBoxscoreName": "冨士"
+              "jaBoxscoreName": "冨士",
+              "boxscoreName": "Fuji"
             },
             "stats": {
               "batting": {},
@@ -25895,6 +25898,7 @@
           "jerseyNumber": "46",
           "jaBatSide": "右",
           "jaPitchHand": "右",
+          "boxscoreName": "Fuji",
           "batSide": "R",
           "pitchHand": "R"
         },
