@@ -17125,7 +17125,7 @@
               "baseOnBalls": 4,
               "hitByPitch": 0,
               "strikeOuts": 12,
-              "wildPitches": 1,
+              "wildPitches": 0,
               "balks": 0,
               "runs": 6,
               "earnedRuns": 6,
@@ -17852,7 +17852,7 @@
                   "baseOnBalls": 0,
                   "hitByPitch": 0,
                   "strikeOuts": 3,
-                  "wildPitches": 1,
+                  "wildPitches": 0,
                   "balks": 0,
                   "runs": 0,
                   "earnedRuns": 0,
@@ -17924,7 +17924,7 @@
               "runs": 6,
               "hits": 8,
               "rbi": 6,
-              "stolenBases": 2,
+              "stolenBases": 3,
               "strikeOuts": 0,
               "baseOnBalls": 0,
               "intentionalWalks": 0,
@@ -18428,7 +18428,7 @@
                   "runs": 0,
                   "hits": 1,
                   "rbi": 0,
-                  "stolenBases": 0,
+                  "stolenBases": 1,
                   "strikeOuts": 2,
                   "baseOnBalls": 0,
                   "intentionalWalks": 0,
@@ -20719,6 +20719,35 @@
           "bottom": 0,
           "away": 0,
           "home": 6
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（楽天の攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "pitcher": {
+          "id": "61065138",
+          "jaBoxscoreName": "富山"
+        },
+        "result": {
+          "jaText": "（走者・黒川）二塁盗塁成功"
+        },
+        "stats": {},
+        "plateAppearances": 36,
+        "runs": {
+          "top": 0,
+          "bottom": 1,
+          "away": 0,
+          "home": 7
+        },
+        "isRunnerEvent": "Y",
+        "runner": {
+          "id": "01905151",
+          "jaBoxscoreName": "黒川"
         }
       },
       {
