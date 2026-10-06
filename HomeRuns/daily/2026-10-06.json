@@ -1,0 +1,48 @@
+[
+  {
+    "id": "81685153-2026-13",
+    "date": "2026-10-06",
+    "batter": {
+      "id": "81685153",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions"
+    },
+    "pitcher": {
+      "id": "93095152",
+      "jaBoxscoreName": "ルケーシー",
+      "boxscoreName": "Lucchesi",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "teamName": "Marines"
+    },
+    "number": 13,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "result": "",
+    "gameResult": "W",
+    "link": "https://npb.jp/scores/2026/1006/m-l-25/playbyplay.html#com1-1"
+  }
+]
