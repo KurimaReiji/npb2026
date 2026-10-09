@@ -1,7 +1,5 @@
 name: nightly
 on:
-  schedule:
-    - cron: '45 18 * 7-10 *'
   workflow_dispatch:
 jobs:
   build:
