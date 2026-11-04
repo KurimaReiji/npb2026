@@ -1,0 +1,9 @@
+[
+  {
+    "effectiveDate": "2026-03-28",
+    "op": "test",
+    "jaDesc": "bottom 5 （走者・牧）二塁盗塁成功 山野 鈴木叶 けん制飛び出し",
+    "path": "/2026-03-28:13115153:5:SB:2B:1/countsAsStealAttempt",
+    "value": "N"
+  }
+]
