@@ -1,0 +1,1505 @@
+{
+  "url": "https://npb.jp/announcement/2025/pn_released.html",
+  "title": "自由契約選手 | 2025年度公示 | NPB.jp 日本野球機構",
+  "rows": [
+    {
+      "date": "2026-01-20",
+      "teamCode": "L",
+      "playerId": "31335134",
+      "jaRegisteredName": "今井　達也",
+      "jaPosition": "投手",
+      "primaryNumber": "48",
+      "jaNote": "（契約保留権放棄）※3"
+    },
+    {
+      "date": "2026-01-19",
+      "teamCode": "G",
+      "playerId": "11515130",
+      "jaRegisteredName": "岡本　和真",
+      "jaPosition": "内野手",
+      "primaryNumber": "25",
+      "jaNote": "（契約保留権放棄）※2"
+    },
+    {
+      "date": "2026-01-09",
+      "teamCode": "S",
+      "playerId": "41845136",
+      "jaRegisteredName": "村上　宗隆",
+      "jaPosition": "内野手",
+      "primaryNumber": "55",
+      "jaNote": "（契約保留権放棄）※1"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "51655134",
+      "jaRegisteredName": "濵口　遥大",
+      "jaPosition": "投手",
+      "primaryNumber": "13",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "61265139",
+      "jaRegisteredName": "又吉　克樹",
+      "jaPosition": "投手",
+      "primaryNumber": "14",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "51155130",
+      "jaRegisteredName": "有原　航平",
+      "jaPosition": "投手",
+      "primaryNumber": "17",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "01005135",
+      "jaRegisteredName": "武田　翔太",
+      "jaPosition": "投手",
+      "primaryNumber": "18",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "73375159",
+      "jaRegisteredName": "村田　賢一",
+      "jaPosition": "投手",
+      "primaryNumber": "34",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "21425138",
+      "jaRegisteredName": "板東　湧梧",
+      "jaPosition": "投手",
+      "primaryNumber": "50",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "51055136",
+      "jaRegisteredName": "田浦　文丸",
+      "jaPosition": "投手",
+      "primaryNumber": "56",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "31635155",
+      "jaRegisteredName": "長谷川　威展",
+      "jaPosition": "投手",
+      "primaryNumber": "59",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "73175157",
+      "jaRegisteredName": "宮﨑　颯",
+      "jaPosition": "投手",
+      "primaryNumber": "85",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "31735150",
+      "jaRegisteredName": "川口　冬弥",
+      "jaPosition": "投手",
+      "primaryNumber": "95",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "H",
+      "playerId": "33135153",
+      "jaRegisteredName": "牧原　巧汰",
+      "jaPosition": "捕手",
+      "primaryNumber": "22",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "11615138",
+      "jaRegisteredName": "福田　俊",
+      "jaPosition": "投手",
+      "primaryNumber": "40",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "93795159",
+      "jaRegisteredName": "Ａ．ザバラ",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "33735151",
+      "jaRegisteredName": "Ｄ．バーヘイゲン",
+      "jaPosition": "投手",
+      "primaryNumber": "45",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "61165130",
+      "jaRegisteredName": "石川　直也",
+      "jaPosition": "投手",
+      "primaryNumber": "51",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "41645153",
+      "jaRegisteredName": "根本　悠楓",
+      "jaPosition": "投手",
+      "primaryNumber": "59",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "61665151",
+      "jaRegisteredName": "松岡　洸希",
+      "jaPosition": "投手",
+      "primaryNumber": "93",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "53155157",
+      "jaRegisteredName": "宮内　春輝",
+      "jaPosition": "投手",
+      "primaryNumber": "97",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "01805153",
+      "jaRegisteredName": "古川　裕大",
+      "jaPosition": "捕手",
+      "primaryNumber": "27",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "13315136",
+      "jaRegisteredName": "若林　晃弘",
+      "jaPosition": "内野手",
+      "primaryNumber": "49",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "F",
+      "playerId": "41845159",
+      "jaRegisteredName": "星野　ひので",
+      "jaPosition": "外野手",
+      "primaryNumber": "68",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "31535153",
+      "jaRegisteredName": "宇田川　優希",
+      "jaPosition": "投手",
+      "primaryNumber": "14",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "61665150",
+      "jaRegisteredName": "東山　玲士",
+      "jaPosition": "投手",
+      "primaryNumber": "45",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "61665136",
+      "jaRegisteredName": "本田　仁海",
+      "jaPosition": "投手",
+      "primaryNumber": "46",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "11915155",
+      "jaRegisteredName": "小木田　敦也",
+      "jaPosition": "投手",
+      "primaryNumber": "56",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "31335132",
+      "jaRegisteredName": "井口　和朋",
+      "jaPosition": "投手",
+      "primaryNumber": "58",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "31835132",
+      "jaRegisteredName": "本田　圭佑",
+      "jaPosition": "投手",
+      "primaryNumber": "60",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "01305155",
+      "jaRegisteredName": "大里　昂生",
+      "jaPosition": "内野手",
+      "primaryNumber": "64",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "21925153",
+      "jaRegisteredName": "元　謙太",
+      "jaPosition": "外野手",
+      "primaryNumber": "27",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "91995130",
+      "jaRegisteredName": "佐野　皓大",
+      "jaPosition": "外野手",
+      "primaryNumber": "41",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "B",
+      "playerId": "01605136",
+      "jaRegisteredName": "福田　周平",
+      "jaPosition": "外野手",
+      "primaryNumber": "65",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "23725150",
+      "jaRegisteredName": "Ｓ．ハワード",
+      "jaPosition": "投手",
+      "primaryNumber": "15",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "71775157",
+      "jaRegisteredName": "小孫　竜二",
+      "jaPosition": "投手",
+      "primaryNumber": "22",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "11615150",
+      "jaRegisteredName": "德山　一翔",
+      "jaPosition": "投手",
+      "primaryNumber": "29",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "61865138",
+      "jaRegisteredName": "弓削　隼人",
+      "jaPosition": "投手",
+      "primaryNumber": "38",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "13115155",
+      "jaRegisteredName": "松井　友飛",
+      "jaPosition": "投手",
+      "primaryNumber": "45",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "73175159",
+      "jaRegisteredName": "松田　啄磨",
+      "jaPosition": "投手",
+      "primaryNumber": "61",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "13315155",
+      "jaRegisteredName": "宮森　智志",
+      "jaPosition": "投手",
+      "primaryNumber": "72",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "33035159",
+      "jaRegisteredName": "Ｍ．ヤフーレ",
+      "jaPosition": "投手",
+      "primaryNumber": "89",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "61165132",
+      "jaRegisteredName": "阿部　寿樹",
+      "jaPosition": "内野手",
+      "primaryNumber": "4",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "63965157",
+      "jaRegisteredName": "Ｍ．フランコ",
+      "jaPosition": "内野手",
+      "primaryNumber": "23",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "73175136",
+      "jaRegisteredName": "山﨑　剛",
+      "jaPosition": "内野手",
+      "primaryNumber": "34",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "13115130",
+      "jaRegisteredName": "山田　遥楓",
+      "jaPosition": "内野手",
+      "primaryNumber": "42",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "21325135",
+      "jaRegisteredName": "岡島　豪郎",
+      "jaPosition": "外野手",
+      "primaryNumber": "27",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "71975135",
+      "jaRegisteredName": "島内　宏明",
+      "jaPosition": "外野手",
+      "primaryNumber": "35",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "E",
+      "playerId": "61865155",
+      "jaRegisteredName": "前田　銀治",
+      "jaPosition": "外野手",
+      "primaryNumber": "79",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "01205134",
+      "jaRegisteredName": "田村　伊知郎",
+      "jaPosition": "投手",
+      "primaryNumber": "20",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "91695134",
+      "jaRegisteredName": "平井　克典",
+      "jaPosition": "投手",
+      "primaryNumber": "25",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "01005153",
+      "jaRegisteredName": "佐々木　健",
+      "jaPosition": "投手",
+      "primaryNumber": "49",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "63165153",
+      "jaRegisteredName": "水上　由伸",
+      "jaPosition": "投手",
+      "primaryNumber": "69",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "33335153",
+      "jaRegisteredName": "元山　飛優",
+      "jaPosition": "内野手",
+      "primaryNumber": "30",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "51955150",
+      "jaRegisteredName": "古賀　輝希",
+      "jaPosition": "内野手",
+      "primaryNumber": "59",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "73575153",
+      "jaRegisteredName": "渡部　健人",
+      "jaPosition": "内野手",
+      "primaryNumber": "66",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "11415138",
+      "jaRegisteredName": "野村　大樹",
+      "jaPosition": "内野手",
+      "primaryNumber": "67",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "21825134",
+      "jaRegisteredName": "松原　聖弥",
+      "jaPosition": "外野手",
+      "primaryNumber": "35",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "23125157",
+      "jaRegisteredName": "モンテル",
+      "jaPosition": "外野手",
+      "primaryNumber": "73",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "L",
+      "playerId": "51555159",
+      "jaRegisteredName": "奥村　光一",
+      "jaPosition": "外野手",
+      "primaryNumber": "75",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "81985133",
+      "jaRegisteredName": "澤村　拓一",
+      "jaPosition": "投手",
+      "primaryNumber": "11",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "41145139",
+      "jaRegisteredName": "石川　歩",
+      "jaPosition": "投手",
+      "primaryNumber": "12",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "01605133",
+      "jaRegisteredName": "美馬　学",
+      "jaPosition": "投手",
+      "primaryNumber": "15",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "21225139",
+      "jaRegisteredName": "二木　康太",
+      "jaPosition": "投手",
+      "primaryNumber": "18",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "91495136",
+      "jaRegisteredName": "西村　天裕",
+      "jaPosition": "投手",
+      "primaryNumber": "40",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "03905150",
+      "jaRegisteredName": "Ｂ．サモンズ",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "91395130",
+      "jaRegisteredName": "岩下　大輝",
+      "jaPosition": "投手",
+      "primaryNumber": "46",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "33035150",
+      "jaRegisteredName": "Ａ．ボス",
+      "jaPosition": "投手",
+      "primaryNumber": "54",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "01705131",
+      "jaRegisteredName": "国吉　佑樹",
+      "jaPosition": "投手",
+      "primaryNumber": "92",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "93995155",
+      "jaRegisteredName": "Ｔ．ゲレーロ",
+      "jaPosition": "投手",
+      "primaryNumber": "97",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "21525132",
+      "jaRegisteredName": "柿沼　友哉",
+      "jaPosition": "捕手",
+      "primaryNumber": "55",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "91595151",
+      "jaRegisteredName": "大下　誠一郎",
+      "jaPosition": "内野手",
+      "primaryNumber": "39",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "31535157",
+      "jaRegisteredName": "金田　優太",
+      "jaPosition": "内野手",
+      "primaryNumber": "68",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "71575131",
+      "jaRegisteredName": "荻野　貴司",
+      "jaPosition": "外野手",
+      "primaryNumber": "0",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "M",
+      "playerId": "23925150",
+      "jaRegisteredName": "Ｓ．アセベド",
+      "jaPosition": "外野手",
+      "primaryNumber": "69",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "33735159",
+      "jaRegisteredName": "Ｊ．ゲラ",
+      "jaPosition": "投手",
+      "primaryNumber": "00",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "91495151",
+      "jaRegisteredName": "西　純矢",
+      "jaPosition": "投手",
+      "primaryNumber": "15",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "13715150",
+      "jaRegisteredName": "Ｊ．デュプランティエ",
+      "jaPosition": "投手",
+      "primaryNumber": "20",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "11315138",
+      "jaRegisteredName": "漆原　大晟",
+      "jaPosition": "投手",
+      "primaryNumber": "34",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "73775150",
+      "jaRegisteredName": "Ｎ．ネルソン",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "03505132",
+      "jaRegisteredName": "Ｒ．ドリス",
+      "jaPosition": "投手",
+      "primaryNumber": "85",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "11715138",
+      "jaRegisteredName": "川原　陸",
+      "jaPosition": "投手",
+      "primaryNumber": "92",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "81085153",
+      "jaRegisteredName": "佐藤　蓮",
+      "jaPosition": "投手",
+      "primaryNumber": "98",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "81685139",
+      "jaRegisteredName": "渡邉　諒",
+      "jaPosition": "内野手",
+      "primaryNumber": "25",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "11215157",
+      "jaRegisteredName": "戸井　零士",
+      "jaPosition": "内野手",
+      "primaryNumber": "44",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "63765150",
+      "jaRegisteredName": "Ｒ．ヘルナンデス",
+      "jaPosition": "内野手",
+      "primaryNumber": "95",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "61565136",
+      "jaRegisteredName": "楠本　泰史",
+      "jaPosition": "外野手",
+      "primaryNumber": "55",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "T",
+      "playerId": "01405157",
+      "jaRegisteredName": "野口　恭佑",
+      "jaPosition": "外野手",
+      "primaryNumber": "97",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "81285155",
+      "jaRegisteredName": "徳山　壮磨",
+      "jaPosition": "投手",
+      "primaryNumber": "15",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "41245137",
+      "jaRegisteredName": "三嶋　一輝",
+      "jaPosition": "投手",
+      "primaryNumber": "17",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "63165157",
+      "jaRegisteredName": "森下　瑠大",
+      "jaPosition": "投手",
+      "primaryNumber": "36",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "01405139",
+      "jaRegisteredName": "森　唯斗",
+      "jaPosition": "投手",
+      "primaryNumber": "38",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "93195153",
+      "jaRegisteredName": "松本　隆之介",
+      "jaPosition": "投手",
+      "primaryNumber": "40",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "43745159",
+      "jaRegisteredName": "Ａ．ジャクソン",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "11715134",
+      "jaRegisteredName": "京山　将弥",
+      "jaPosition": "投手",
+      "primaryNumber": "48",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "71675134",
+      "jaRegisteredName": "浜地　真澄",
+      "jaPosition": "投手",
+      "primaryNumber": "52",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "03505159",
+      "jaRegisteredName": "Ｒ．ウィック",
+      "jaPosition": "投手",
+      "primaryNumber": "62",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "13715159",
+      "jaRegisteredName": "Ａ．ケイ",
+      "jaPosition": "投手",
+      "primaryNumber": "69",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "81985159",
+      "jaRegisteredName": "庄司　陽斗",
+      "jaPosition": "投手",
+      "primaryNumber": "91",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "DB",
+      "playerId": "33235157",
+      "jaRegisteredName": "Ｔ．バウアー",
+      "jaPosition": "投手",
+      "primaryNumber": "96",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "31335135",
+      "jaRegisteredName": "今村　信貴",
+      "jaPosition": "投手",
+      "primaryNumber": "26",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "01005136",
+      "jaRegisteredName": "高橋　礼",
+      "jaPosition": "投手",
+      "primaryNumber": "28",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "03705157",
+      "jaRegisteredName": "Ｆ．グリフィン",
+      "jaPosition": "投手",
+      "primaryNumber": "29",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "81785132",
+      "jaRegisteredName": "近藤　大亮",
+      "jaPosition": "投手",
+      "primaryNumber": "30",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "73975155",
+      "jaRegisteredName": "Ｋ．ケラー",
+      "jaPosition": "投手",
+      "primaryNumber": "33",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "41445136",
+      "jaRegisteredName": "馬場　皐輔",
+      "jaPosition": "投手",
+      "primaryNumber": "36",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "41145150",
+      "jaRegisteredName": "石田　充冴",
+      "jaPosition": "投手",
+      "primaryNumber": "90",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "91495153",
+      "jaRegisteredName": "戸田　懐生",
+      "jaPosition": "投手",
+      "primaryNumber": "95",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "91795155",
+      "jaRegisteredName": "京本　眞",
+      "jaPosition": "投手",
+      "primaryNumber": "99",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "31935153",
+      "jaRegisteredName": "喜多　隆介",
+      "jaPosition": "捕手",
+      "primaryNumber": "94",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "91995131",
+      "jaRegisteredName": "長野　久義",
+      "jaPosition": "外野手",
+      "primaryNumber": "7",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "83285159",
+      "jaRegisteredName": "Ｍ．フルプ",
+      "jaPosition": "外野手",
+      "primaryNumber": "39",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "33235159",
+      "jaRegisteredName": "Ｅ．ヘルナンデス",
+      "jaPosition": "外野手",
+      "primaryNumber": "42",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "21925132",
+      "jaRegisteredName": "重信　慎之介",
+      "jaPosition": "外野手",
+      "primaryNumber": "43",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "01505132",
+      "jaRegisteredName": "オコエ　瑠偉",
+      "jaPosition": "外野手",
+      "primaryNumber": "50",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "41345135",
+      "jaRegisteredName": "乙坂　智",
+      "jaPosition": "外野手",
+      "primaryNumber": "54",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "21925155",
+      "jaRegisteredName": "笹原　操希",
+      "jaPosition": "外野手",
+      "primaryNumber": "69",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "G",
+      "playerId": "91095155",
+      "jaRegisteredName": "鈴木　大和",
+      "jaPosition": "外野手",
+      "primaryNumber": "98",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "11515131",
+      "jaRegisteredName": "岡田　俊哉",
+      "jaPosition": "投手",
+      "primaryNumber": "11",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "81185138",
+      "jaRegisteredName": "梅津　晃大",
+      "jaPosition": "投手",
+      "primaryNumber": "18",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "53355153",
+      "jaRegisteredName": "森　博人",
+      "jaPosition": "投手",
+      "primaryNumber": "28",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "91995139",
+      "jaRegisteredName": "祖父江　大輔",
+      "jaPosition": "投手",
+      "primaryNumber": "33",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "51655159",
+      "jaRegisteredName": "土生　翔太",
+      "jaPosition": "投手",
+      "primaryNumber": "48",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "13015150",
+      "jaRegisteredName": "Ｙ．マルテ",
+      "jaPosition": "投手",
+      "primaryNumber": "52",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "93395157",
+      "jaRegisteredName": "山浅　龍之介",
+      "jaPosition": "捕手",
+      "primaryNumber": "57",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "63065150",
+      "jaRegisteredName": "Ｍ．チェイビス",
+      "jaPosition": "内野手",
+      "primaryNumber": "23",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "81285159",
+      "jaRegisteredName": "津田　啓史",
+      "jaPosition": "内野手",
+      "primaryNumber": "27",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "81785138",
+      "jaRegisteredName": "佐藤　龍世",
+      "jaPosition": "内野手",
+      "primaryNumber": "65",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "D",
+      "playerId": "81785133",
+      "jaRegisteredName": "駿太",
+      "jaPosition": "外野手",
+      "primaryNumber": "53",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "51155159",
+      "jaRegisteredName": "赤塚　健利",
+      "jaPosition": "投手",
+      "primaryNumber": "35",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "33735150",
+      "jaRegisteredName": "Ｊ．ドミンゲス",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "71575157",
+      "jaRegisteredName": "河野　佳",
+      "jaPosition": "投手",
+      "primaryNumber": "46",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "73975159",
+      "jaRegisteredName": "Ｔ．ハーン",
+      "jaPosition": "投手",
+      "primaryNumber": "68",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "81185133",
+      "jaRegisteredName": "磯村　嘉孝",
+      "jaPosition": "捕手",
+      "primaryNumber": "40",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "31335137",
+      "jaRegisteredName": "上本　崇司",
+      "jaPosition": "内野手",
+      "primaryNumber": "0",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "61965139",
+      "jaRegisteredName": "田中　広輔",
+      "jaPosition": "内野手",
+      "primaryNumber": "2",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "01405151",
+      "jaRegisteredName": "韮澤　雄也",
+      "jaPosition": "内野手",
+      "primaryNumber": "54",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "13115136",
+      "jaRegisteredName": "山足　達也",
+      "jaPosition": "内野手",
+      "primaryNumber": "69",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "41345151",
+      "jaRegisteredName": "宇草　孔基",
+      "jaPosition": "外野手",
+      "primaryNumber": "38",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "01405155",
+      "jaRegisteredName": "中村　健人",
+      "jaPosition": "外野手",
+      "primaryNumber": "50",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "C",
+      "playerId": "01405116",
+      "jaRegisteredName": "松山　竜平",
+      "jaPosition": "外野手",
+      "primaryNumber": "55",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "73075150",
+      "jaRegisteredName": "Ｐ．アビラ",
+      "jaPosition": "投手",
+      "primaryNumber": "11",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "93195136",
+      "jaRegisteredName": "山本　大貴",
+      "jaPosition": "投手",
+      "primaryNumber": "43",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "51555136",
+      "jaRegisteredName": "金久保　優斗",
+      "jaPosition": "投手",
+      "primaryNumber": "48",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "33535155",
+      "jaRegisteredName": "山下　輝",
+      "jaPosition": "投手",
+      "primaryNumber": "49",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "31635132",
+      "jaRegisteredName": "原　樹理",
+      "jaPosition": "投手",
+      "primaryNumber": "52",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "51855151",
+      "jaRegisteredName": "宮川　哲",
+      "jaPosition": "投手",
+      "primaryNumber": "61",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "91295155",
+      "jaRegisteredName": "竹山　日向",
+      "jaPosition": "投手",
+      "primaryNumber": "62",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "01405153",
+      "jaRegisteredName": "中川　拓真",
+      "jaPosition": "捕手",
+      "primaryNumber": "90",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "31735112",
+      "jaRegisteredName": "川端　慎吾",
+      "jaPosition": "内野手",
+      "primaryNumber": "5",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "21525136",
+      "jaRegisteredName": "北村　拓己",
+      "jaPosition": "内野手",
+      "primaryNumber": "38",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "21225133",
+      "jaRegisteredName": "西川　遥輝",
+      "jaPosition": "外野手",
+      "primaryNumber": "3",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-12-02",
+      "teamCode": "S",
+      "playerId": "81385130",
+      "jaRegisteredName": "太田　賢吾",
+      "jaPosition": "外野手",
+      "primaryNumber": "46",
+      "jaNote": "（保留されない選手）"
+    },
+    {
+      "date": "2025-11-28",
+      "teamCode": "D",
+      "playerId": "63965150",
+      "jaRegisteredName": "Ｎ．ウォルターズ",
+      "jaPosition": "投手",
+      "primaryNumber": "94",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-11-25",
+      "teamCode": "L",
+      "playerId": "13915157",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "jaPosition": "内野手",
+      "primaryNumber": "40",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-11-17",
+      "teamCode": "B",
+      "playerId": "83585150",
+      "jaRegisteredName": "Ｊ．ディアス",
+      "jaPosition": "内野手",
+      "primaryNumber": "54",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-11-17",
+      "teamCode": "B",
+      "playerId": "43945150",
+      "jaRegisteredName": "Ｅ．オリバレス",
+      "jaPosition": "外野手",
+      "primaryNumber": "36",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-11-17",
+      "teamCode": "T",
+      "playerId": "43045150",
+      "jaRegisteredName": "Ｇ．ハートウィグ",
+      "jaPosition": "投手",
+      "primaryNumber": "82",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-11-17",
+      "teamCode": "T",
+      "playerId": "03905157",
+      "jaRegisteredName": "Ｊ．ビーズリー",
+      "jaPosition": "投手",
+      "primaryNumber": "99",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-11-13",
+      "teamCode": "DB",
+      "playerId": "73375151",
+      "jaRegisteredName": "Ｔ．オースティン",
+      "jaPosition": "内野手",
+      "primaryNumber": "3",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-11-13",
+      "teamCode": "DB",
+      "playerId": "03205159",
+      "jaRegisteredName": "Ｍ．フォード",
+      "jaPosition": "内野手",
+      "primaryNumber": "99",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-11-04",
+      "teamCode": "L",
+      "playerId": "23025150",
+      "jaRegisteredName": "Ｊ．Ｄ．デービス",
+      "jaPosition": "内野手",
+      "primaryNumber": "10",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-10-14",
+      "teamCode": "S",
+      "playerId": "93995150",
+      "jaRegisteredName": "Ｐ．ランバート",
+      "jaPosition": "投手",
+      "primaryNumber": "39",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-10-14",
+      "teamCode": "S",
+      "playerId": "93795150",
+      "jaRegisteredName": "Ｍ．バウマン",
+      "jaPosition": "投手",
+      "primaryNumber": "58",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-08-07",
+      "teamCode": "E",
+      "playerId": "13015155",
+      "jaRegisteredName": "Ｎ．ターリー",
+      "jaPosition": "投手",
+      "primaryNumber": "20",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2025-07-26",
+      "teamCode": "DB",
+      "playerId": "43545151",
+      "jaRegisteredName": "Ｙ．ディアス",
+      "jaPosition": "投手",
+      "primaryNumber": "93",
+      "jaNote": "（ウエイバー不請求）"
+    }
+  ],
+  "jaNotes": [
+    "※1 ポスティングによる移籍（ＭＬＢ／シカゴ・ホワイトソックス）",
+    "※2 ポスティングによる移籍（ＭＬＢ／トロント・ブルージェイズ）",
+    "※3 ポスティングによる移籍（ＭＬＢ／ヒューストン・アストロズ）"
+  ]
+}

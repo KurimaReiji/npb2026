@@ -1,0 +1,22 @@
+{
+  "url": "https://npb.jp/announcement/2026/pn_retired.html",
+  "title": "任意引退選手 | 2026年度公示 | NPB.jp 日本野球機構",
+  "rows": [
+    {
+      "date": "2026-03-16",
+      "teamCode": "G",
+      "playerId": "91995131",
+      "jaRegisteredName": "長野　久義",
+      "jaPosition": "外野手",
+      "primaryNumber": "7"
+    },
+    {
+      "date": "2026-03-16",
+      "teamCode": "S",
+      "playerId": "31735112",
+      "jaRegisteredName": "川端　慎吾",
+      "jaPosition": "内野手",
+      "primaryNumber": "5"
+    }
+  ]
+}
