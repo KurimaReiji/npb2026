@@ -1,0 +1,52 @@
+[
+  {
+    "effectiveDate": "2026-07-17",
+    "op": "replace",
+    "path": "/2026-07-17:81385150:3:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-17",
+    "op": "replace",
+    "desc": "bottom 3 （走者・浦田）二塁盗塁成功 大野 ",
+    "path": "/2026-07-17:81385150:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-17",
+    "op": "remove",
+    "path": "/2026-07-17:81385150:3:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-07-17",
+    "op": "replace",
+    "path": "/2026-07-17:51555155:6:SB:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-17",
+    "op": "replace",
+    "desc": "bottom 6 （走者・梶原）二塁盗塁成功 長谷川 ",
+    "path": "/2026-07-17:51555155:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-17",
+    "op": "remove",
+    "path": "/2026-07-17:51555155:6:SB:2B:1/catchers"
+  }
+]

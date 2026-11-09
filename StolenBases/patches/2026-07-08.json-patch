@@ -1,0 +1,162 @@
+[
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "path": "/2026-07-08:21825157:4:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "desc": "bottom 4 （走者・松尾）二塁盗塁成功 松葉 石伊",
+    "path": "/2026-07-08:21825157:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "path": "/2026-07-08:71075157:8:SB:2B:1/catcher",
+    "value": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村悠",
+      "boxscoreName": "Yuh.Nakamura",
+      "teamCode": "S",
+      "jaRegisteredName": "中村　悠平",
+      "fullLFMName": "Nakamura, Yuhei"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "desc": "bottom 8 （走者・辰見）二塁盗塁成功 奥川 中村悠",
+    "path": "/2026-07-08:71075157:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "path": "/2026-07-08:51355155:9:SB:2B:1/catcher",
+    "value": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "C",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "desc": "top 9 （走者・岩田）二塁盗塁成功 森浦 石原",
+    "path": "/2026-07-08:51355155:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "path": "/2026-07-08:83385150:1:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "desc": "bottom 1 （走者・渡部）二塁盗塁成功 岸 堀内",
+    "path": "/2026-07-08:83385150:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "path": "/2026-07-08:51255155:6:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "desc": "bottom 6 （走者・滝澤）二塁盗塁成功 岸 堀内",
+    "path": "/2026-07-08:51255155:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "path": "/2026-07-08:51455136:9:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "desc": "bottom 9 （走者・西川）二塁盗塁成功 泰 堀内",
+    "path": "/2026-07-08:51455136:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "path": "/2026-07-08:71275157:4:CS:2B:1/catcher",
+    "value": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "teamCode": "F",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "desc": "bottom 4 （走者・友杉）二塁盗塁失敗 加藤貴 田宮",
+    "path": "/2026-07-08:71275157:4:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "path": "/2026-07-08:01205150:2:SB:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-08",
+    "op": "replace",
+    "desc": "top 2 （走者・庄子）二塁盗塁成功 九里 若月",
+    "path": "/2026-07-08:01205150:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

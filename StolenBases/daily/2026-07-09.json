@@ -1,0 +1,124 @@
+{
+  "2026-07-09:21325138:2:SB:2B:1": {
+    "id": "2026-07-09:21325138:2:SB:2B:1",
+    "date": "2026-07-09",
+    "runner": {
+      "id": "21325138",
+      "jaBoxscoreName": "大盛",
+      "boxscoreName": "Ohmori",
+      "batSide": "L",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "大盛　穂",
+      "fullLFMName": "Ohmori, Minoru"
+    },
+    "batter": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "batSide": "L",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    },
+    "pitcher": {
+      "id": "63965150",
+      "jaBoxscoreName": "ウォルターズ",
+      "boxscoreName": "Walters",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "Ｎ．ウォルターズ",
+      "fullLFMName": "Walters, Nash"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島"
+    },
+    "jaText": "（走者・大盛）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0709/c-s-14/playbyplay.html#com2-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-07-09:81585157:9:SB:2B:1": {
+    "id": "2026-07-09:81585157:9:SB:2B:1",
+    "date": "2026-07-09",
+    "runner": {
+      "id": "81585157",
+      "jaBoxscoreName": "久保",
+      "boxscoreName": "Kubo",
+      "batSide": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "久保　修",
+      "fullLFMName": "Kubo, Shu"
+    },
+    "batter": {
+      "id": "61565135",
+      "jaBoxscoreName": "菊池",
+      "boxscoreName": "R.Kikuchi",
+      "batSide": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "菊池　涼介",
+      "fullLFMName": "Kikuchi, Ryosuke"
+    },
+    "pitcher": {
+      "id": "63365152",
+      "jaBoxscoreName": "キハダ",
+      "boxscoreName": "Quijada",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "Ｊ．キハダ",
+      "fullLFMName": "Quijada, Jose"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島"
+    },
+    "jaText": "（走者・久保）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0709/c-s-14/playbyplay.html#com9-2",
+    "countsAsStealAttempt": "Y"
+  }
+}

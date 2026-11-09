@@ -1,0 +1,27 @@
+[
+  {
+    "effectiveDate": "2026-09-29",
+    "op": "replace",
+    "path": "/2026-09-29:31635138:3:CS:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-29",
+    "op": "replace",
+    "desc": "top 3 （走者・藤原）二塁盗塁失敗 伊藤樹 ",
+    "path": "/2026-09-29:31635138:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-29",
+    "op": "remove",
+    "path": "/2026-09-29:31635138:3:CS:2B:1/catchers"
+  }
+]

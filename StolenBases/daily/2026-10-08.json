@@ -1,0 +1,246 @@
+{
+  "2026-10-08:11815159:4:SB:2B:1": {
+    "id": "2026-10-08:11815159:4:SB:2B:1",
+    "date": "2026-10-08",
+    "runner": {
+      "id": "11815159",
+      "jaBoxscoreName": "福島",
+      "boxscoreName": "Fukushima",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "福島　圭音",
+      "fullLFMName": "Fukushima, Kein"
+    },
+    "batter": {
+      "id": "21325134",
+      "jaBoxscoreName": "大山",
+      "boxscoreName": "Ohyama",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "大山　悠輔",
+      "fullLFMName": "Ohyama, Yusuke"
+    },
+    "pitcher": {
+      "id": "91695150",
+      "jaBoxscoreName": "中村優",
+      "boxscoreName": "Yut.Nakamura",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "中村　優斗",
+      "fullLFMName": "Nakamura, Yuto"
+    },
+    "catcher": {
+      "id": "21525132",
+      "jaBoxscoreName": "柿沼",
+      "boxscoreName": "Kakinuma",
+      "teamCode": "S",
+      "jaRegisteredName": "柿沼　友哉",
+      "fullLFMName": "Kakinuma, Tomoya"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・福島）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/1008/t-s-25/playbyplay.html#com4-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-10-08:21325139:5:SB:2B:1": {
+    "id": "2026-10-08:21325139:5:SB:2B:1",
+    "date": "2026-10-08",
+    "runner": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "梅野　隆太郎",
+      "fullLFMName": "Umeno, Ryutaro"
+    },
+    "batter": {
+      "id": "71075138",
+      "jaBoxscoreName": "近本",
+      "boxscoreName": "Chikamoto",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "近本　光司",
+      "fullLFMName": "Chikamoto, Koji"
+    },
+    "pitcher": {
+      "id": "91695150",
+      "jaBoxscoreName": "中村優",
+      "boxscoreName": "Yut.Nakamura",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "中村　優斗",
+      "fullLFMName": "Nakamura, Yuto"
+    },
+    "catcher": {
+      "id": "21525132",
+      "jaBoxscoreName": "柿沼",
+      "boxscoreName": "Kakinuma",
+      "teamCode": "S",
+      "jaRegisteredName": "柿沼　友哉",
+      "fullLFMName": "Kakinuma, Tomoya"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・梅野）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/1008/t-s-25/playbyplay.html#com5-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-10-08:51355155:7:SB:2B:1": {
+    "id": "2026-10-08:51355155:7:SB:2B:1",
+    "date": "2026-10-08",
+    "runner": {
+      "id": "51355155",
+      "jaBoxscoreName": "岩田",
+      "boxscoreName": "Iwata",
+      "batSide": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "岩田　幸宏",
+      "fullLFMName": "Iwata, Yukihiro"
+    },
+    "batter": {
+      "id": "91495157",
+      "jaBoxscoreName": "西村",
+      "boxscoreName": "Nishimura",
+      "batSide": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "西村　瑠伊斗",
+      "fullLFMName": "Nishimura, Ruito"
+    },
+    "pitcher": {
+      "id": "61965159",
+      "jaBoxscoreName": "下村",
+      "boxscoreName": "Shimomura",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "下村　海翔",
+      "fullLFMName": "Shimomura, Kaito"
+    },
+    "catcher": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno",
+      "teamCode": "T",
+      "jaRegisteredName": "梅野　隆太郎",
+      "fullLFMName": "Umeno, Ryutaro"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 4,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・岩田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/1008/t-s-25/playbyplay.html#com7-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-10-08:51355155:7:CS:3B:1": {
+    "id": "2026-10-08:51355155:7:CS:3B:1",
+    "date": "2026-10-08",
+    "runner": {
+      "id": "51355155",
+      "jaBoxscoreName": "岩田",
+      "boxscoreName": "Iwata",
+      "batSide": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "岩田　幸宏",
+      "fullLFMName": "Iwata, Yukihiro"
+    },
+    "batter": {
+      "id": "91495157",
+      "jaBoxscoreName": "西村",
+      "boxscoreName": "Nishimura",
+      "batSide": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "西村　瑠伊斗",
+      "fullLFMName": "Nishimura, Ruito"
+    },
+    "pitcher": {
+      "id": "61965159",
+      "jaBoxscoreName": "下村",
+      "boxscoreName": "Shimomura",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "下村　海翔",
+      "fullLFMName": "Shimomura, Kaito"
+    },
+    "catcher": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno",
+      "teamCode": "T",
+      "jaRegisteredName": "梅野　隆太郎",
+      "fullLFMName": "Umeno, Ryutaro"
+    },
+    "scoring": "CS",
+    "base": "3B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "-2-",
+    "runs": {
+      "away": 4,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・岩田）三塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/1008/t-s-25/playbyplay.html#com7-1",
+    "countsAsStealAttempt": "N"
+  }
+}

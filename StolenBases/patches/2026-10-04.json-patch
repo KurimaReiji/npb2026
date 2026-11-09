@@ -1,0 +1,92 @@
+[
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "replace",
+    "path": "/2026-10-04:01405138:9:SB:2B:1/catcher",
+    "value": {
+      "id": "01005159",
+      "jaBoxscoreName": "鈴木叶",
+      "boxscoreName": "K.Suzuki",
+      "teamCode": "S",
+      "jaRegisteredName": "鈴木　叶",
+      "fullLFMName": "Suzuki, Kyo"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "replace",
+    "desc": "top 9 （走者・林）二塁盗塁成功 ウォルターズ ",
+    "path": "/2026-10-04:01405138:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "remove",
+    "path": "/2026-10-04:01405138:9:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "replace",
+    "path": "/2026-10-04:33535159:3:SB:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "replace",
+    "desc": "bottom 3 （走者・度会）二塁盗塁成功 伊藤将 坂本",
+    "path": "/2026-10-04:33535159:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "replace",
+    "path": "/2026-10-04:71075138:11:SB:2B:1/catcher",
+    "value": {
+      "id": "21825157",
+      "jaBoxscoreName": "松尾",
+      "boxscoreName": "Matsuo",
+      "teamCode": "DB",
+      "jaRegisteredName": "松尾　汐恩",
+      "fullLFMName": "Matsuo, Shion"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "replace",
+    "desc": "top 11 （走者・近本）二塁盗塁成功 尾形 松尾",
+    "path": "/2026-10-04:71075138:11:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "replace",
+    "path": "/2026-10-04:11015157:8:SB:2B:1/catcher",
+    "value": {
+      "id": "53155155",
+      "jaBoxscoreName": "松川",
+      "boxscoreName": "Matsukawa",
+      "teamCode": "M",
+      "jaRegisteredName": "松川　虎生",
+      "fullLFMName": "Matsukawa, Kou"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "replace",
+    "desc": "top 8 （走者・平良）二塁盗塁成功 中森 ",
+    "path": "/2026-10-04:11015157:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-04",
+    "op": "remove",
+    "path": "/2026-10-04:11015157:8:SB:2B:1/catchers"
+  }
+]

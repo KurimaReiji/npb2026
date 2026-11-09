@@ -1,0 +1,307 @@
+{
+  "2026-05-12:41245153:3:SB:2B:1": {
+    "id": "2026-05-12:41245153:3:SB:2B:1",
+    "date": "2026-05-12",
+    "runner": {
+      "id": "41245153",
+      "jaBoxscoreName": "髙寺",
+      "boxscoreName": "Takatera",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "髙寺　望夢",
+      "fullLFMName": "Takatera, Nozomu"
+    },
+    "batter": {
+      "id": "43145157",
+      "jaBoxscoreName": "森下",
+      "boxscoreName": "Morishita",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "森下　翔太",
+      "fullLFMName": "Morishita, Shota"
+    },
+    "pitcher": {
+      "id": "01705132",
+      "jaBoxscoreName": "小澤",
+      "boxscoreName": "Kozawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "小澤　怜史",
+      "fullLFMName": "Kozawa, Reiji"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "（走者・髙寺）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0512/s-t-07/playbyplay.html#com3-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-12:33535159:5:SB:2B:1": {
+    "id": "2026-05-12:33535159:5:SB:2B:1",
+    "date": "2026-05-12",
+    "runner": {
+      "id": "33535159",
+      "jaBoxscoreName": "度会",
+      "boxscoreName": "Watarai",
+      "batSide": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars",
+      "jaRegisteredName": "度会　隆輝",
+      "fullLFMName": "Watarai, Ryuki"
+    },
+    "batter": {
+      "id": "51555151",
+      "jaBoxscoreName": "蝦名",
+      "boxscoreName": "Ebina",
+      "batSide": "R",
+      "teamCode": "DB",
+      "teamName": "Baystars",
+      "jaRegisteredName": "蝦名　達夫",
+      "fullLFMName": "Ebina, Tatsuo"
+    },
+    "pitcher": {
+      "id": "61565150",
+      "jaBoxscoreName": "金丸",
+      "boxscoreName": "Kanemaru",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "金丸　夢斗",
+      "fullLFMName": "Kanemaru, Yumeto"
+    },
+    "catcher": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜",
+      "name": "Yokohama Stadium",
+      "jaName": "横浜スタジアム"
+    },
+    "jaText": "（走者・度会）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0512/db-d-06/playbyplay.html#com5-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-12:51055138:3:SB:2B:1": {
+    "id": "2026-05-12:51055138:3:SB:2B:1",
+    "date": "2026-05-12",
+    "runner": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    },
+    "batter": {
+      "id": "43945152",
+      "jaBoxscoreName": "カストロ",
+      "boxscoreName": "Castro",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "Ｒ．カストロ",
+      "fullLFMName": "Castro, Rodolfo"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "Ａ．ジャクソン",
+      "fullLFMName": "Jackson, Andre"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "（走者・田宮）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0512/m-f-07/playbyplay.html#com3-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-12:63165155:8:SB:2B:1": {
+    "id": "2026-05-12:63165155:8:SB:2B:1",
+    "date": "2026-05-12",
+    "runner": {
+      "id": "63165155",
+      "jaBoxscoreName": "水野",
+      "boxscoreName": "Mizuno",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "水野　達稀",
+      "fullLFMName": "Mizuno, Tatsuki"
+    },
+    "batter": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "Ａ．ジャクソン",
+      "fullLFMName": "Jackson, Andre"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 2
+    },
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン",
+      "name": "ZOZO Marine Stadium",
+      "jaName": "ZOZOマリンスタジアム"
+    },
+    "jaText": "（走者・水野）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0512/m-f-07/playbyplay.html#com8-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-12:51455136:7:SB:2B:1": {
+    "id": "2026-05-12:51455136:7:SB:2B:1",
+    "date": "2026-05-12",
+    "runner": {
+      "id": "51455136",
+      "jaBoxscoreName": "西川",
+      "boxscoreName": "Nishikawa",
+      "batSide": "L",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "西川　愛也",
+      "fullLFMName": "Nishikawa, Manaya"
+    },
+    "batter": {
+      "id": "83385150",
+      "jaBoxscoreName": "渡部",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "渡部　聖弥",
+      "fullLFMName": "Watanabe, Seiya"
+    },
+    "pitcher": {
+      "id": "81585138",
+      "jaBoxscoreName": "上茶谷",
+      "boxscoreName": "Kamichatani",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "teamName": "Hawks",
+      "jaRegisteredName": "上茶谷　大河",
+      "fullLFMName": "Kamichatani, Taiga"
+    },
+    "catcher": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay",
+      "name": "MIZUHO PayPay Dome Fukuoka",
+      "jaName": "みずほPayPayドーム福岡"
+    },
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0512/h-l-10/playbyplay.html#com7-1",
+    "countsAsStealAttempt": "Y"
+  }
+}

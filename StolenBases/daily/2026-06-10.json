@@ -1,0 +1,429 @@
+{
+  "2026-06-10:81385150:1:SB:2B:1": {
+    "id": "2026-06-10:81385150:1:SB:2B:1",
+    "date": "2026-06-10",
+    "runner": {
+      "id": "81385150",
+      "jaBoxscoreName": "浦田",
+      "boxscoreName": "Urata",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "浦田　俊輔",
+      "fullLFMName": "Urata, Shunsuke"
+    },
+    "batter": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本",
+      "boxscoreName": "Matsumoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "松本　剛",
+      "fullLFMName": "Matsumoto, Go"
+    },
+    "pitcher": {
+      "id": "21725159",
+      "jaBoxscoreName": "古謝",
+      "boxscoreName": "Koja",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "古謝　樹",
+      "fullLFMName": "Koja, Tatsuki"
+    },
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "（走者・浦田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0610/e-g-02/playbyplay.html#com1-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-10:81385150:7:SB:2B:1": {
+    "id": "2026-06-10:81385150:7:SB:2B:1",
+    "date": "2026-06-10",
+    "runner": {
+      "id": "81385150",
+      "jaBoxscoreName": "浦田",
+      "boxscoreName": "Urata",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "浦田　俊輔",
+      "fullLFMName": "Urata, Shunsuke"
+    },
+    "batter": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本",
+      "boxscoreName": "Matsumoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "松本　剛",
+      "fullLFMName": "Matsumoto, Go"
+    },
+    "pitcher": {
+      "id": "01905138",
+      "jaBoxscoreName": "鈴木翔",
+      "boxscoreName": "S.Suzuki",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "鈴木　翔天",
+      "fullLFMName": "Suzuki, Sora"
+    },
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "away": 4,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "（走者・浦田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0610/e-g-02/playbyplay.html#com7-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-10:21625135:7:SB:2B:1": {
+    "id": "2026-06-10:21625135:7:SB:2B:1",
+    "date": "2026-06-10",
+    "runner": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本",
+      "boxscoreName": "Matsumoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "松本　剛",
+      "fullLFMName": "Matsumoto, Go"
+    },
+    "batter": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "岸田　行倫",
+      "fullLFMName": "Kishida, Yukinori"
+    },
+    "pitcher": {
+      "id": "01905138",
+      "jaBoxscoreName": "鈴木翔",
+      "boxscoreName": "S.Suzuki",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "鈴木　翔天",
+      "fullLFMName": "Suzuki, Sora"
+    },
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 6,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "（走者・松本）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0610/e-g-02/playbyplay.html#com7-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-10:51255155:3:SB:2B:1": {
+    "id": "2026-06-10:51255155:3:SB:2B:1",
+    "date": "2026-06-10",
+    "runner": {
+      "id": "51255155",
+      "jaBoxscoreName": "滝澤",
+      "boxscoreName": "Takizawa",
+      "batSide": "L",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "滝澤　夏央",
+      "fullLFMName": "Takizawa, Natsuo"
+    },
+    "batter": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "boxscoreName": "Y.Koga",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto"
+    },
+    "pitcher": {
+      "id": "93395155",
+      "jaBoxscoreName": "森",
+      "boxscoreName": "Mori",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "森　翔平",
+      "fullLFMName": "Mori, Shohei"
+    },
+    "catcher": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 3
+    },
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0610/l-c-02/playbyplay.html#com3-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-10:81685153:7:SB:2B:1": {
+    "id": "2026-06-10:81685153:7:SB:2B:1",
+    "date": "2026-06-10",
+    "runner": {
+      "id": "81685153",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "長谷川　信哉",
+      "fullLFMName": "Hasegawa, Shinya"
+    },
+    "batter": {
+      "id": "53755150",
+      "jaBoxscoreName": "ネビン",
+      "boxscoreName": "Nevin",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "Ｔ．ネビン",
+      "fullLFMName": "Nevin, Tyler"
+    },
+    "pitcher": {
+      "id": "91895157",
+      "jaBoxscoreName": "益田",
+      "boxscoreName": "Masuda",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "益田　武尚",
+      "fullLFMName": "Masuda, Takehisa"
+    },
+    "catcher": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 3
+    },
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "（走者・長谷川）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0610/l-c-02/playbyplay.html#com7-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-10:11415157:9:CS:2B:1": {
+    "id": "2026-06-10:11415157:9:CS:2B:1",
+    "date": "2026-06-10",
+    "runner": {
+      "id": "11415157",
+      "jaBoxscoreName": "名原",
+      "boxscoreName": "Nabara",
+      "batSide": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "名原　典彦",
+      "fullLFMName": "Nabara, Norihiko"
+    },
+    "batter": {
+      "id": "61565135",
+      "jaBoxscoreName": "菊池",
+      "boxscoreName": "R.Kikuchi",
+      "batSide": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "菊池　涼介",
+      "fullLFMName": "Kikuchi, Ryosuke"
+    },
+    "pitcher": {
+      "id": "91395152",
+      "jaBoxscoreName": "岩城",
+      "boxscoreName": "Iwaki",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "岩城　颯空",
+      "fullLFMName": "Iwaki, Hakua"
+    },
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "boxscoreName": "Y.Koga",
+      "teamCode": "L",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 4,
+      "home": 4
+    },
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "（走者・名原）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0610/l-c-02/playbyplay.html#com9-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-10:81585136:7:CS:2B:1": {
+    "id": "2026-06-10:81585136:7:CS:2B:1",
+    "date": "2026-06-10",
+    "runner": {
+      "id": "81585136",
+      "jaBoxscoreName": "熊谷",
+      "boxscoreName": "Kumagai",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "熊谷　敬宥",
+      "fullLFMName": "Kumagai, Takahiro"
+    },
+    "batter": {
+      "id": "91295152",
+      "jaBoxscoreName": "立石",
+      "boxscoreName": "Tateishi",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "立石　正広",
+      "fullLFMName": "Tateishi, Masahiro"
+    },
+    "pitcher": {
+      "id": "13415155",
+      "jaBoxscoreName": "オスナ",
+      "boxscoreName": "Osuna",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "teamName": "Hawks",
+      "jaRegisteredName": "Ｒ．オスナ",
+      "fullLFMName": "Osuna, Roberto"
+    },
+    "catcher": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 3
+    },
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay",
+      "name": "MIZUHO PayPay Dome Fukuoka",
+      "jaName": "みずほPayPayドーム福岡"
+    },
+    "jaText": "（走者・熊谷）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0610/h-t-02/playbyplay.html#com7-1",
+    "countsAsStealAttempt": "Y"
+  }
+}

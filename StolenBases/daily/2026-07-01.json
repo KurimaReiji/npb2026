@@ -1,0 +1,185 @@
+{
+  "2026-07-01:21625135:3:CS:2B:1": {
+    "id": "2026-07-01:21625135:3:CS:2B:1",
+    "date": "2026-07-01",
+    "runner": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本",
+      "boxscoreName": "Matsumoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "松本　剛",
+      "fullLFMName": "Matsumoto, Go"
+    },
+    "batter": {
+      "id": "61165159",
+      "jaBoxscoreName": "泉口",
+      "boxscoreName": "Izuguchi",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "泉口　友汰",
+      "fullLFMName": "Izuguchi, Yuta"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "奥川　恭伸",
+      "fullLFMName": "Okugawa, Yasunobu"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村悠",
+      "boxscoreName": "Yuh.Nakamura",
+      "teamCode": "S",
+      "jaRegisteredName": "中村　悠平",
+      "fullLFMName": "Nakamura, Yuhei"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Morioka",
+      "jaBoxscoreName": "盛岡",
+      "name": "Kitagin Ballpark",
+      "jaName": "きたぎんボールパーク"
+    },
+    "jaText": "（走者・松本）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0701/g-s-13/playbyplay.html#com3-2",
+    "countsAsStealAttempt": "N"
+  },
+  "2026-07-01:81385150:7:SB:2B:1": {
+    "id": "2026-07-01:81385150:7:SB:2B:1",
+    "date": "2026-07-01",
+    "runner": {
+      "id": "81385150",
+      "jaBoxscoreName": "浦田",
+      "boxscoreName": "Urata",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "浦田　俊輔",
+      "fullLFMName": "Urata, Shunsuke"
+    },
+    "batter": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本",
+      "boxscoreName": "Matsumoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "松本　剛",
+      "fullLFMName": "Matsumoto, Go"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "奥川　恭伸",
+      "fullLFMName": "Okugawa, Yasunobu"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村悠",
+      "boxscoreName": "Yuh.Nakamura",
+      "teamCode": "S",
+      "jaRegisteredName": "中村　悠平",
+      "fullLFMName": "Nakamura, Yuhei"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Morioka",
+      "jaBoxscoreName": "盛岡",
+      "name": "Kitagin Ballpark",
+      "jaName": "きたぎんボールパーク"
+    },
+    "jaText": "（走者・浦田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0701/g-s-13/playbyplay.html#com7-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-07-01:51055138:4:CS:2B:1": {
+    "id": "2026-07-01:51055138:4:CS:2B:1",
+    "date": "2026-07-01",
+    "runner": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    },
+    "batter": {
+      "id": "31435157",
+      "jaBoxscoreName": "奈良間",
+      "boxscoreName": "Narama",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "奈良間　大己",
+      "fullLFMName": "Narama, Taiki"
+    },
+    "pitcher": {
+      "id": "41045136",
+      "jaBoxscoreName": "田嶋大",
+      "boxscoreName": "D.Tajima",
+      "pitchHand": "L",
+      "teamCode": "B",
+      "teamName": "Buffaloes",
+      "jaRegisteredName": "田嶋　大樹",
+      "fullLFMName": "Tajima, Daiki"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 2
+    },
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "（走者・田宮）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0701/f-b-14/playbyplay.html#com4-2",
+    "countsAsStealAttempt": "N"
+  }
+}

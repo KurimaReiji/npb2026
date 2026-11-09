@@ -1,0 +1,102 @@
+[
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "path": "/2026-06-12:21925151:4:CS:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "desc": "bottom 4 （走者・郡司）二塁盗塁失敗 柳 石伊",
+    "path": "/2026-06-12:21925151:4:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "path": "/2026-06-12:51055138:5:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "desc": "bottom 5 （走者・田宮）二塁盗塁成功 柳 石伊",
+    "path": "/2026-06-12:51055138:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "path": "/2026-06-12:11415157:7:CS:2B:1/catcher",
+    "value": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "E",
+      "jaRegisteredName": "石原　彪",
+      "fullLFMName": "Ishihara, Tsuyoshi"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "desc": "top 7 （走者・名原）二塁盗塁失敗 岸 石原",
+    "path": "/2026-06-12:11415157:7:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "path": "/2026-06-12:11415157:9:SB:2B:1/catcher",
+    "value": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "E",
+      "jaRegisteredName": "石原　彪",
+      "fullLFMName": "Ishihara, Tsuyoshi"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "desc": "top 9 （走者・名原）二塁盗塁成功 藤平 石原",
+    "path": "/2026-06-12:11415157:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "path": "/2026-06-12:23325152:6:SB:2B:1/catcher",
+    "value": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida",
+      "teamCode": "G",
+      "jaRegisteredName": "岸田　行倫",
+      "fullLFMName": "Kishida, Yukinori"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-12",
+    "op": "replace",
+    "desc": "bottom 6 （走者・カナリオ）二塁盗塁成功 竹丸 岸田",
+    "path": "/2026-06-12:23325152:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

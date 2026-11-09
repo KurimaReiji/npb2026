@@ -1,0 +1,124 @@
+{
+  "2026-09-03:51155153:7:CS:2B:1": {
+    "id": "2026-09-03:51155153:7:CS:2B:1",
+    "date": "2026-09-03",
+    "runner": {
+      "id": "51155153",
+      "jaBoxscoreName": "赤羽",
+      "boxscoreName": "Akahane",
+      "batSide": "R",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "赤羽　由紘",
+      "fullLFMName": "Akahane, Yoshihiro"
+    },
+    "batter": {
+      "id": "51455151",
+      "jaBoxscoreName": "長岡",
+      "boxscoreName": "Nagaoka",
+      "batSide": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "長岡　秀樹",
+      "fullLFMName": "Nagaoka, Hideki"
+    },
+    "pitcher": {
+      "id": "91795151",
+      "jaBoxscoreName": "及川",
+      "boxscoreName": "Oyokawa",
+      "pitchHand": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "及川　雅貴",
+      "fullLFMName": "Oyokawa, Masaki"
+    },
+    "catcher": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 6,
+      "home": 4
+    },
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮",
+      "name": "Jingu Stadium",
+      "jaName": "神宮"
+    },
+    "jaText": "（走者・赤羽）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0903/s-t-21/playbyplay.html#com7-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-09-03:71075157:7:SB:2B:1": {
+    "id": "2026-09-03:71075157:7:SB:2B:1",
+    "date": "2026-09-03",
+    "runner": {
+      "id": "71075157",
+      "jaBoxscoreName": "辰見",
+      "boxscoreName": "Tatsumi",
+      "batSide": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "辰見　鴻之介",
+      "fullLFMName": "Tatsumi, Konosuke"
+    },
+    "batter": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "boxscoreName": "Sakakura",
+      "batSide": "L",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo"
+    },
+    "pitcher": {
+      "id": "21425151",
+      "jaBoxscoreName": "橋本",
+      "boxscoreName": "Hashimoto",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "橋本　侑樹",
+      "fullLFMName": "Hashimoto, Yuki"
+    },
+    "catcher": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 3,
+      "home": 2
+    },
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム",
+      "name": "Vantelin Dome Nagoya",
+      "jaName": "バンテリンドーム ナゴヤ"
+    },
+    "jaText": "（走者・辰見）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0903/d-c-22/playbyplay.html#com7-1",
+    "countsAsStealAttempt": "Y"
+  }
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "path": "/2026-04-23:11015138:1:CS:2B:1/catcher",
+    "value": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "teamCode": "F",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "desc": "top 1 （走者・辰己）二塁盗塁失敗 福島 田宮",
+    "path": "/2026-04-23:11015138:1:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "path": "/2026-04-23:73375157:3:CS:2B:1/catcher",
+    "value": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤光",
+      "boxscoreName": "H.Itoh",
+      "teamCode": "E",
+      "jaRegisteredName": "伊藤　光",
+      "fullLFMName": "Itoh, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "desc": "bottom 3 （走者・矢澤）二塁盗塁失敗 瀧中 ",
+    "path": "/2026-04-23:73375157:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "remove",
+    "path": "/2026-04-23:73375157:3:CS:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "path": "/2026-04-23:31435157:5:SB:2B:1/catcher",
+    "value": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤光",
+      "boxscoreName": "H.Itoh",
+      "teamCode": "E",
+      "jaRegisteredName": "伊藤　光",
+      "fullLFMName": "Itoh, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "desc": "bottom 5 （走者・奈良間）二塁盗塁成功 瀧中 ",
+    "path": "/2026-04-23:31435157:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "remove",
+    "path": "/2026-04-23:31435157:5:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "path": "/2026-04-23:11315153:8:SB:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "desc": "bottom 8 （走者・五十幡）二塁盗塁成功 西垣 ",
+    "path": "/2026-04-23:11315153:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "remove",
+    "path": "/2026-04-23:11315153:8:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "path": "/2026-04-23:51955151:2:SB:2B:1/catcher",
+    "value": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "desc": "bottom 2 （走者・岸）二塁盗塁成功 大津 海野",
+    "path": "/2026-04-23:51955151:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "path": "/2026-04-23:91695132:5:SB:HP:1/catcher",
+    "value": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "desc": "bottom 5 （走者・平沢）本塁盗塁成功（ダブルスチール） 大津 海野",
+    "path": "/2026-04-23:91695132:5:SB:HP:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "path": "/2026-04-23:81785155:5:SB:3B:1/catcher",
+    "value": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-23",
+    "op": "replace",
+    "desc": "bottom 5 （走者・古賀悠）三塁盗塁成功（ダブルスチール） 大津 海野",
+    "path": "/2026-04-23:81785155:5:SB:3B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

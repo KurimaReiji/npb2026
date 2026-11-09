@@ -5,5 +5,18 @@
     "jaDesc": "bottom 5 （走者・牧）二塁盗塁成功 山野 鈴木叶 けん制飛び出し",
     "path": "/2026-03-28:13115153:5:SB:2B:1/countsAsStealAttempt",
     "value": "N"
+  },
+  {
+    "effectiveDate": "2026-03-28",
+    "op": "test",
+    "path": "/2026-03-28:11815130:4:SB:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
   }
 ]

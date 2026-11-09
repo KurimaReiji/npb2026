@@ -1,0 +1,87 @@
+[
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "replace",
+    "path": "/2026-04-11:51355155:1:SB:2B:1/catcher",
+    "value": {
+      "id": "03105151",
+      "jaBoxscoreName": "山瀬",
+      "boxscoreName": "Yamase",
+      "teamCode": "G",
+      "jaRegisteredName": "山瀬　慎之助",
+      "fullLFMName": "Yamase, Shinnosuke"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "replace",
+    "desc": "top 1 （走者・岩田）二塁盗塁成功 マタ 山瀬",
+    "path": "/2026-04-11:51355155:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "replace",
+    "path": "/2026-04-11:33135134:6:PO:1B:1/catcher",
+    "value": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "boxscoreName": "Sakakura",
+      "teamCode": "C",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "replace",
+    "desc": "bottom 6 （走者・三森）一塁牽制アウト 岡本 坂倉",
+    "path": "/2026-04-11:33135134:6:PO:1B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "replace",
+    "path": "/2026-04-11:63165155:3:SB:2B:1/catcher",
+    "value": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "replace",
+    "desc": "bottom 3 （走者・水野）二塁盗塁成功 上沢 海野",
+    "path": "/2026-04-11:63165155:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "replace",
+    "path": "/2026-04-11:81385138:1:SB:3B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "replace",
+    "desc": "bottom 1 （走者・小郷）三塁盗塁成功 九里 ",
+    "path": "/2026-04-11:81385138:1:SB:3B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "op": "remove",
+    "path": "/2026-04-11:81385138:1:SB:3B:1/catchers"
+  }
+]

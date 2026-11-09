@@ -1,0 +1,157 @@
+[
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "path": "/2026-04-08:71575159:8:SB:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "boxscoreName": "Yamamoto",
+      "teamCode": "DB",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "desc": "top 8 （走者・尾田）二塁盗塁成功 橋本 山本",
+    "path": "/2026-04-08:71575159:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "path": "/2026-04-08:51555151:8:SB:2B:1/catcher",
+    "value": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita",
+      "teamCode": "D",
+      "jaRegisteredName": "木下　拓哉",
+      "fullLFMName": "Kinoshita, Takuya"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "desc": "bottom 8 （走者・蝦名）二塁盗塁成功 メヒア ",
+    "path": "/2026-04-08:51555151:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "remove",
+    "path": "/2026-04-08:51555151:8:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "path": "/2026-04-08:41545130:10:SB:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "boxscoreName": "Yamamoto",
+      "teamCode": "DB",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "desc": "top 10 （走者・加藤）二塁盗塁成功 レイノルズ 山本",
+    "path": "/2026-04-08:41545130:10:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "path": "/2026-04-08:41445153:1:CS:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "desc": "bottom 1 （走者・中野）二塁盗塁失敗 松本健 古賀",
+    "path": "/2026-04-08:41445153:1:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "path": "/2026-04-08:81185159:3:CS:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "desc": "top 3 （走者・伊藤）二塁盗塁失敗 ルーカス 坂本",
+    "path": "/2026-04-08:81185159:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "path": "/2026-04-08:11815130:1:SB:2B:1/catcher",
+    "value": {
+      "id": "53155155",
+      "jaBoxscoreName": "松川",
+      "boxscoreName": "Matsukawa",
+      "teamCode": "M",
+      "jaRegisteredName": "松川　虎生",
+      "fullLFMName": "Matsukawa, Kou"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "desc": "bottom 1 （走者・宗）二塁盗塁成功 ジャクソン ",
+    "path": "/2026-04-08:11815130:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "remove",
+    "path": "/2026-04-08:11815130:1:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "path": "/2026-04-08:11815130:3:CS:2B:1/catcher",
+    "value": {
+      "id": "53155155",
+      "jaBoxscoreName": "松川",
+      "boxscoreName": "Matsukawa",
+      "teamCode": "M",
+      "jaRegisteredName": "松川　虎生",
+      "fullLFMName": "Matsukawa, Kou"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "replace",
+    "desc": "bottom 3 （走者・宗）二塁盗塁失敗 ジャクソン ",
+    "path": "/2026-04-08:11815130:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-08",
+    "op": "remove",
+    "path": "/2026-04-08:11815130:3:CS:2B:1/catchers"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "path": "/2026-07-25:21325138:8:SB:2B:1/catcher",
+    "value": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto",
+      "teamCode": "S",
+      "jaRegisteredName": "松本　直樹",
+      "fullLFMName": "Matsumoto, Naoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "desc": "top 8 （走者・大盛）二塁盗塁成功 清水 松本直",
+    "path": "/2026-07-25:21325138:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "path": "/2026-07-25:81685157:4:SB:2B:1/catcher",
+    "value": {
+      "id": "21825157",
+      "jaBoxscoreName": "松尾",
+      "boxscoreName": "Matsuo",
+      "teamCode": "DB",
+      "jaRegisteredName": "松尾　汐恩",
+      "fullLFMName": "Matsuo, Shion"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "desc": "bottom 4 （走者・福永）二塁盗塁成功 ビド 松尾",
+    "path": "/2026-07-25:81685157:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "path": "/2026-07-25:21925155:5:SB:2B:1/catcher",
+    "value": {
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "boxscoreName": "Fushimi",
+      "teamCode": "T",
+      "jaRegisteredName": "伏見　寅威",
+      "fullLFMName": "Fushimi, Torai"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "desc": "top 5 （走者・笹原）二塁盗塁成功 モレッタ ",
+    "path": "/2026-07-25:21925155:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "remove",
+    "path": "/2026-07-25:21925155:5:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "path": "/2026-07-25:11315153:8:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "desc": "bottom 8 （走者・五十幡）二塁盗塁成功 マルテ ",
+    "path": "/2026-07-25:11315153:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "remove",
+    "path": "/2026-07-25:11315153:8:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "path": "/2026-07-25:41745135:6:SB:3B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "desc": "top 6 （走者・近藤）三塁盗塁成功 武内 ",
+    "path": "/2026-07-25:41745135:6:SB:3B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "remove",
+    "path": "/2026-07-25:41745135:6:SB:3B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "path": "/2026-07-25:11715153:2:SB:2B:1/catcher",
+    "value": {
+      "id": "11815155",
+      "jaBoxscoreName": "福永",
+      "boxscoreName": "Fukunaga",
+      "teamCode": "B",
+      "jaRegisteredName": "福永　奨",
+      "fullLFMName": "Fukunaga, Sho"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "desc": "top 2 （走者・小川）二塁盗塁成功 ジェリー 福永",
+    "path": "/2026-07-25:11715153:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "path": "/2026-07-25:63565155:2:SB:2B:1/catcher",
+    "value": {
+      "id": "53155155",
+      "jaBoxscoreName": "松川",
+      "boxscoreName": "Matsukawa",
+      "teamCode": "M",
+      "jaRegisteredName": "松川　虎生",
+      "fullLFMName": "Matsukawa, Kou"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "replace",
+    "desc": "bottom 2 （走者・渡部）二塁盗塁成功 廣池 ",
+    "path": "/2026-07-25:63565155:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "op": "remove",
+    "path": "/2026-07-25:63565155:2:SB:2B:1/catchers"
+  }
+]

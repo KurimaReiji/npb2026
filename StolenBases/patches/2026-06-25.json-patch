@@ -1,0 +1,82 @@
+[
+  {
+    "effectiveDate": "2026-06-25",
+    "op": "replace",
+    "path": "/2026-06-25:03105157:3:SB:2B:1/catcher",
+    "value": {
+      "id": "41245132",
+      "jaBoxscoreName": "戸柱",
+      "boxscoreName": "Tobashira",
+      "teamCode": "DB",
+      "jaRegisteredName": "戸柱　恭孝",
+      "fullLFMName": "Tobashira, Yasutaka"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-25",
+    "op": "replace",
+    "desc": "bottom 3 （走者・村松）二塁盗塁成功 平良 戸柱",
+    "path": "/2026-06-25:03105157:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-25",
+    "op": "replace",
+    "path": "/2026-06-25:81685153:7:SB:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-25",
+    "op": "replace",
+    "desc": "top 7 （走者・長谷川）二塁盗塁成功 前田健 太田",
+    "path": "/2026-06-25:81685153:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-25",
+    "op": "replace",
+    "path": "/2026-06-25:01205150:5:SB:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-25",
+    "op": "replace",
+    "desc": "bottom 5 （走者・庄子）二塁盗塁成功 髙島 若月",
+    "path": "/2026-06-25:01205150:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-25",
+    "op": "replace",
+    "path": "/2026-06-25:01205150:8:SB:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-25",
+    "op": "replace",
+    "desc": "bottom 8 （走者・庄子）二塁盗塁成功 権田 若月",
+    "path": "/2026-06-25:01205150:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

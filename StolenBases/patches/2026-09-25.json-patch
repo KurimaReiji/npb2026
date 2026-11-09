@@ -1,0 +1,87 @@
+[
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "replace",
+    "path": "/2026-09-25:91695153:8:CS:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "replace",
+    "desc": "bottom 8 （走者・並木）二塁盗塁失敗 森博 石伊",
+    "path": "/2026-09-25:91695153:8:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "replace",
+    "path": "/2026-09-25:81285136:1:PO:1B:1/catcher",
+    "value": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "teamCode": "G",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "replace",
+    "desc": "bottom 1 （走者・中村奨）一塁牽制アウト 井上 大城",
+    "path": "/2026-09-25:81285136:1:PO:1B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "replace",
+    "path": "/2026-09-25:41645159:9:SB:2B:1/catcher",
+    "value": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "C",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "replace",
+    "desc": "top 9 （走者・平山）二塁盗塁成功 森浦 石原",
+    "path": "/2026-09-25:41645159:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "replace",
+    "path": "/2026-09-25:01205150:1:SB:2B:1/catcher",
+    "value": {
+      "id": "81885159",
+      "jaBoxscoreName": "堀",
+      "boxscoreName": "Hori",
+      "teamCode": "B",
+      "jaRegisteredName": "堀　柊那",
+      "fullLFMName": "Hori, Shuna"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "replace",
+    "desc": "top 1 （走者・庄子）二塁盗塁成功 陳 ",
+    "path": "/2026-09-25:01205150:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-25",
+    "op": "remove",
+    "path": "/2026-09-25:01205150:1:SB:2B:1/catchers"
+  }
+]

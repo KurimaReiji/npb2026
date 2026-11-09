@@ -1,0 +1,162 @@
+[
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "path": "/2026-05-24:41045153:9:SB:2B:1/catcher",
+    "value": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "teamCode": "G",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "desc": "top 9 （走者・佐藤）二塁盗塁成功 堀田 大城",
+    "path": "/2026-05-24:41045153:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "path": "/2026-05-24:51555151:1:SB:2B:1/catcher",
+    "value": {
+      "id": "01005159",
+      "jaBoxscoreName": "鈴木叶",
+      "boxscoreName": "K.Suzuki",
+      "teamCode": "S",
+      "jaRegisteredName": "鈴木　叶",
+      "fullLFMName": "Suzuki, Kyo"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "desc": "bottom 1 （走者・蝦名）二塁盗塁成功 奥川 鈴木叶",
+    "path": "/2026-05-24:51555151:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "path": "/2026-05-24:33535159:2:SB:2B:1/catcher",
+    "value": {
+      "id": "01005159",
+      "jaBoxscoreName": "鈴木叶",
+      "boxscoreName": "K.Suzuki",
+      "teamCode": "S",
+      "jaRegisteredName": "鈴木　叶",
+      "fullLFMName": "Suzuki, Kyo"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "desc": "bottom 2 （走者・度会）二塁盗塁成功 奥川 鈴木叶",
+    "path": "/2026-05-24:33535159:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "path": "/2026-05-24:91195159:2:SB:2B:1/catcher",
+    "value": {
+      "id": "01005159",
+      "jaBoxscoreName": "鈴木叶",
+      "boxscoreName": "K.Suzuki",
+      "teamCode": "S",
+      "jaRegisteredName": "鈴木　叶",
+      "fullLFMName": "Suzuki, Kyo"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "desc": "bottom 2 （走者・石上）二塁盗塁成功 奥川 鈴木叶",
+    "path": "/2026-05-24:91195159:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "path": "/2026-05-24:21925136:4:SB:2B:1/catcher",
+    "value": {
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "boxscoreName": "Shintoh",
+      "teamCode": "F",
+      "jaRegisteredName": "進藤　勇也",
+      "fullLFMName": "Shintoh, Yuya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "desc": "bottom 4 （走者・周東）二塁盗塁成功 北山 進藤",
+    "path": "/2026-05-24:21925136:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "path": "/2026-05-24:11315153:7:SB:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本祐",
+      "boxscoreName": "Y.Yamamoto",
+      "teamCode": "H",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "desc": "top 7 （走者・五十幡）二塁盗塁成功 木村光 山本祐",
+    "path": "/2026-05-24:11315153:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "path": "/2026-05-24:61465133:7:SB:2B:1/catcher",
+    "value": {
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "boxscoreName": "Shintoh",
+      "teamCode": "F",
+      "jaRegisteredName": "進藤　勇也",
+      "fullLFMName": "Shintoh, Yuya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "desc": "bottom 7 （走者・牧原大）二塁盗塁成功 島本 進藤",
+    "path": "/2026-05-24:61465133:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "path": "/2026-05-24:21925136:8:CS:2B:1/catcher",
+    "value": {
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "boxscoreName": "Shintoh",
+      "teamCode": "F",
+      "jaRegisteredName": "進藤　勇也",
+      "fullLFMName": "Shintoh, Yuya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-24",
+    "op": "replace",
+    "desc": "bottom 8 （走者・周東）二塁盗塁失敗 田中 進藤",
+    "path": "/2026-05-24:21925136:8:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "path": "/2026-05-06:91695153:7:SB:2B:1/catcher",
+    "value": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "teamCode": "G",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "desc": "top 7 （走者・並木）二塁盗塁成功 竹丸 大城",
+    "path": "/2026-05-06:91695153:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "path": "/2026-05-06:73575150:8:CS:2B:1/catcher",
+    "value": {
+      "id": "01005159",
+      "jaBoxscoreName": "鈴木叶",
+      "boxscoreName": "K.Suzuki",
+      "teamCode": "S",
+      "jaRegisteredName": "鈴木　叶",
+      "fullLFMName": "Suzuki, Kyo"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "desc": "bottom 8 （走者・キャベッジ）二塁盗塁失敗 廣澤 鈴木叶",
+    "path": "/2026-05-06:73575150:8:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "path": "/2026-05-06:81385138:2:SB:2B:1/catcher",
+    "value": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "teamCode": "F",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "desc": "bottom 2 （走者・小郷）二塁盗塁成功 伊藤 ",
+    "path": "/2026-05-06:81385138:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "remove",
+    "path": "/2026-05-06:81385138:2:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "path": "/2026-05-06:31435157:7:SB:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "desc": "top 7 （走者・奈良間）二塁盗塁成功 田中千 ",
+    "path": "/2026-05-06:31435157:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "remove",
+    "path": "/2026-05-06:31435157:7:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "path": "/2026-05-06:01205150:6:CS:2B:1/catcher",
+    "value": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "boxscoreName": "Y.Koga",
+      "teamCode": "L",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "desc": "top 6 （走者・庄子）二塁盗塁失敗 髙橋光成 ",
+    "path": "/2026-05-06:01205150:6:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "remove",
+    "path": "/2026-05-06:01205150:6:CS:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "path": "/2026-05-06:51755138:2:SB:2B:1/catcher",
+    "value": {
+      "id": "53155155",
+      "jaBoxscoreName": "松川",
+      "boxscoreName": "Matsukawa",
+      "teamCode": "M",
+      "jaRegisteredName": "松川　虎生",
+      "fullLFMName": "Matsukawa, Kou"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "desc": "bottom 2 （走者・宜保）二塁盗塁成功 西野 松川",
+    "path": "/2026-05-06:51755138:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "path": "/2026-05-06:63565155:3:SB:2B:1/catcher",
+    "value": {
+      "id": "53155155",
+      "jaBoxscoreName": "松川",
+      "boxscoreName": "Matsukawa",
+      "teamCode": "M",
+      "jaRegisteredName": "松川　虎生",
+      "fullLFMName": "Matsukawa, Kou"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-06",
+    "op": "replace",
+    "desc": "bottom 3 （走者・渡部）二塁盗塁成功 西野 松川",
+    "path": "/2026-05-06:63565155:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

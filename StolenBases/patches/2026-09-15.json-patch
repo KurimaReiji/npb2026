@@ -1,0 +1,102 @@
+[
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "path": "/2026-09-15:61865152:8:SB:2B:1/catcher",
+    "value": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "C",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "desc": "bottom 8 （走者・松下）二塁盗塁成功 髙 石原",
+    "path": "/2026-09-15:61865152:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "path": "/2026-09-15:71075157:9:SB:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "desc": "top 9 （走者・辰見）二塁盗塁成功 丸山翔 古賀",
+    "path": "/2026-09-15:71075157:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "path": "/2026-09-15:21225133:5:SB:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "desc": "bottom 5 （走者・西川）二塁盗塁成功 田中 佐藤",
+    "path": "/2026-09-15:21225133:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "path": "/2026-09-15:51255155:1:CS:3B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "desc": "top 1 （走者・滝澤）三塁盗塁失敗 伊藤樹 堀内",
+    "path": "/2026-09-15:51255155:1:CS:3B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "path": "/2026-09-15:21025136:9:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-15",
+    "op": "replace",
+    "desc": "top 9 （走者・髙松）二塁盗塁成功 藤平 堀内",
+    "path": "/2026-09-15:21025136:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

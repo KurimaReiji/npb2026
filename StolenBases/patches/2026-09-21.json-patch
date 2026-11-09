@@ -1,0 +1,102 @@
+[
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "path": "/2026-09-21:81585151:5:CS:2B:1/catcher",
+    "value": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "desc": "bottom 5 （走者・岡林）二塁盗塁失敗 斉藤優 持丸",
+    "path": "/2026-09-21:81585151:5:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "path": "/2026-09-21:33335153:2:SB:2B:1/catcher",
+    "value": {
+      "id": "91895155",
+      "jaBoxscoreName": "古市",
+      "boxscoreName": "Furuichi",
+      "teamCode": "DB",
+      "jaRegisteredName": "古市　尊",
+      "fullLFMName": "Furuichi, Takeru"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "desc": "bottom 2 （走者・元山）二塁盗塁成功 平良 古市",
+    "path": "/2026-09-21:33335153:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "path": "/2026-09-21:33135134:8:CS:HP:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "desc": "top 8 （走者・三森）本塁盗塁失敗 及川 坂本",
+    "path": "/2026-09-21:33135134:8:CS:HP:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "path": "/2026-09-21:41045153:9:SB:2B:1/catcher",
+    "value": {
+      "id": "91895155",
+      "jaBoxscoreName": "古市",
+      "boxscoreName": "Furuichi",
+      "teamCode": "DB",
+      "jaRegisteredName": "古市　尊",
+      "fullLFMName": "Furuichi, Takeru"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "desc": "bottom 9 （走者・佐藤）二塁盗塁成功 レイノルズ 古市",
+    "path": "/2026-09-21:41045153:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "path": "/2026-09-21:31835138:5:SB:2B:1/catcher",
+    "value": {
+      "id": "81885159",
+      "jaBoxscoreName": "堀",
+      "boxscoreName": "Hori",
+      "teamCode": "B",
+      "jaRegisteredName": "堀　柊那",
+      "fullLFMName": "Hori, Shuna"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-21",
+    "op": "replace",
+    "desc": "bottom 5 （走者・水谷）二塁盗塁成功 山岡 堀",
+    "path": "/2026-09-21:31835138:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "path": "/2026-09-20:21625135:1:CS:2B:1/catcher",
+    "value": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto",
+      "teamCode": "S",
+      "jaRegisteredName": "松本　直樹",
+      "fullLFMName": "Matsumoto, Naoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "desc": "bottom 1 （走者・松本）二塁盗塁失敗 高橋 松本直",
+    "path": "/2026-09-20:21625135:1:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "path": "/2026-09-20:51355155:7:SB:2B:1/catcher",
+    "value": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "teamCode": "G",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "desc": "top 7 （走者・岩田）二塁盗塁成功 中川 大城",
+    "path": "/2026-09-20:51355155:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "path": "/2026-09-20:01305130:7:SB:2B:1/catcher",
+    "value": {
+      "id": "41245132",
+      "jaBoxscoreName": "戸柱",
+      "boxscoreName": "Tobashira",
+      "teamCode": "DB",
+      "jaRegisteredName": "戸柱　恭孝",
+      "fullLFMName": "Tobashira, Yasutaka"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "desc": "bottom 7 （走者・植田）二塁盗塁成功 岩田 ",
+    "path": "/2026-09-20:01305130:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "remove",
+    "path": "/2026-09-20:01305130:7:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "path": "/2026-09-20:51955153:5:SB:2B:1/catcher",
+    "value": {
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "boxscoreName": "Shintoh",
+      "teamCode": "F",
+      "jaRegisteredName": "進藤　勇也",
+      "fullLFMName": "Shintoh, Yuya"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "desc": "top 5 （走者・来田）二塁盗塁成功 有原 進藤",
+    "path": "/2026-09-20:51955153:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "path": "/2026-09-20:01205150:7:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "desc": "top 7 （走者・庄子）二塁盗塁成功 泰 堀内",
+    "path": "/2026-09-20:01205150:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "path": "/2026-09-20:61965151:8:SB:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本祐",
+      "boxscoreName": "Y.Yamamoto",
+      "teamCode": "H",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-20",
+    "op": "replace",
+    "desc": "bottom 8 （走者・小深田）二塁盗塁成功 小林 山本祐",
+    "path": "/2026-09-20:61965151:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

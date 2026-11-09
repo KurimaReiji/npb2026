@@ -1,0 +1,172 @@
+[
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "path": "/2026-05-23:51355155:1:SB:2B:1/catcher",
+    "value": {
+      "id": "21825157",
+      "jaBoxscoreName": "松尾",
+      "boxscoreName": "Matsuo",
+      "teamCode": "DB",
+      "jaRegisteredName": "松尾　汐恩",
+      "fullLFMName": "Matsuo, Shion"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "desc": "top 1 （走者・岩田）二塁盗塁成功 入江 ",
+    "path": "/2026-05-23:51355155:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "remove",
+    "path": "/2026-05-23:51355155:1:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "path": "/2026-05-23:71075157:9:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "desc": "top 9 （走者・辰見）二塁盗塁成功 清水 石伊",
+    "path": "/2026-05-23:71075157:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "path": "/2026-05-23:11815130:2:CS:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "desc": "top 2 （走者・宗）二塁盗塁失敗 佐藤爽 ",
+    "path": "/2026-05-23:11815130:2:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "remove",
+    "path": "/2026-05-23:11815130:2:CS:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "path": "/2026-05-23:91295157:4:PO:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "desc": "top 4 （走者・内藤）二塁牽制アウト 佐藤爽 ",
+    "path": "/2026-05-23:91295157:4:PO:2B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "remove",
+    "path": "/2026-05-23:91295157:4:PO:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "path": "/2026-05-23:23325152:4:SB:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "desc": "bottom 4 （走者・カナリオ）二塁盗塁成功 髙島 ",
+    "path": "/2026-05-23:23325152:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "remove",
+    "path": "/2026-05-23:23325152:4:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "path": "/2026-05-23:63565155:5:SB:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "desc": "top 5 （走者・渡部）二塁盗塁成功 上田 ",
+    "path": "/2026-05-23:63565155:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "remove",
+    "path": "/2026-05-23:63565155:5:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "path": "/2026-05-23:21925136:1:SB:2B:1/catcher",
+    "value": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "teamCode": "F",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "replace",
+    "desc": "bottom 1 （走者・周東）二塁盗塁成功 細野 ",
+    "path": "/2026-05-23:21925136:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "op": "remove",
+    "path": "/2026-05-23:21925136:1:SB:2B:1/catchers"
+  }
+]

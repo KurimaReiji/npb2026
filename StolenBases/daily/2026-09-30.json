@@ -1,0 +1,124 @@
+{
+  "2026-09-30:71075138:1:PO:1B:1": {
+    "id": "2026-09-30:71075138:1:PO:1B:1",
+    "date": "2026-09-30",
+    "runner": {
+      "id": "71075138",
+      "jaBoxscoreName": "近本",
+      "boxscoreName": "Chikamoto",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "近本　光司",
+      "fullLFMName": "Chikamoto, Koji"
+    },
+    "batter": {
+      "id": "41445153",
+      "jaBoxscoreName": "中野",
+      "boxscoreName": "Nakano",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "中野　拓夢",
+      "fullLFMName": "Nakano, Takumu"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "奥川　恭伸",
+      "fullLFMName": "Okugawa, Yasunobu"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    },
+    "scoring": "PO",
+    "base": "1B",
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・近本）一塁牽制アウト",
+    "link": "https://npb.jp/scores/2026/0930/t-s-24/playbyplay.html#com1-2",
+    "countsAsStealAttempt": "N"
+  },
+  "2026-09-30:53155150:5:CS:2B:1": {
+    "id": "2026-09-30:53155150:5:CS:2B:1",
+    "date": "2026-09-30",
+    "runner": {
+      "id": "53155150",
+      "jaBoxscoreName": "宗山",
+      "boxscoreName": "Muneyama",
+      "batSide": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "宗山　塁",
+      "fullLFMName": "Muneyama, Rui"
+    },
+    "batter": {
+      "id": "41845132",
+      "jaBoxscoreName": "村林",
+      "boxscoreName": "Murabayashi",
+      "batSide": "R",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "村林　一輝",
+      "fullLFMName": "Murabayashi, Itsuki"
+    },
+    "pitcher": {
+      "id": "93095152",
+      "jaBoxscoreName": "ルケーシー",
+      "boxscoreName": "Lucchesi",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "Ｊ．ルケーシー",
+      "fullLFMName": "Lucchesi, Joey"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 2
+    },
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "（走者・宗山）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0930/e-m-24/playbyplay.html#com5-2",
+    "countsAsStealAttempt": "N"
+  }
+}

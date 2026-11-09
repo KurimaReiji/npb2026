@@ -1,0 +1,177 @@
+[
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "path": "/2026-05-29:73375134:5:SB:2B:1/catcher",
+    "value": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "teamCode": "F",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "desc": "top 5 （走者・吉川）二塁盗塁成功 達 田宮",
+    "path": "/2026-05-29:73375134:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "path": "/2026-05-29:11815136:4:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "desc": "top 4 （走者・増田）二塁盗塁成功 岸 ",
+    "path": "/2026-05-29:11815136:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "remove",
+    "path": "/2026-05-29:11815136:4:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "path": "/2026-05-29:81185159:8:CS:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "desc": "top 8 （走者・伊藤）二塁盗塁失敗 渡辺翔 ",
+    "path": "/2026-05-29:81185159:8:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "remove",
+    "path": "/2026-05-29:81185159:8:CS:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "path": "/2026-05-29:23125157:9:SB:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "desc": "top 9 （走者・モンテル）二塁盗塁成功 古賀 ",
+    "path": "/2026-05-29:23125157:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "remove",
+    "path": "/2026-05-29:23125157:9:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "path": "/2026-05-29:11815159:7:SB:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "desc": "top 7 （走者・福島）二塁盗塁成功 小野 佐藤",
+    "path": "/2026-05-29:11815159:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "path": "/2026-05-29:91495139:3:CS:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "desc": "bottom 3 （走者・森友）二塁盗塁失敗 柳 石伊",
+    "path": "/2026-05-29:91495139:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "path": "/2026-05-29:21025157:7:SB:2B:1/catcher",
+    "value": {
+      "id": "91495139",
+      "jaBoxscoreName": "森友",
+      "boxscoreName": "T.Mori",
+      "teamCode": "B",
+      "jaRegisteredName": "森　友哉",
+      "fullLFMName": "Mori, Tomoya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "desc": "top 7 （走者・田中）二塁盗塁成功 寺西 森友",
+    "path": "/2026-05-29:21025157:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "path": "/2026-05-29:71575159:8:SB:2B:1/catcher",
+    "value": {
+      "id": "91495139",
+      "jaBoxscoreName": "森友",
+      "boxscoreName": "T.Mori",
+      "teamCode": "B",
+      "jaRegisteredName": "森　友哉",
+      "fullLFMName": "Mori, Tomoya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-29",
+    "op": "replace",
+    "desc": "top 8 （走者・尾田）二塁盗塁成功 阿部 森友",
+    "path": "/2026-05-29:71575159:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

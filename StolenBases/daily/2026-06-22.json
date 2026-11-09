@@ -1,0 +1,124 @@
+{
+  "2026-06-22:01805151:9:SB:2B:1": {
+    "id": "2026-06-22:01805151:9:SB:2B:1",
+    "date": "2026-06-22",
+    "runner": {
+      "id": "01805151",
+      "jaBoxscoreName": "武藤",
+      "boxscoreName": "Mutoh",
+      "batSide": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "武藤　敦貴",
+      "fullLFMName": "Mutoh, Atsuki"
+    },
+    "batter": {
+      "id": "73175138",
+      "jaBoxscoreName": "渡邊佳",
+      "boxscoreName": "Y.Watanabe",
+      "batSide": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "渡邊　佳明",
+      "fullLFMName": "Watanabe, Yoshiaki"
+    },
+    "pitcher": {
+      "id": "51555138",
+      "jaBoxscoreName": "甲斐野",
+      "boxscoreName": "Kaino",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "甲斐野　央",
+      "fullLFMName": "Kaino, Hiroshi"
+    },
+    "catcher": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 6,
+      "home": 6
+    },
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "（走者・武藤）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0622/e-l-09/playbyplay.html#com9-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-22:61965151:12:SB:2B:1": {
+    "id": "2026-06-22:61965151:12:SB:2B:1",
+    "date": "2026-06-22",
+    "runner": {
+      "id": "61965151",
+      "jaBoxscoreName": "小深田",
+      "boxscoreName": "Kobukata",
+      "batSide": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "小深田　大翔",
+      "fullLFMName": "Kobukata, Hiroto"
+    },
+    "batter": {
+      "id": "01905151",
+      "jaBoxscoreName": "黒川",
+      "boxscoreName": "Kurokawa",
+      "batSide": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "黒川　史陽",
+      "fullLFMName": "Kurokawa, Fumiya"
+    },
+    "pitcher": {
+      "id": "91395159",
+      "jaBoxscoreName": "上田",
+      "boxscoreName": "Ueda",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "上田　大河",
+      "fullLFMName": "Ueda, Taiga"
+    },
+    "catcher": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 12,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 7,
+      "home": 7
+    },
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0622/e-l-09/playbyplay.html#com12-2",
+    "countsAsStealAttempt": "Y"
+  }
+}

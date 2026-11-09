@@ -1,0 +1,63 @@
+{
+  "2026-06-26:73375157:7:CS:2B:1": {
+    "id": "2026-06-26:73375157:7:CS:2B:1",
+    "date": "2026-06-26",
+    "runner": {
+      "id": "73375157",
+      "jaBoxscoreName": "矢澤",
+      "boxscoreName": "Yazawa",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "矢澤　宏太",
+      "fullLFMName": "Yazawa, Kota"
+    },
+    "batter": {
+      "id": "31835138",
+      "jaBoxscoreName": "水谷",
+      "boxscoreName": "Mizutani",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "水谷　瞬",
+      "fullLFMName": "Mizutani, Shun"
+    },
+    "pitcher": {
+      "id": "71075139",
+      "jaBoxscoreName": "中村祐",
+      "boxscoreName": "Y.Nakamura",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "中村　祐太",
+      "fullLFMName": "Nakamura, Yuta"
+    },
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "boxscoreName": "Y.Koga",
+      "teamCode": "L",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 3,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "（走者・矢澤）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0626/l-f-10/playbyplay.html#com7-1",
+    "countsAsStealAttempt": "Y"
+  }
+}

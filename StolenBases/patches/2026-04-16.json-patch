@@ -1,0 +1,102 @@
+[
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "path": "/2026-04-16:51455151:1:SB:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "boxscoreName": "Yamamoto",
+      "teamCode": "DB",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "desc": "bottom 1 （走者・長岡）二塁盗塁成功 デュプランティエ 山本",
+    "path": "/2026-04-16:51455151:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "path": "/2026-04-16:51355155:3:SB:3B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "boxscoreName": "Yamamoto",
+      "teamCode": "DB",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "desc": "bottom 3 （走者・岩田）三塁盗塁成功 デュプランティエ 山本",
+    "path": "/2026-04-16:51355155:3:SB:3B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "path": "/2026-04-16:51455151:7:CS:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "boxscoreName": "Yamamoto",
+      "teamCode": "DB",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "desc": "bottom 7 （走者・長岡）二塁盗塁失敗 マルセリーノ 山本",
+    "path": "/2026-04-16:51455151:7:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "path": "/2026-04-16:51955159:3:CS:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "desc": "top 3 （走者・佐々木）二塁盗塁失敗 ルーカス 坂本 けん制飛び出し（佐々木）",
+    "path": "/2026-04-16:51955159:3:CS:2B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "path": "/2026-04-16:63565155:7:SB:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-16",
+    "op": "replace",
+    "desc": "bottom 7 （走者・渡部）二塁盗塁成功 浜屋 小島",
+    "path": "/2026-04-16:63565155:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

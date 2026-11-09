@@ -1,0 +1,152 @@
+[
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "path": "/2026-06-03:81385150:1:SB:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "desc": "bottom 1 （走者・浦田）二塁盗塁成功 曽谷 若月",
+    "path": "/2026-06-03:81385150:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "path": "/2026-06-03:51155153:7:SB:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "desc": "bottom 7 （走者・赤羽）二塁盗塁成功 中森 佐藤",
+    "path": "/2026-06-03:51155153:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "path": "/2026-06-03:41745135:4:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "desc": "top 4 （走者・近藤）二塁盗塁成功 櫻井 石伊",
+    "path": "/2026-06-03:41745135:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "path": "/2026-06-03:71375155:6:SB:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本祐",
+      "boxscoreName": "Y.Yamamoto",
+      "teamCode": "H",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "desc": "bottom 6 （走者・鵜飼）二塁盗塁成功 津森 ",
+    "path": "/2026-06-03:71375155:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "remove",
+    "path": "/2026-06-03:71375155:6:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "path": "/2026-06-03:21925136:11:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "desc": "top 11 （走者・周東）二塁盗塁成功 篠﨑 石伊",
+    "path": "/2026-06-03:21925136:11:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "path": "/2026-06-03:83385150:7:SB:2B:1/catcher",
+    "value": {
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "boxscoreName": "Fushimi",
+      "teamCode": "T",
+      "jaRegisteredName": "伏見　寅威",
+      "fullLFMName": "Fushimi, Torai"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "desc": "top 7 （走者・渡部）二塁盗塁成功 大竹 ",
+    "path": "/2026-06-03:83385150:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "remove",
+    "path": "/2026-06-03:83385150:7:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "path": "/2026-06-03:11915134:1:SB:2B:1/catcher",
+    "value": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "teamCode": "F",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-03",
+    "op": "replace",
+    "desc": "bottom 1 （走者・坂倉）二塁盗塁成功 伊藤 田宮",
+    "path": "/2026-06-03:11915134:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

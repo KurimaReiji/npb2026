@@ -1,0 +1,124 @@
+{
+  "2026-07-17:81385150:3:SB:2B:1": {
+    "id": "2026-07-17:81385150:3:SB:2B:1",
+    "date": "2026-07-17",
+    "runner": {
+      "id": "81385150",
+      "jaBoxscoreName": "浦田",
+      "boxscoreName": "Urata",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "浦田　俊輔",
+      "fullLFMName": "Urata, Shunsuke"
+    },
+    "batter": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本",
+      "boxscoreName": "Matsumoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "松本　剛",
+      "fullLFMName": "Matsumoto, Go"
+    },
+    "pitcher": {
+      "id": "11515133",
+      "jaBoxscoreName": "大野",
+      "boxscoreName": "Ohno",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "大野　雄大",
+      "fullLFMName": "Ohno, Yudai"
+    },
+    "catcher": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム",
+      "name": "Tokyo Dome",
+      "jaName": "東京ドーム"
+    },
+    "jaText": "（走者・浦田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0717/g-d-15/playbyplay.html#com3-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-07-17:51555155:6:SB:2B:1": {
+    "id": "2026-07-17:51555155:6:SB:2B:1",
+    "date": "2026-07-17",
+    "runner": {
+      "id": "51555155",
+      "jaBoxscoreName": "梶原",
+      "boxscoreName": "Kajiwara",
+      "batSide": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars",
+      "jaRegisteredName": "梶原　昂希",
+      "fullLFMName": "Kajiwara, Kouki"
+    },
+    "batter": {
+      "id": "41545138",
+      "jaBoxscoreName": "勝又",
+      "boxscoreName": "Katsumata",
+      "batSide": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars",
+      "jaRegisteredName": "勝又　温史",
+      "fullLFMName": "Katsumata, Atsushi"
+    },
+    "pitcher": {
+      "id": "11615134",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "長谷川　宙輝",
+      "fullLFMName": "Hasegawa, Hiroki"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 4
+    },
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜",
+      "name": "Yokohama Stadium",
+      "jaName": "横浜スタジアム"
+    },
+    "jaText": "（走者・梶原）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0717/db-s-14/playbyplay.html#com6-2",
+    "countsAsStealAttempt": "Y"
+  }
+}

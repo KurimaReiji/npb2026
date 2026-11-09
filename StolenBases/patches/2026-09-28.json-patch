@@ -1,0 +1,122 @@
+[
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "path": "/2026-09-28:81585152:3:CS:2B:1/catcher",
+    "value": {
+      "id": "91895155",
+      "jaBoxscoreName": "古市",
+      "boxscoreName": "Furuichi",
+      "teamCode": "DB",
+      "jaRegisteredName": "古市　尊",
+      "fullLFMName": "Furuichi, Takeru"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "desc": "top 3 （走者・勝田）二塁盗塁失敗 東 古市",
+    "path": "/2026-09-28:81585152:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "path": "/2026-09-28:71075157:8:SB:2B:1/catcher",
+    "value": {
+      "id": "91895155",
+      "jaBoxscoreName": "古市",
+      "boxscoreName": "Furuichi",
+      "teamCode": "DB",
+      "jaRegisteredName": "古市　尊",
+      "fullLFMName": "Furuichi, Takeru"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "desc": "top 8 （走者・辰見）二塁盗塁成功 吉野 古市",
+    "path": "/2026-09-28:71075157:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "path": "/2026-09-28:21425159:4:SB:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "desc": "top 4 （走者・中島）二塁盗塁成功 豆田 小島",
+    "path": "/2026-09-28:21425159:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "path": "/2026-09-28:51255155:5:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "desc": "bottom 5 （走者・滝澤）二塁盗塁成功 岸 堀内",
+    "path": "/2026-09-28:51255155:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "path": "/2026-09-28:11815132:6:SB:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "desc": "top 6 （走者・堀内）二塁盗塁成功 E.ラミレス 小島",
+    "path": "/2026-09-28:11815132:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "path": "/2026-09-28:81385138:6:SB:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-28",
+    "op": "replace",
+    "desc": "top 6 （走者・小郷）二塁盗塁成功 E.ラミレス 小島",
+    "path": "/2026-09-28:81385138:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

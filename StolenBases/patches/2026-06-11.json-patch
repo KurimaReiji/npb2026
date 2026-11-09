@@ -1,0 +1,217 @@
+[
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:51555151:6:SB:2B:1/catcher",
+    "value": {
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "boxscoreName": "Shintoh",
+      "teamCode": "F",
+      "jaRegisteredName": "進藤　勇也",
+      "fullLFMName": "Shintoh, Yuya"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "top 6 （走者・蝦名）二塁盗塁成功 孫 進藤",
+    "path": "/2026-06-11:51555151:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:11015157:1:SB:2B:1/catcher",
+    "value": {
+      "id": "91795139",
+      "jaBoxscoreName": "小林",
+      "boxscoreName": "Kobayashi",
+      "teamCode": "G",
+      "jaRegisteredName": "小林　誠司",
+      "fullLFMName": "Kobayashi, Seiji"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "bottom 1 （走者・平良）二塁盗塁成功 田中将 ",
+    "path": "/2026-06-11:11015157:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "remove",
+    "path": "/2026-06-11:11015157:1:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:11015138:1:SB:2B:1/catcher",
+    "value": {
+      "id": "91795139",
+      "jaBoxscoreName": "小林",
+      "boxscoreName": "Kobayashi",
+      "teamCode": "G",
+      "jaRegisteredName": "小林　誠司",
+      "fullLFMName": "Kobayashi, Seiji"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "bottom 1 （走者・辰己）二塁盗塁成功 田中将 ",
+    "path": "/2026-06-11:11015138:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "remove",
+    "path": "/2026-06-11:11015138:1:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:81585152:7:SB:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "top 7 （走者・勝田）二塁盗塁成功 ウィンゲンター ",
+    "path": "/2026-06-11:81585152:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "remove",
+    "path": "/2026-06-11:81585152:7:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:91195151:2:CS:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "top 2 （走者・石川昂）二塁盗塁失敗 小島 佐藤",
+    "path": "/2026-06-11:91195151:2:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:21025157:9:SB:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "top 9 （走者・田中）二塁盗塁成功 横山 佐藤",
+    "path": "/2026-06-11:21025157:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:23125157:1:PO:1B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "top 1 （走者・モンテル）一塁牽制アウト エスピノーザ 若月",
+    "path": "/2026-06-11:23125157:1:PO:1B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:71475132:4:CS:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "bottom 4 （走者・西川）二塁盗塁失敗 下川 古賀",
+    "path": "/2026-06-11:71475132:4:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:41745135:4:SB:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "bottom 4 （走者・近藤）二塁盗塁成功 伊藤将 坂本",
+    "path": "/2026-06-11:41745135:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "path": "/2026-06-11:91995136:6:CS:2B:1/catcher",
+    "value": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-11",
+    "op": "replace",
+    "desc": "top 6 （走者・島田）二塁盗塁失敗 スチュワート・ジュニア 海野",
+    "path": "/2026-06-11:91995136:6:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "path": "/2026-08-12:01005159:1:SB:2B:1/catcher",
+    "value": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "desc": "bottom 1 （走者・鈴木叶）二塁盗塁成功 栗林 持丸",
+    "path": "/2026-08-12:01005159:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "path": "/2026-08-12:51255155:3:CS:2B:1/catcher",
+    "value": {
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "boxscoreName": "Shintoh",
+      "teamCode": "F",
+      "jaRegisteredName": "進藤　勇也",
+      "fullLFMName": "Shintoh, Yuya"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "desc": "top 3 （走者・滝澤）二塁盗塁失敗 北山 ",
+    "path": "/2026-08-12:51255155:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "remove",
+    "path": "/2026-08-12:51255155:3:CS:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "path": "/2026-08-12:23325152:7:SB:2B:1/catcher",
+    "value": {
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "boxscoreName": "Shintoh",
+      "teamCode": "F",
+      "jaRegisteredName": "進藤　勇也",
+      "fullLFMName": "Shintoh, Yuya"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "desc": "top 7 （走者・カナリオ）二塁盗塁成功 島本 ",
+    "path": "/2026-08-12:23325152:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "remove",
+    "path": "/2026-08-12:23325152:7:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "path": "/2026-08-12:33135150:5:SB:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "desc": "top 5 （走者・麦谷）二塁盗塁成功 前田健 太田",
+    "path": "/2026-08-12:33135150:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "path": "/2026-08-12:51955153:6:PO:1B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "desc": "top 6 （走者・来田）一塁牽制アウト 前田健 太田",
+    "path": "/2026-08-12:51955153:6:PO:1B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "path": "/2026-08-12:21925136:4:SB:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "desc": "bottom 4 （走者・周東）二塁盗塁成功 高野脩 ",
+    "path": "/2026-08-12:21925136:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "remove",
+    "path": "/2026-08-12:21925136:4:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "path": "/2026-08-12:21925136:6:SB:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "replace",
+    "desc": "bottom 6 （走者・周東）二塁盗塁成功 髙橋 ",
+    "path": "/2026-08-12:21925136:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "op": "remove",
+    "path": "/2026-08-12:21925136:6:SB:2B:1/catchers"
+  }
+]

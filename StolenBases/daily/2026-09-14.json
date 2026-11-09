@@ -1,0 +1,246 @@
+{
+  "2026-09-14:81385150:11:SB:2B:1": {
+    "id": "2026-09-14:81385150:11:SB:2B:1",
+    "date": "2026-09-14",
+    "runner": {
+      "id": "81385150",
+      "jaBoxscoreName": "浦田",
+      "boxscoreName": "Urata",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "浦田　俊輔",
+      "fullLFMName": "Urata, Shunsuke"
+    },
+    "batter": {
+      "id": "51655153",
+      "jaBoxscoreName": "中山",
+      "boxscoreName": "Nakayama",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "中山　礼都",
+      "fullLFMName": "Nakayama, Raito"
+    },
+    "pitcher": {
+      "id": "11315130",
+      "jaBoxscoreName": "石田健",
+      "boxscoreName": "K.Ishida",
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars",
+      "jaRegisteredName": "石田　健大",
+      "fullLFMName": "Ishida, Kenta"
+    },
+    "catcher": {
+      "id": "91895155",
+      "jaBoxscoreName": "古市",
+      "boxscoreName": "Furuichi",
+      "teamCode": "DB",
+      "jaRegisteredName": "古市　尊",
+      "fullLFMName": "Furuichi, Takeru"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 11,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 3,
+      "home": 3
+    },
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜",
+      "name": "Yokohama Stadium",
+      "jaName": "横浜スタジアム"
+    },
+    "jaText": "（走者・浦田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0914/db-g-23/playbyplay.html#com11-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-09-14:81685157:8:SB:2B:1": {
+    "id": "2026-09-14:81685157:8:SB:2B:1",
+    "date": "2026-09-14",
+    "runner": {
+      "id": "81685157",
+      "jaBoxscoreName": "福永",
+      "boxscoreName": "Fukunaga",
+      "batSide": "R",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "福永　裕基",
+      "fullLFMName": "Fukunaga, Hiroki"
+    },
+    "batter": {
+      "id": "03105157",
+      "jaBoxscoreName": "村松",
+      "boxscoreName": "Muramatsu",
+      "batSide": "L",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "村松　開人",
+      "fullLFMName": "Muramatsu, Kaito"
+    },
+    "pitcher": {
+      "id": "53055152",
+      "jaBoxscoreName": "セベリーノ",
+      "boxscoreName": "Severino",
+      "pitchHand": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "Ａ．セベリーノ",
+      "fullLFMName": "Severino, Anderson"
+    },
+    "catcher": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 4,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・福永）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0914/t-d-24/playbyplay.html#com8-1",
+    "countsAsStealAttempt": "N"
+  },
+  "2026-09-14:21025157:9:SB:2B:1": {
+    "id": "2026-09-14:21025157:9:SB:2B:1",
+    "date": "2026-09-14",
+    "runner": {
+      "id": "21025157",
+      "jaBoxscoreName": "田中",
+      "boxscoreName": "Tanaka",
+      "batSide": "R",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "田中　幹也",
+      "fullLFMName": "Tanaka, Mikiya"
+    },
+    "batter": {
+      "id": "91195151",
+      "jaBoxscoreName": "石川昂",
+      "boxscoreName": "Tak.Ishikawa",
+      "batSide": "R",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "石川　昂弥",
+      "fullLFMName": "Ishikawa, Takaya"
+    },
+    "pitcher": {
+      "id": "03505132",
+      "jaBoxscoreName": "ドリス",
+      "boxscoreName": "Dolis",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "Ｒ．ドリス",
+      "fullLFMName": "Dolis, Rafael"
+    },
+    "catcher": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 4,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・田中）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0914/t-d-24/playbyplay.html#com9-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-09-14:61465152:9:SB:2B:1": {
+    "id": "2026-09-14:61465152:9:SB:2B:1",
+    "date": "2026-09-14",
+    "runner": {
+      "id": "61465152",
+      "jaBoxscoreName": "花田",
+      "boxscoreName": "Hanada",
+      "batSide": "R",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "花田　旭",
+      "fullLFMName": "Hanada, Asahi"
+    },
+    "batter": {
+      "id": "13915150",
+      "jaBoxscoreName": "マラー",
+      "boxscoreName": "Muller",
+      "batSide": "R",
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "jaRegisteredName": "Ｋ．マラー",
+      "fullLFMName": "Muller, Kyle"
+    },
+    "pitcher": {
+      "id": "03505132",
+      "jaBoxscoreName": "ドリス",
+      "boxscoreName": "Dolis",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "Ｒ．ドリス",
+      "fullLFMName": "Dolis, Rafael"
+    },
+    "catcher": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "away": 4,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・花田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0914/t-d-24/playbyplay.html#com9-1",
+    "countsAsStealAttempt": "Y"
+  }
+}

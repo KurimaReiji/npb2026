@@ -1,0 +1,22 @@
+[
+  {
+    "effectiveDate": "2026-05-21",
+    "op": "replace",
+    "path": "/2026-05-21:33535159:3:CS:2B:1/catcher",
+    "value": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "C",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-21",
+    "op": "replace",
+    "desc": "top 3 （走者・度会）二塁盗塁失敗 玉村 石原",
+    "path": "/2026-05-21:33535159:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

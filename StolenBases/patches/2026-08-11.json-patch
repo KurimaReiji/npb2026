@@ -1,0 +1,102 @@
+[
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "path": "/2026-08-11:81685157:2:SB:2B:1/catcher",
+    "value": {
+      "id": "21825157",
+      "jaBoxscoreName": "松尾",
+      "boxscoreName": "Matsuo",
+      "teamCode": "DB",
+      "jaRegisteredName": "松尾　汐恩",
+      "fullLFMName": "Matsuo, Shion"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "desc": "bottom 2 （走者・福永）二塁盗塁成功 尾形 松尾",
+    "path": "/2026-08-11:81685157:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "path": "/2026-08-11:21025136:8:SB:2B:1/catcher",
+    "value": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "teamCode": "F",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "desc": "top 8 （走者・髙松）二塁盗塁成功 伊藤 田宮",
+    "path": "/2026-08-11:21025136:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "path": "/2026-08-11:53155150:5:CS:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "desc": "bottom 5 （走者・宗山）二塁盗塁失敗 九里 若月",
+    "path": "/2026-08-11:53155150:5:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "path": "/2026-08-11:63565155:8:SB:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "desc": "top 8 （走者・渡部）二塁盗塁成功 柴田 太田",
+    "path": "/2026-08-11:63565155:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "path": "/2026-08-11:81485155:9:SB:2B:1/catcher",
+    "value": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-11",
+    "op": "replace",
+    "desc": "top 9 （走者・野口）二塁盗塁成功 コントレラス 太田",
+    "path": "/2026-08-11:81485155:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

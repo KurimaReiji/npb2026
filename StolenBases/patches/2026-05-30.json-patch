@@ -1,0 +1,162 @@
+[
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "path": "/2026-05-30:81385150:1:SB:2B:1/catcher",
+    "value": {
+      "id": "11515151",
+      "jaBoxscoreName": "梅林",
+      "boxscoreName": "Umebayashi",
+      "teamCode": "F",
+      "jaRegisteredName": "梅林　優貴",
+      "fullLFMName": "Umebayashi, Yuki"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "desc": "top 1 （走者・浦田）二塁盗塁成功 有原 ",
+    "path": "/2026-05-30:81385150:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "remove",
+    "path": "/2026-05-30:81385150:1:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "path": "/2026-05-30:81385150:3:SB:2B:1/catcher",
+    "value": {
+      "id": "11515151",
+      "jaBoxscoreName": "梅林",
+      "boxscoreName": "Umebayashi",
+      "teamCode": "F",
+      "jaRegisteredName": "梅林　優貴",
+      "fullLFMName": "Umebayashi, Yuki"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "desc": "top 3 （走者・浦田）二塁盗塁成功 有原 ",
+    "path": "/2026-05-30:81385150:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "remove",
+    "path": "/2026-05-30:81385150:3:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "path": "/2026-05-30:81385150:3:SB:3B:1/catcher",
+    "value": {
+      "id": "11515151",
+      "jaBoxscoreName": "梅林",
+      "boxscoreName": "Umebayashi",
+      "teamCode": "F",
+      "jaRegisteredName": "梅林　優貴",
+      "fullLFMName": "Umebayashi, Yuki"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "desc": "top 3 （走者・浦田）三塁盗塁成功 有原 ",
+    "path": "/2026-05-30:81385150:3:SB:3B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "remove",
+    "path": "/2026-05-30:81385150:3:SB:3B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "path": "/2026-05-30:51355155:9:SB:2B:1/catcher",
+    "value": {
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "boxscoreName": "Horiuchi",
+      "teamCode": "E",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "desc": "top 9 （走者・岩田）二塁盗塁成功 九谷 ",
+    "path": "/2026-05-30:51355155:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "remove",
+    "path": "/2026-05-30:51355155:9:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "path": "/2026-05-30:91495152:4:CS:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "desc": "top 4 （走者・成瀬）二塁盗塁失敗 隅田 小島",
+    "path": "/2026-05-30:91495152:4:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "path": "/2026-05-30:11415157:1:SB:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本祐",
+      "boxscoreName": "Y.Yamamoto",
+      "teamCode": "H",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "desc": "top 1 （走者・名原）二塁盗塁成功 前田純 山本祐",
+    "path": "/2026-05-30:11415157:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "path": "/2026-05-30:93395153:2:CS:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本祐",
+      "boxscoreName": "Y.Yamamoto",
+      "teamCode": "H",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "op": "replace",
+    "desc": "top 2 （走者・矢野）二塁盗塁失敗 前田純 山本祐",
+    "path": "/2026-05-30:93395153:2:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

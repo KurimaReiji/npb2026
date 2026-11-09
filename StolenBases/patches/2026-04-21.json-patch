@@ -1,0 +1,202 @@
+[
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:51955159:8:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "bottom 8 （走者・佐々木）二塁盗塁成功 杉浦 石伊",
+    "path": "/2026-04-21:51955159:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:33135134:5:SB:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "bottom 5 （走者・三森）二塁盗塁成功 才木 ",
+    "path": "/2026-04-21:33135134:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "remove",
+    "path": "/2026-04-21:33135134:5:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:41545138:8:SB:2B:1/catcher",
+    "value": {
+      "id": "31235150",
+      "jaBoxscoreName": "嶋村",
+      "boxscoreName": "Shimamura",
+      "teamCode": "T",
+      "jaRegisteredName": "嶋村　麟士朗",
+      "fullLFMName": "Shimamura, Rinshiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "bottom 8 （走者・勝又）二塁盗塁成功 岩貞 ",
+    "path": "/2026-04-21:41545138:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "remove",
+    "path": "/2026-04-21:41545138:8:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:81585134:8:SB:2B:1/catcher",
+    "value": {
+      "id": "31235150",
+      "jaBoxscoreName": "嶋村",
+      "boxscoreName": "Shimamura",
+      "teamCode": "T",
+      "jaRegisteredName": "嶋村　麟士朗",
+      "fullLFMName": "Shimamura, Rinshiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "bottom 8 （走者・京田）二塁盗塁成功 岩貞 ",
+    "path": "/2026-04-21:81585134:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "remove",
+    "path": "/2026-04-21:81585134:8:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:91695157:8:SB:2B:1/catcher",
+    "value": {
+      "id": "31235150",
+      "jaBoxscoreName": "嶋村",
+      "boxscoreName": "Shimamura",
+      "teamCode": "T",
+      "jaRegisteredName": "嶋村　麟士朗",
+      "fullLFMName": "Shimamura, Rinshiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "bottom 8 （走者・林）二塁盗塁成功 岩貞 ",
+    "path": "/2026-04-21:91695157:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "remove",
+    "path": "/2026-04-21:91695157:8:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:51155153:5:SB:2B:1/catcher",
+    "value": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "top 5 （走者・赤羽）二塁盗塁成功 森下 持丸",
+    "path": "/2026-04-21:51155153:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:81685153:1:SB:2B:1/catcher",
+    "value": {
+      "id": "11215132",
+      "jaBoxscoreName": "谷川原",
+      "boxscoreName": "Tanigawara",
+      "teamCode": "H",
+      "jaRegisteredName": "谷川原　健太",
+      "fullLFMName": "Tanigawara, Kenta"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "bottom 1 （走者・長谷川）二塁盗塁成功 スチュワート・ジュニア 谷川原",
+    "path": "/2026-04-21:81685153:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:51255155:1:CS:2B:1/catcher",
+    "value": {
+      "id": "11215132",
+      "jaBoxscoreName": "谷川原",
+      "boxscoreName": "Tanigawara",
+      "teamCode": "H",
+      "jaRegisteredName": "谷川原　健太",
+      "fullLFMName": "Tanigawara, Kenta"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "bottom 1 （走者・滝澤）二塁盗塁失敗 スチュワート・ジュニア 谷川原",
+    "path": "/2026-04-21:51255155:1:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "path": "/2026-04-21:81685153:6:CS:2B:1/catcher",
+    "value": {
+      "id": "11215132",
+      "jaBoxscoreName": "谷川原",
+      "boxscoreName": "Tanigawara",
+      "teamCode": "H",
+      "jaRegisteredName": "谷川原　健太",
+      "fullLFMName": "Tanigawara, Kenta"
+    }
+  },
+  {
+    "effectiveDate": "2026-04-21",
+    "op": "replace",
+    "desc": "bottom 6 （走者・長谷川）二塁盗塁失敗 ヘルナンデス 谷川原",
+    "path": "/2026-04-21:81685153:6:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

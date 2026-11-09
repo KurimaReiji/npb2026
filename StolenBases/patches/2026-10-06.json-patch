@@ -1,0 +1,47 @@
+[
+  {
+    "effectiveDate": "2026-10-06",
+    "op": "replace",
+    "path": "/2026-10-06:81585136:5:SB:2B:1/catcher",
+    "value": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "C",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-06",
+    "op": "replace",
+    "desc": "bottom 5 （走者・熊谷）二塁盗塁成功 赤木 石原",
+    "path": "/2026-10-06:81585136:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-06",
+    "op": "replace",
+    "path": "/2026-10-06:23325152:3:CS:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-06",
+    "op": "replace",
+    "desc": "top 3 （走者・カナリオ）二塁盗塁失敗 ルケーシー ",
+    "path": "/2026-10-06:23325152:3:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-06",
+    "op": "remove",
+    "path": "/2026-10-06:23325152:3:CS:2B:1/catchers"
+  }
+]

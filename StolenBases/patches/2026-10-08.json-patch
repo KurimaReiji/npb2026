@@ -1,0 +1,102 @@
+[
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "replace",
+    "path": "/2026-10-08:11815159:4:SB:2B:1/catcher",
+    "value": {
+      "id": "21525132",
+      "jaBoxscoreName": "柿沼",
+      "boxscoreName": "Kakinuma",
+      "teamCode": "S",
+      "jaRegisteredName": "柿沼　友哉",
+      "fullLFMName": "Kakinuma, Tomoya"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "replace",
+    "desc": "bottom 4 （走者・福島）二塁盗塁成功 中村優 ",
+    "path": "/2026-10-08:11815159:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "remove",
+    "path": "/2026-10-08:11815159:4:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "replace",
+    "path": "/2026-10-08:21325139:5:SB:2B:1/catcher",
+    "value": {
+      "id": "21525132",
+      "jaBoxscoreName": "柿沼",
+      "boxscoreName": "Kakinuma",
+      "teamCode": "S",
+      "jaRegisteredName": "柿沼　友哉",
+      "fullLFMName": "Kakinuma, Tomoya"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "replace",
+    "desc": "bottom 5 （走者・梅野）二塁盗塁成功 中村優 ",
+    "path": "/2026-10-08:21325139:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "remove",
+    "path": "/2026-10-08:21325139:5:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "replace",
+    "path": "/2026-10-08:51355155:7:SB:2B:1/catcher",
+    "value": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno",
+      "teamCode": "T",
+      "jaRegisteredName": "梅野　隆太郎",
+      "fullLFMName": "Umeno, Ryutaro"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "replace",
+    "desc": "top 7 （走者・岩田）二塁盗塁成功 下村 ",
+    "path": "/2026-10-08:51355155:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "remove",
+    "path": "/2026-10-08:51355155:7:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "replace",
+    "path": "/2026-10-08:51355155:7:CS:3B:1/catcher",
+    "value": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno",
+      "teamCode": "T",
+      "jaRegisteredName": "梅野　隆太郎",
+      "fullLFMName": "Umeno, Ryutaro"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "replace",
+    "desc": "top 7 （走者・岩田）三塁盗塁失敗 下村 ",
+    "path": "/2026-10-08:51355155:7:CS:3B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-10-08",
+    "op": "remove",
+    "path": "/2026-10-08:51355155:7:CS:3B:1/catchers"
+  }
+]

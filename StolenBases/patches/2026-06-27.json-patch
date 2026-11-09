@@ -1,0 +1,82 @@
+[
+  {
+    "effectiveDate": "2026-06-27",
+    "op": "replace",
+    "path": "/2026-06-27:31735138:2:CS:HP:1/catcher",
+    "value": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "C",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-27",
+    "op": "replace",
+    "desc": "top 2 （走者・木浪）本塁盗塁失敗 床田 石原 スクイズ空振り",
+    "path": "/2026-06-27:31735138:2:CS:HP:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-06-27",
+    "op": "replace",
+    "path": "/2026-06-27:21125151:7:CS:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-27",
+    "op": "replace",
+    "desc": "bottom 7 （走者・石原）二塁盗塁失敗 村上 坂本",
+    "path": "/2026-06-27:21125151:7:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-27",
+    "op": "replace",
+    "path": "/2026-06-27:41245153:9:CS:2B:1/catcher",
+    "value": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "C",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-27",
+    "op": "replace",
+    "desc": "top 9 （走者・髙寺）二塁盗塁失敗 森浦 石原",
+    "path": "/2026-06-27:41245153:9:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-27",
+    "op": "replace",
+    "path": "/2026-06-27:21125134:5:CS:2B:1/catcher",
+    "value": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "teamCode": "F",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-27",
+    "op": "replace",
+    "desc": "bottom 5 （走者・石井）二塁盗塁失敗 山﨑福也 田宮",
+    "path": "/2026-06-27:21125134:5:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

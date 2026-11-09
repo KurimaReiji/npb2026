@@ -1,0 +1,87 @@
+[
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "replace",
+    "path": "/2026-05-03:71275151:2:CS:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "boxscoreName": "Yamamoto",
+      "teamCode": "DB",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "replace",
+    "desc": "bottom 2 （走者・武岡）二塁盗塁失敗 石田裕 山本",
+    "path": "/2026-05-03:71275151:2:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "replace",
+    "path": "/2026-05-03:73575150:5:SB:2B:1/catcher",
+    "value": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno",
+      "teamCode": "T",
+      "jaRegisteredName": "梅野　隆太郎",
+      "fullLFMName": "Umeno, Ryutaro"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "replace",
+    "desc": "top 5 （走者・キャベッジ）二塁盗塁成功 才木 梅野",
+    "path": "/2026-05-03:73575150:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "replace",
+    "path": "/2026-05-03:81385150:7:SB:2B:1/catcher",
+    "value": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno",
+      "teamCode": "T",
+      "jaRegisteredName": "梅野　隆太郎",
+      "fullLFMName": "Umeno, Ryutaro"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "replace",
+    "desc": "top 7 （走者・浦田）二塁盗塁成功 才木 梅野",
+    "path": "/2026-05-03:81385150:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "replace",
+    "path": "/2026-05-03:31435138:4:CS:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "replace",
+    "desc": "bottom 4 （走者・野村）二塁盗塁失敗 九里 ",
+    "path": "/2026-05-03:31435138:4:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-03",
+    "op": "remove",
+    "path": "/2026-05-03:31435138:4:CS:2B:1/catchers"
+  }
+]

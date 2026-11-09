@@ -1,0 +1,102 @@
+[
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "path": "/2026-06-14:91095151:4:SB:2B:1/catcher",
+    "value": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "desc": "bottom 4 （走者・佐藤）二塁盗塁成功 岡本 持丸",
+    "path": "/2026-06-14:91095151:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "path": "/2026-06-14:23325152:4:SB:3B:1/catcher",
+    "value": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida",
+      "teamCode": "G",
+      "jaRegisteredName": "岸田　行倫",
+      "fullLFMName": "Kishida, Yukinori"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "desc": "bottom 4 （走者・カナリオ）三塁盗塁成功 井上 岸田",
+    "path": "/2026-06-14:23325152:4:SB:3B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "path": "/2026-06-14:81385150:8:PO:1B:1/catcher",
+    "value": {
+      "id": "61265151",
+      "jaBoxscoreName": "柘植",
+      "boxscoreName": "Tsuge",
+      "teamCode": "L",
+      "jaRegisteredName": "柘植　世那",
+      "fullLFMName": "Tsuge, Sena"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "desc": "top 8 （走者・浦田）一塁牽制アウト 篠原 柘植",
+    "path": "/2026-06-14:81385150:8:PO:1B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "path": "/2026-06-14:61965157:4:SB:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "desc": "bottom 4 （走者・杉澤）二塁盗塁成功 西勇 坂本",
+    "path": "/2026-06-14:61965157:4:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "path": "/2026-06-14:33335150:8:CS:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-06-14",
+    "op": "replace",
+    "desc": "bottom 8 （走者・山中）二塁盗塁失敗 木下 坂本",
+    "path": "/2026-06-14:33335150:8:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

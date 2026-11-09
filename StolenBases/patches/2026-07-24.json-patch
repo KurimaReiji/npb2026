@@ -1,0 +1,82 @@
+[
+  {
+    "effectiveDate": "2026-07-24",
+    "op": "replace",
+    "path": "/2026-07-24:11015150:6:CS:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "op": "replace",
+    "desc": "top 6 （走者・佐々木）二塁盗塁失敗 高橋 古賀",
+    "path": "/2026-07-24:11015150:6:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "op": "replace",
+    "path": "/2026-07-24:71075157:8:SB:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "op": "replace",
+    "desc": "top 8 （走者・辰見）二塁盗塁成功 リランソ 古賀",
+    "path": "/2026-07-24:71075157:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "op": "replace",
+    "path": "/2026-07-24:33135134:8:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "op": "replace",
+    "desc": "top 8 （走者・三森）二塁盗塁成功 橋本 石伊",
+    "path": "/2026-07-24:33135134:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "op": "replace",
+    "path": "/2026-07-24:11715155:9:SB:2B:1/catcher",
+    "value": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "boxscoreName": "Y.Koga",
+      "teamCode": "L",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "op": "replace",
+    "desc": "top 9 （走者・川村）二塁盗塁成功 岩城 古賀悠",
+    "path": "/2026-07-24:11715155:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "path": "/2026-05-20:81585152:6:SB:2B:1/catcher",
+    "value": {
+      "id": "21825157",
+      "jaBoxscoreName": "松尾",
+      "boxscoreName": "Matsuo",
+      "teamCode": "DB",
+      "jaRegisteredName": "松尾　汐恩",
+      "fullLFMName": "Matsuo, Shion"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "desc": "bottom 6 （走者・勝田）二塁盗塁成功 ルイーズ 松尾",
+    "path": "/2026-05-20:81585152:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "path": "/2026-05-20:51055138:6:SB:2B:1/catcher",
+    "value": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤光",
+      "boxscoreName": "H.Itoh",
+      "teamCode": "E",
+      "jaRegisteredName": "伊藤　光",
+      "fullLFMName": "Itoh, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "desc": "bottom 6 （走者・田宮）二塁盗塁成功 鈴木翔 ",
+    "path": "/2026-05-20:51055138:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "remove",
+    "path": "/2026-05-20:51055138:6:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "path": "/2026-05-20:63165155:6:SB:2B:1/catcher",
+    "value": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤光",
+      "boxscoreName": "H.Itoh",
+      "teamCode": "E",
+      "jaRegisteredName": "伊藤　光",
+      "fullLFMName": "Itoh, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "desc": "bottom 6 （走者・水野）二塁盗塁成功 鈴木翔 ",
+    "path": "/2026-05-20:63165155:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "remove",
+    "path": "/2026-05-20:63165155:6:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "path": "/2026-05-20:11315153:7:SB:2B:1/catcher",
+    "value": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤光",
+      "boxscoreName": "H.Itoh",
+      "teamCode": "E",
+      "jaRegisteredName": "伊藤　光",
+      "fullLFMName": "Itoh, Hikaru"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "desc": "bottom 7 （走者・五十幡）二塁盗塁成功 加治屋 ",
+    "path": "/2026-05-20:11315153:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "remove",
+    "path": "/2026-05-20:11315153:7:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "path": "/2026-05-20:53755150:6:CS:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "desc": "bottom 6 （走者・ネビン）二塁盗塁失敗 毛利 佐藤",
+    "path": "/2026-05-20:53755150:6:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "path": "/2026-05-20:33335150:2:SB:2B:1/catcher",
+    "value": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本祐",
+      "boxscoreName": "Y.Yamamoto",
+      "teamCode": "H",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "replace",
+    "desc": "bottom 2 （走者・山中）二塁盗塁成功 藤原 ",
+    "path": "/2026-05-20:33335150:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-20",
+    "op": "remove",
+    "path": "/2026-05-20:33335150:2:SB:2B:1/catchers"
+  }
+]

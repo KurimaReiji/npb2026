@@ -1,0 +1,673 @@
+{
+  "2026-05-19:51955159:2:CS:2B:1": {
+    "id": "2026-05-19:51955159:2:CS:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "51955159",
+      "jaBoxscoreName": "佐々木",
+      "boxscoreName": "Sasaki",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "佐々木　俊輔",
+      "fullLFMName": "Sasaki, Shunsuke"
+    },
+    "batter": {
+      "id": "81385150",
+      "jaBoxscoreName": "浦田",
+      "boxscoreName": "Urata",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "浦田　俊輔",
+      "fullLFMName": "Urata, Shunsuke"
+    },
+    "pitcher": {
+      "id": "51055132",
+      "jaBoxscoreName": "高橋",
+      "boxscoreName": "K.Takahashi",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "高橋　奎二",
+      "fullLFMName": "Takahashi, Keiji"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村悠",
+      "boxscoreName": "Yuh.Nakamura",
+      "teamCode": "S",
+      "jaRegisteredName": "中村　悠平",
+      "fullLFMName": "Nakamura, Yuhei"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Iwaki",
+      "jaBoxscoreName": "いわき",
+      "name": "York Iwaki Stadium",
+      "jaName": "いわきグリーンスタジアム"
+    },
+    "jaText": "（走者・佐々木）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0519/s-g-10/playbyplay.html#com2-1",
+    "countsAsStealAttempt": "N"
+  },
+  "2026-05-19:73375134:3:SB:2B:1": {
+    "id": "2026-05-19:73375134:3:SB:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "73375134",
+      "jaBoxscoreName": "吉川",
+      "boxscoreName": "Yoshikawa",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "吉川　尚輝",
+      "fullLFMName": "Yoshikawa, Naoki"
+    },
+    "batter": {
+      "id": "63565152",
+      "jaBoxscoreName": "ダルベック",
+      "boxscoreName": "Dalbec",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "Ｂ．ダルベック",
+      "fullLFMName": "Dalbec, Bobby"
+    },
+    "pitcher": {
+      "id": "51055132",
+      "jaBoxscoreName": "高橋",
+      "boxscoreName": "K.Takahashi",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "高橋　奎二",
+      "fullLFMName": "Takahashi, Keiji"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村悠",
+      "boxscoreName": "Yuh.Nakamura",
+      "teamCode": "S",
+      "jaRegisteredName": "中村　悠平",
+      "fullLFMName": "Nakamura, Yuhei"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Iwaki",
+      "jaBoxscoreName": "いわき",
+      "name": "York Iwaki Stadium",
+      "jaName": "いわきグリーンスタジアム"
+    },
+    "jaText": "（走者・吉川）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0519/s-g-10/playbyplay.html#com3-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-19:11515157:8:SB:2B:1": {
+    "id": "2026-05-19:11515157:8:SB:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "11515157",
+      "jaBoxscoreName": "門脇",
+      "boxscoreName": "Kadowaki",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "門脇　誠",
+      "fullLFMName": "Kadowaki, Makoto"
+    },
+    "batter": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
+    },
+    "pitcher": {
+      "id": "91295150",
+      "jaBoxscoreName": "荘司",
+      "boxscoreName": "Shoji",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "jaRegisteredName": "荘司　宏太",
+      "fullLFMName": "Shoji, Kota"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Iwaki",
+      "jaBoxscoreName": "いわき",
+      "name": "York Iwaki Stadium",
+      "jaName": "いわきグリーンスタジアム"
+    },
+    "jaText": "（走者・門脇）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0519/s-g-10/playbyplay.html#com8-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-19:51555151:3:CS:2B:1": {
+    "id": "2026-05-19:51555151:3:CS:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "51555151",
+      "jaBoxscoreName": "蝦名",
+      "boxscoreName": "Ebina",
+      "batSide": "R",
+      "teamCode": "DB",
+      "teamName": "Baystars",
+      "jaRegisteredName": "蝦名　達夫",
+      "fullLFMName": "Ebina, Tatsuo"
+    },
+    "batter": {
+      "id": "33535159",
+      "jaBoxscoreName": "度会",
+      "boxscoreName": "Watarai",
+      "batSide": "L",
+      "teamCode": "DB",
+      "teamName": "Baystars",
+      "jaRegisteredName": "度会　隆輝",
+      "fullLFMName": "Watarai, Ryuki"
+    },
+    "pitcher": {
+      "id": "11415134",
+      "jaBoxscoreName": "床田",
+      "boxscoreName": "Tokoda",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
+    },
+    "catcher": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島"
+    },
+    "jaText": "（走者・蝦名）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0519/c-db-09/playbyplay.html#com3-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-19:01505155:7:CS:2B:1": {
+    "id": "2026-05-19:01505155:7:CS:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "01505155",
+      "jaBoxscoreName": "上川畑",
+      "boxscoreName": "Kamikawabata",
+      "batSide": "L",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "上川畑　大悟",
+      "fullLFMName": "Kamikawabata, Daigo"
+    },
+    "batter": {
+      "id": "11815138",
+      "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
+      "batSide": "R",
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "jaRegisteredName": "万波　中正",
+      "fullLFMName": "Mannami, Chusei"
+    },
+    "pitcher": {
+      "id": "71775152",
+      "jaBoxscoreName": "九谷",
+      "boxscoreName": "Kutani",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "九谷　瑠",
+      "fullLFMName": "Kutani, Ryu"
+    },
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 6
+    },
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ",
+      "name": "ES CON FIELD HOKKAIDO",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ"
+    },
+    "jaText": "（走者・上川畑）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0519/f-e-10/playbyplay.html#com7-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-19:11215151:1:PO:1B:1": {
+    "id": "2026-05-19:11215151:1:PO:1B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "11215151",
+      "jaBoxscoreName": "髙部",
+      "boxscoreName": "Takabe",
+      "batSide": "L",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "髙部　瑛斗",
+      "fullLFMName": "Takabe, Akito"
+    },
+    "batter": {
+      "id": "11715153",
+      "jaBoxscoreName": "小川",
+      "boxscoreName": "Ogawa",
+      "batSide": "L",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "小川　龍成",
+      "fullLFMName": "Ogawa, Ryusei"
+    },
+    "pitcher": {
+      "id": "51255159",
+      "jaBoxscoreName": "武内",
+      "boxscoreName": "Takeuchi",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "武内　夏暉",
+      "fullLFMName": "Takeuchi, Natsuki"
+    },
+    "catcher": {
+      "id": "61265151",
+      "jaBoxscoreName": "柘植",
+      "boxscoreName": "Tsuge",
+      "teamCode": "L",
+      "jaRegisteredName": "柘植　世那",
+      "fullLFMName": "Tsuge, Sena"
+    },
+    "scoring": "PO",
+    "base": "1B",
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Maebashi",
+      "jaBoxscoreName": "前橋",
+      "name": "Gunma Shikishima Baseball Stadium",
+      "jaName": "上毛新聞敷島"
+    },
+    "jaText": "（走者・髙部）一塁牽制アウト",
+    "link": "https://npb.jp/scores/2026/0519/l-m-10/playbyplay.html#com1-1",
+    "countsAsStealAttempt": "N"
+  },
+  "2026-05-19:21125155:2:SB:2B:1": {
+    "id": "2026-05-19:21125155:2:SB:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "21125155",
+      "jaBoxscoreName": "池田",
+      "boxscoreName": "Ikeda",
+      "batSide": "R",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "池田　来翔",
+      "fullLFMName": "Ikeda, Raito"
+    },
+    "batter": {
+      "id": "03505136",
+      "jaBoxscoreName": "ソト",
+      "boxscoreName": "Soto",
+      "batSide": "R",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali"
+    },
+    "pitcher": {
+      "id": "51255159",
+      "jaBoxscoreName": "武内",
+      "boxscoreName": "Takeuchi",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "武内　夏暉",
+      "fullLFMName": "Takeuchi, Natsuki"
+    },
+    "catcher": {
+      "id": "61265151",
+      "jaBoxscoreName": "柘植",
+      "boxscoreName": "Tsuge",
+      "teamCode": "L",
+      "jaRegisteredName": "柘植　世那",
+      "fullLFMName": "Tsuge, Sena"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Maebashi",
+      "jaBoxscoreName": "前橋",
+      "name": "Gunma Shikishima Baseball Stadium",
+      "jaName": "上毛新聞敷島"
+    },
+    "jaText": "（走者・池田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0519/l-m-10/playbyplay.html#com2-1",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-19:81685153:2:SB:2B:1": {
+    "id": "2026-05-19:81685153:2:SB:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "81685153",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "長谷川　信哉",
+      "fullLFMName": "Hasegawa, Shinya"
+    },
+    "batter": {
+      "id": "61265151",
+      "jaBoxscoreName": "柘植",
+      "boxscoreName": "Tsuge",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "柘植　世那",
+      "fullLFMName": "Tsuge, Sena"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "Ａ．ジャクソン",
+      "fullLFMName": "Jackson, Andre"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Maebashi",
+      "jaBoxscoreName": "前橋",
+      "name": "Gunma Shikishima Baseball Stadium",
+      "jaName": "上毛新聞敷島"
+    },
+    "jaText": "（走者・長谷川）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0519/l-m-10/playbyplay.html#com2-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-19:11715153:3:PO:2B:1": {
+    "id": "2026-05-19:11715153:3:PO:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "11715153",
+      "jaBoxscoreName": "小川",
+      "boxscoreName": "Ogawa",
+      "batSide": "L",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "小川　龍成",
+      "fullLFMName": "Ogawa, Ryusei"
+    },
+    "batter": {
+      "id": "91895138",
+      "jaBoxscoreName": "山口",
+      "boxscoreName": "Yamaguchi",
+      "batSide": "R",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "山口　航輝",
+      "fullLFMName": "Yamaguchi, Koki"
+    },
+    "pitcher": {
+      "id": "51255159",
+      "jaBoxscoreName": "武内",
+      "boxscoreName": "Takeuchi",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "武内　夏暉",
+      "fullLFMName": "Takeuchi, Natsuki"
+    },
+    "catcher": {
+      "id": "61265151",
+      "jaBoxscoreName": "柘植",
+      "boxscoreName": "Tsuge",
+      "teamCode": "L",
+      "jaRegisteredName": "柘植　世那",
+      "fullLFMName": "Tsuge, Sena"
+    },
+    "scoring": "PO",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "runs": {
+      "away": 1,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Maebashi",
+      "jaBoxscoreName": "前橋",
+      "name": "Gunma Shikishima Baseball Stadium",
+      "jaName": "上毛新聞敷島"
+    },
+    "jaText": "（走者・小川）二塁牽制アウト",
+    "link": "https://npb.jp/scores/2026/0519/l-m-10/playbyplay.html#com3-1",
+    "countsAsStealAttempt": "N"
+  },
+  "2026-05-19:51255155:3:SB:2B:1": {
+    "id": "2026-05-19:51255155:3:SB:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "51255155",
+      "jaBoxscoreName": "滝澤",
+      "boxscoreName": "Takizawa",
+      "batSide": "L",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "滝澤　夏央",
+      "fullLFMName": "Takizawa, Natsuo"
+    },
+    "batter": {
+      "id": "83385150",
+      "jaBoxscoreName": "渡部",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "渡部　聖弥",
+      "fullLFMName": "Watanabe, Seiya"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "Ａ．ジャクソン",
+      "fullLFMName": "Jackson, Andre"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Maebashi",
+      "jaBoxscoreName": "前橋",
+      "name": "Gunma Shikishima Baseball Stadium",
+      "jaName": "上毛新聞敷島"
+    },
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0519/l-m-10/playbyplay.html#com3-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-05-19:21925136:3:SB:2B:1": {
+    "id": "2026-05-19:21925136:3:SB:2B:1",
+    "date": "2026-05-19",
+    "runner": {
+      "id": "21925136",
+      "jaBoxscoreName": "周東",
+      "boxscoreName": "Shuto",
+      "batSide": "L",
+      "teamCode": "H",
+      "teamName": "Hawks",
+      "jaRegisteredName": "周東　佑京",
+      "fullLFMName": "Shuto, Ukyo"
+    },
+    "batter": {
+      "id": "01205150",
+      "jaBoxscoreName": "庄子",
+      "boxscoreName": "Shoji",
+      "batSide": "L",
+      "teamCode": "H",
+      "teamName": "Hawks",
+      "jaRegisteredName": "庄子　雄大",
+      "fullLFMName": "Shoji, Yudai"
+    },
+    "pitcher": {
+      "id": "71775139",
+      "jaBoxscoreName": "九里",
+      "boxscoreName": "Kuri",
+      "pitchHand": "R",
+      "teamCode": "B",
+      "teamName": "Buffaloes",
+      "jaRegisteredName": "九里　亜蓮",
+      "fullLFMName": "Kuri, Allen"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 2
+    },
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪",
+      "name": "Kyocera Dome Osaka",
+      "jaName": "京セラドーム大阪"
+    },
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0519/b-h-06/playbyplay.html#com3-1",
+    "countsAsStealAttempt": "Y"
+  }
+}

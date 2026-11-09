@@ -1,0 +1,185 @@
+{
+  "2026-10-07:41245153:7:CS:2B:1": {
+    "id": "2026-10-07:41245153:7:CS:2B:1",
+    "date": "2026-10-07",
+    "runner": {
+      "id": "41245153",
+      "jaBoxscoreName": "髙寺",
+      "boxscoreName": "Takatera",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "髙寺　望夢",
+      "fullLFMName": "Takatera, Nozomu"
+    },
+    "batter": {
+      "id": "31535138",
+      "jaBoxscoreName": "小幡",
+      "boxscoreName": "Obata",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "小幡　竜平",
+      "fullLFMName": "Obata, Ryuhei"
+    },
+    "pitcher": {
+      "id": "41245151",
+      "jaBoxscoreName": "玉村",
+      "boxscoreName": "Tamamura",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "玉村　昇悟",
+      "fullLFMName": "Tamamura, Shogo"
+    },
+    "catcher": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "teamCode": "C",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・髙寺）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/1007/t-c-25/playbyplay.html#com7-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-10-07:31735138:8:SB:2B:1": {
+    "id": "2026-10-07:31735138:8:SB:2B:1",
+    "date": "2026-10-07",
+    "runner": {
+      "id": "31735138",
+      "jaBoxscoreName": "木浪",
+      "boxscoreName": "Kinami",
+      "batSide": "L",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "木浪　聖也",
+      "fullLFMName": "Kinami, Seiya"
+    },
+    "batter": {
+      "id": "43145157",
+      "jaBoxscoreName": "森下",
+      "boxscoreName": "Morishita",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "森下　翔太",
+      "fullLFMName": "Morishita, Shota"
+    },
+    "pitcher": {
+      "id": "71375136",
+      "jaBoxscoreName": "遠藤",
+      "boxscoreName": "Endoh",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "遠藤　淳志",
+      "fullLFMName": "Endoh, Atsushi"
+    },
+    "catcher": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・木浪）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/1007/t-c-25/playbyplay.html#com8-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-10-07:01305130:11:SB:2B:1": {
+    "id": "2026-10-07:01305130:11:SB:2B:1",
+    "date": "2026-10-07",
+    "runner": {
+      "id": "01305130",
+      "jaBoxscoreName": "植田",
+      "boxscoreName": "Ueda",
+      "batSide": "S",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "植田　海",
+      "fullLFMName": "Ueda, Kai"
+    },
+    "batter": {
+      "id": "81585136",
+      "jaBoxscoreName": "熊谷",
+      "boxscoreName": "Kumagai",
+      "batSide": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "熊谷　敬宥",
+      "fullLFMName": "Kumagai, Takahiro"
+    },
+    "pitcher": {
+      "id": "43545152",
+      "jaBoxscoreName": "ターノック",
+      "boxscoreName": "Tarnok",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "Ｆ．ターノック",
+      "fullLFMName": "Tarnok, Freddy"
+    },
+    "catcher": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 11,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園",
+      "name": "Hanshin Koshien Stadium",
+      "jaName": "甲子園"
+    },
+    "jaText": "（走者・植田）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/1007/t-c-25/playbyplay.html#com11-2",
+    "countsAsStealAttempt": "Y"
+  }
+}

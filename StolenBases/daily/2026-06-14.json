@@ -1,0 +1,307 @@
+{
+  "2026-06-14:91095151:4:SB:2B:1": {
+    "id": "2026-06-14:91095151:4:SB:2B:1",
+    "date": "2026-06-14",
+    "runner": {
+      "id": "91095151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Sato",
+      "batSide": "R",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "佐藤　直樹",
+      "fullLFMName": "Sato, Naoki"
+    },
+    "batter": {
+      "id": "73175138",
+      "jaBoxscoreName": "渡邊佳",
+      "boxscoreName": "Y.Watanabe",
+      "batSide": "L",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "渡邊　佳明",
+      "fullLFMName": "Watanabe, Yoshiaki"
+    },
+    "pitcher": {
+      "id": "91595150",
+      "jaBoxscoreName": "岡本",
+      "boxscoreName": "Okamoto",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "teamName": "Carp",
+      "jaRegisteredName": "岡本　駿",
+      "fullLFMName": "Okamoto, Shun"
+    },
+    "catcher": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "（走者・佐藤）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0614/e-c-03/playbyplay.html#com4-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-14:23325152:4:SB:3B:1": {
+    "id": "2026-06-14:23325152:4:SB:3B:1",
+    "date": "2026-06-14",
+    "runner": {
+      "id": "23325152",
+      "jaBoxscoreName": "カナリオ",
+      "boxscoreName": "Canario",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "Ａ．カナリオ",
+      "fullLFMName": "Canario, Alexander"
+    },
+    "batter": {
+      "id": "83385150",
+      "jaBoxscoreName": "渡部",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "渡部　聖弥",
+      "fullLFMName": "Watanabe, Seiya"
+    },
+    "pitcher": {
+      "id": "51355151",
+      "jaBoxscoreName": "井上",
+      "boxscoreName": "Inoue",
+      "pitchHand": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "井上　温大",
+      "fullLFMName": "Inoue, Haruto"
+    },
+    "catcher": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida",
+      "teamCode": "G",
+      "jaRegisteredName": "岸田　行倫",
+      "fullLFMName": "Kishida, Yukinori"
+    },
+    "scoring": "SB",
+    "base": "3B",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-2-",
+    "runs": {
+      "away": 0,
+      "home": 0
+    },
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "（走者・カナリオ）三塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0614/l-g-03/playbyplay.html#com4-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-14:81385150:8:PO:1B:1": {
+    "id": "2026-06-14:81385150:8:PO:1B:1",
+    "date": "2026-06-14",
+    "runner": {
+      "id": "81385150",
+      "jaBoxscoreName": "浦田",
+      "boxscoreName": "Urata",
+      "batSide": "L",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "浦田　俊輔",
+      "fullLFMName": "Urata, Shunsuke"
+    },
+    "batter": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本",
+      "boxscoreName": "Matsumoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "teamName": "Giants",
+      "jaRegisteredName": "松本　剛",
+      "fullLFMName": "Matsumoto, Go"
+    },
+    "pitcher": {
+      "id": "61065150",
+      "jaBoxscoreName": "篠原",
+      "boxscoreName": "Shinohara",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "teamName": "Lions",
+      "jaRegisteredName": "篠原　響",
+      "fullLFMName": "Shinohara, Hibiki"
+    },
+    "catcher": {
+      "id": "61265151",
+      "jaBoxscoreName": "柘植",
+      "boxscoreName": "Tsuge",
+      "teamCode": "L",
+      "jaRegisteredName": "柘植　世那",
+      "fullLFMName": "Tsuge, Sena"
+    },
+    "scoring": "PO",
+    "base": "1B",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "away": 0,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム",
+      "name": "Belluna Dome",
+      "jaName": "ベルーナドーム"
+    },
+    "jaText": "（走者・浦田）一塁牽制アウト",
+    "link": "https://npb.jp/scores/2026/0614/l-g-03/playbyplay.html#com8-1",
+    "countsAsStealAttempt": "N"
+  },
+  "2026-06-14:61965157:4:SB:2B:1": {
+    "id": "2026-06-14:61965157:4:SB:2B:1",
+    "date": "2026-06-14",
+    "runner": {
+      "id": "61965157",
+      "jaBoxscoreName": "杉澤",
+      "boxscoreName": "Sugisawa",
+      "batSide": "L",
+      "teamCode": "B",
+      "teamName": "Buffaloes",
+      "jaRegisteredName": "杉澤　龍",
+      "fullLFMName": "Sugisawa, Ryu"
+    },
+    "batter": {
+      "id": "83385159",
+      "jaBoxscoreName": "横山聖",
+      "boxscoreName": "S.Yokoyama",
+      "batSide": "L",
+      "teamCode": "B",
+      "teamName": "Buffaloes",
+      "jaRegisteredName": "横山　聖哉",
+      "fullLFMName": "Yokoyama, Seiya"
+    },
+    "pitcher": {
+      "id": "71275118",
+      "jaBoxscoreName": "西勇",
+      "boxscoreName": "Y.Nishi",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "西　勇輝",
+      "fullLFMName": "Nishi, Yuki"
+    },
+    "catcher": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    },
+    "scoring": "SB",
+    "base": "2B",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "away": 1,
+      "home": 1
+    },
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪",
+      "name": "Kyocera Dome Osaka",
+      "jaName": "京セラドーム大阪"
+    },
+    "jaText": "（走者・杉澤）二塁盗塁成功",
+    "link": "https://npb.jp/scores/2026/0614/b-t-03/playbyplay.html#com4-2",
+    "countsAsStealAttempt": "Y"
+  },
+  "2026-06-14:33335150:8:CS:2B:1": {
+    "id": "2026-06-14:33335150:8:CS:2B:1",
+    "date": "2026-06-14",
+    "runner": {
+      "id": "33335150",
+      "jaBoxscoreName": "山中",
+      "boxscoreName": "Yamanaka",
+      "batSide": "L",
+      "teamCode": "B",
+      "teamName": "Buffaloes",
+      "jaRegisteredName": "山中　稜真",
+      "fullLFMName": "Yamanaka, Ryoma"
+    },
+    "batter": {
+      "id": "11815130",
+      "jaBoxscoreName": "宗",
+      "boxscoreName": "Mune",
+      "batSide": "L",
+      "teamCode": "B",
+      "teamName": "Buffaloes",
+      "jaRegisteredName": "宗　佑磨",
+      "fullLFMName": "Mune, Yuma"
+    },
+    "pitcher": {
+      "id": "41745150",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "jaRegisteredName": "木下　里都",
+      "fullLFMName": "Kinoshita, Rito"
+    },
+    "catcher": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "away": 2,
+      "home": 2
+    },
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪",
+      "name": "Kyocera Dome Osaka",
+      "jaName": "京セラドーム大阪"
+    },
+    "jaText": "（走者・山中）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0614/b-t-03/playbyplay.html#com8-2",
+    "countsAsStealAttempt": "Y"
+  }
+}

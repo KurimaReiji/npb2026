@@ -1,0 +1,87 @@
+[
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "replace",
+    "path": "/2026-09-14:81385150:11:SB:2B:1/catcher",
+    "value": {
+      "id": "91895155",
+      "jaBoxscoreName": "古市",
+      "boxscoreName": "Furuichi",
+      "teamCode": "DB",
+      "jaRegisteredName": "古市　尊",
+      "fullLFMName": "Furuichi, Takeru"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "replace",
+    "desc": "top 11 （走者・浦田）二塁盗塁成功 石田健 ",
+    "path": "/2026-09-14:81385150:11:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "remove",
+    "path": "/2026-09-14:81385150:11:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "replace",
+    "path": "/2026-09-14:81685157:8:SB:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "replace",
+    "desc": "top 8 （走者・福永）二塁盗塁成功 セベリーノ 坂本 けん制飛び出し（福永）",
+    "path": "/2026-09-14:81685157:8:SB:2B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "replace",
+    "path": "/2026-09-14:21025157:9:SB:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "replace",
+    "desc": "top 9 （走者・田中）二塁盗塁成功 ドリス 坂本",
+    "path": "/2026-09-14:21025157:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "replace",
+    "path": "/2026-09-14:61465152:9:SB:2B:1/catcher",
+    "value": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "teamCode": "T",
+      "jaRegisteredName": "坂本　誠志郎",
+      "fullLFMName": "Sakamoto, Seishiro"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-14",
+    "op": "replace",
+    "desc": "top 9 （走者・花田）二塁盗塁成功 ドリス 坂本",
+    "path": "/2026-09-14:61465152:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

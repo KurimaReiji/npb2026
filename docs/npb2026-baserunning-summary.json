@@ -1219,7 +1219,9 @@
         "boxscoreName": "Okugawa",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "奥川　恭伸",
+        "fullLFMName": "Okugawa, Yasunobu"
       },
       "rate": ".333"
     },
@@ -1242,7 +1244,9 @@
         "boxscoreName": "Jackson",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "Ａ．ジャクソン",
+        "fullLFMName": "Jackson, Andre"
       },
       "rate": ".286"
     },
@@ -1265,7 +1269,9 @@
         "boxscoreName": "Takeuchi",
         "pitchHand": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "武内　夏暉",
+        "fullLFMName": "Takeuchi, Natsuki"
       },
       "rate": ".222"
     },
@@ -1288,7 +1294,9 @@
         "boxscoreName": "Morishita",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "森下　暢仁",
+        "fullLFMName": "Morishita, Masato"
       },
       "rate": ".188"
     },
@@ -1311,7 +1319,9 @@
         "boxscoreName": "Sumida",
         "pitchHand": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "隅田　知一郎",
+        "fullLFMName": "Sumida, Chihiro"
       },
       "rate": ".667"
     },
@@ -1334,7 +1344,9 @@
         "boxscoreName": "Kuri",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "九里　亜蓮",
+        "fullLFMName": "Kuri, Allen"
       },
       "rate": ".333"
     },
@@ -1357,7 +1369,9 @@
         "boxscoreName": "Yanagi",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "柳　裕也",
+        "fullLFMName": "Yanagi, Yuya"
       },
       "rate": ".429"
     },
@@ -1380,7 +1394,9 @@
         "boxscoreName": "Saiki",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "才木　浩人",
+        "fullLFMName": "Saiki, Hiroto"
       },
       "rate": ".071"
     },
@@ -1403,7 +1419,9 @@
         "boxscoreName": "Okamoto",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "岡本　駿",
+        "fullLFMName": "Okamoto, Shun"
       },
       "rate": ".231"
     },
@@ -1426,7 +1444,9 @@
         "boxscoreName": "Yamano",
         "pitchHand": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "山野　太一",
+        "fullLFMName": "Yamano, Taichi"
       },
       "rate": ".154"
     },
@@ -1449,7 +1469,9 @@
         "boxscoreName": "Stewart",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "Ｃ．スチュワート・ジュニア",
+        "fullLFMName": "Stewart, Jr., Carter"
       },
       "rate": ".250"
     },
@@ -1472,7 +1494,9 @@
         "boxscoreName": "Arihara",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "有原　航平",
+        "fullLFMName": "Arihara, Kohei"
       },
       "rate": ".167"
     },
@@ -1495,7 +1519,9 @@
         "boxscoreName": "Moriura",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "森浦　大輔",
+        "fullLFMName": "Moriura, Daisuke"
       },
       "rate": ".167"
     },
@@ -1518,7 +1544,9 @@
         "boxscoreName": "K.Maeda",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "前田　健太",
+        "fullLFMName": "Maeda, Kenta"
       },
       "rate": ".083"
     },
@@ -1541,7 +1569,9 @@
         "boxscoreName": "Y.Ishida",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "石田　裕太郎",
+        "fullLFMName": "Ishida, Yutaro"
       },
       "rate": ".455"
     },
@@ -1564,7 +1594,9 @@
         "boxscoreName": "K.Takahashi",
         "pitchHand": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "高橋　奎二",
+        "fullLFMName": "Takahashi, Keiji"
       },
       "rate": ".455"
     },
@@ -1587,7 +1619,9 @@
         "boxscoreName": "Itoh",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "伊藤　大海",
+        "fullLFMName": "Itoh, Hiromi"
       },
       "rate": ".364"
     },
@@ -1610,7 +1644,9 @@
         "boxscoreName": "Hiroike",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "廣池　康志郎",
+        "fullLFMName": "Hiroike, Koshiro"
       },
       "rate": ".273"
     },
@@ -1633,7 +1669,9 @@
         "boxscoreName": "K.Takahashi",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "髙橋　光成",
+        "fullLFMName": "Takahashi, Kona"
       },
       "rate": ".400"
     },
@@ -1656,7 +1694,9 @@
         "boxscoreName": "Mouri",
         "pitchHand": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "毛利　海大",
+        "fullLFMName": "Mouri, Kaito"
       },
       "rate": ".400"
     },
@@ -1679,7 +1719,9 @@
         "boxscoreName": "Hjelle",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "Ｓ．ジェリー",
+        "fullLFMName": "Hjelle, Sean"
       },
       "rate": ".300"
     },
@@ -1702,7 +1744,9 @@
         "boxscoreName": "Ogata",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "尾形　崇斗",
+        "fullLFMName": "Ogata, Shuto"
       },
       "rate": ".100"
     },
@@ -1725,7 +1769,9 @@
         "boxscoreName": "Taira",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "平良　拳太郎",
+        "fullLFMName": "Taira, Kentaro"
       },
       "rate": ".100"
     },
@@ -1748,7 +1794,9 @@
         "boxscoreName": "Espinoza",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "Ａ．エスピノーザ",
+        "fullLFMName": "Espinoza, Anderson"
       },
       "rate": ".444"
     },
@@ -1771,7 +1819,9 @@
         "boxscoreName": "Tatsu",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "達　孝太",
+        "fullLFMName": "Tatsu, Kota"
       },
       "rate": ".444"
     },
@@ -1794,7 +1844,9 @@
         "boxscoreName": "K.Matsumoto",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "松本　健吾",
+        "fullLFMName": "Matsumoto, Kengo"
       },
       "rate": ".444"
     },
@@ -1817,7 +1869,9 @@
         "boxscoreName": "Kaino",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "甲斐野　央",
+        "fullLFMName": "Kaino, Hiroshi"
       },
       "rate": ".333"
     },
@@ -1840,7 +1894,9 @@
         "boxscoreName": "Hosono",
         "pitchHand": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "細野　晴希",
+        "fullLFMName": "Hosono, Haruki"
       },
       "rate": ".333"
     },
@@ -1863,7 +1919,9 @@
         "boxscoreName": "Takemaru",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "竹丸　和幸",
+        "fullLFMName": "Takemaru, Kazuyuki"
       },
       "rate": ".222"
     },
@@ -1886,7 +1944,9 @@
         "boxscoreName": "Kishi",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "岸　孝之",
+        "fullLFMName": "Kishi, Takayuki"
       },
       "rate": ".222"
     },
@@ -1909,7 +1969,9 @@
         "boxscoreName": "Quijada",
         "pitchHand": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "Ｊ．キハダ",
+        "fullLFMName": "Quijada, Jose"
       },
       "rate": ".000"
     },
@@ -1932,7 +1994,9 @@
         "boxscoreName": "Reynolds",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "Ｓ．レイノルズ",
+        "fullLFMName": "Reynolds, Sean"
       },
       "rate": ".000"
     },
@@ -1955,7 +2019,9 @@
         "boxscoreName": "Ohtake",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "大竹　耕太郎",
+        "fullLFMName": "Ohtake, Koutaro"
       },
       "rate": ".500"
     },
@@ -1978,7 +2044,9 @@
         "boxscoreName": "Shoji",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "荘司　康誠",
+        "fullLFMName": "Shoji, Kosei"
       },
       "rate": ".375"
     },
@@ -2001,7 +2069,9 @@
         "boxscoreName": "Takinaka",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "瀧中　瞭太",
+        "fullLFMName": "Takinaka, Ryota"
       },
       "rate": ".375"
     },
@@ -2024,7 +2094,9 @@
         "boxscoreName": "H.Takahashi",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "髙橋　宏斗",
+        "fullLFMName": "Takahashi, Hiroto"
       },
       "rate": ".375"
     },
@@ -2047,7 +2119,9 @@
         "boxscoreName": "Muller",
         "pitchHand": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "Ｋ．マラー",
+        "fullLFMName": "Muller, Kyle"
       },
       "rate": ".250"
     },
@@ -2070,7 +2144,9 @@
         "boxscoreName": "Taira",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "平良　海馬",
+        "fullLFMName": "Taira, Kaima"
       },
       "rate": ".250"
     },
@@ -2093,7 +2169,9 @@
         "boxscoreName": "Uwasawa",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "上沢　直之",
+        "fullLFMName": "Uwasawa, Naoyuki"
       },
       "rate": ".250"
     },
@@ -2116,7 +2194,9 @@
         "boxscoreName": "Shimizu",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "清水　昇",
+        "fullLFMName": "Shimizu, Noboru"
       },
       "rate": ".125"
     },
@@ -2139,7 +2219,9 @@
         "boxscoreName": "Kuribayashi",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "栗林　良吏",
+        "fullLFMName": "Kuribayashi, Ryoji"
       },
       "rate": ".125"
     },
@@ -2162,7 +2244,9 @@
         "boxscoreName": "Koja",
         "pitchHand": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "古謝　樹",
+        "fullLFMName": "Koja, Tatsuki"
       },
       "rate": ".000"
     },
@@ -2185,7 +2269,9 @@
         "boxscoreName": "Long",
         "pitchHand": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "Ｓ．ロング",
+        "fullLFMName": "Long, Sam"
       },
       "rate": ".714"
     },
@@ -2208,7 +2294,9 @@
         "boxscoreName": "Murakami",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "村上　頌樹",
+        "fullLFMName": "Murakami, Shoki"
       },
       "rate": ".571"
     },
@@ -2231,7 +2319,9 @@
         "boxscoreName": "Kitayama",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "北山　亘基",
+        "fullLFMName": "Kitayama, Koki"
       },
       "rate": ".429"
     },
@@ -2254,7 +2344,9 @@
         "boxscoreName": "M.Tanaka",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "田中　将大",
+        "fullLFMName": "Tanaka, Masahiro"
       },
       "rate": ".286"
     },
@@ -2277,7 +2369,9 @@
         "boxscoreName": "Mata",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "Ｂ．マタ",
+        "fullLFMName": "Mata, Bryan"
       },
       "rate": ".143"
     },
@@ -2300,7 +2394,9 @@
         "boxscoreName": "Teranishi",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "寺西　成騎",
+        "fullLFMName": "Teranishi, Naruki"
       },
       "rate": ".143"
     },
@@ -2323,7 +2419,9 @@
         "boxscoreName": "Shimamoto",
         "pitchHand": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "島本　浩也",
+        "fullLFMName": "Shimamoto, Hiroya"
       },
       "rate": ".000"
     },
@@ -2346,7 +2444,9 @@
         "boxscoreName": "Ojima",
         "pitchHand": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "小島　和哉",
+        "fullLFMName": "Ojima, Kazuya"
       },
       "rate": ".667"
     },
@@ -2369,7 +2469,9 @@
         "boxscoreName": "Whitley",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "Ｆ．ウィットリー",
+        "fullLFMName": "Whitley, Forrest"
       },
       "rate": ".500"
     },
@@ -2392,7 +2494,9 @@
         "boxscoreName": "Takahashi",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "髙橋　遥人",
+        "fullLFMName": "Takahashi, Haruto"
       },
       "rate": ".500"
     },
@@ -2415,7 +2519,9 @@
         "boxscoreName": "Ohzeki",
         "pitchHand": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "大関　友久",
+        "fullLFMName": "Ohzeki, Tomohisa"
       },
       "rate": ".500"
     },
@@ -2438,7 +2544,9 @@
         "boxscoreName": "Shinogi",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "篠木　健太郎",
+        "fullLFMName": "Shinogi, Kentaro"
       },
       "rate": ".333"
     },
@@ -2461,7 +2569,9 @@
         "boxscoreName": "Takashima",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "髙島　泰都",
+        "fullLFMName": "Takashima, Taito"
       },
       "rate": ".333"
     },
@@ -2484,7 +2594,9 @@
         "boxscoreName": "Y.Nishi",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "西　勇輝",
+        "fullLFMName": "Nishi, Yuki"
       },
       "rate": ".333"
     },
@@ -2507,7 +2619,9 @@
         "boxscoreName": "Ise",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "伊勢　大夢",
+        "fullLFMName": "Ise, Hiromu"
       },
       "rate": ".167"
     },
@@ -2530,7 +2644,9 @@
         "boxscoreName": "Kanemaru",
         "pitchHand": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "金丸　夢斗",
+        "fullLFMName": "Kanemaru, Yumeto"
       },
       "rate": ".167"
     },
@@ -2553,7 +2669,9 @@
         "boxscoreName": "Fukazawa",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "深沢　鳳介",
+        "fullLFMName": "Fukazawa, Osuke"
       },
       "rate": ".167"
     },
@@ -2576,7 +2694,9 @@
         "boxscoreName": "Kamichatani",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "上茶谷　大河",
+        "fullLFMName": "Kamichatani, Taiga"
       },
       "rate": ".167"
     },
@@ -2599,7 +2719,9 @@
         "boxscoreName": "Mori",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "森　翔平",
+        "fullLFMName": "Mori, Shohei"
       },
       "rate": ".167"
     },
@@ -2622,7 +2744,9 @@
         "boxscoreName": "Tarnok",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "Ｆ．ターノック",
+        "fullLFMName": "Tarnok, Freddy"
       },
       "rate": ".000"
     },
@@ -2645,7 +2769,9 @@
         "boxscoreName": "Katayama",
         "pitchHand": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "片山　皓心",
+        "fullLFMName": "Katayama, Hiromi"
       },
       "rate": ".000"
     },
@@ -2668,7 +2794,9 @@
         "boxscoreName": "JH.Hsu",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "徐　若熙",
+        "fullLFMName": "Hsu, Jo-Hsi"
       },
       "rate": "1.000"
     },
@@ -2691,7 +2819,9 @@
         "boxscoreName": "Takanashi",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "高梨　裕稔",
+        "fullLFMName": "Takanashi, Hirotoshi"
       },
       "rate": ".800"
     },
@@ -2714,7 +2844,9 @@
         "boxscoreName": "Iwazaki",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "岩崎　優",
+        "fullLFMName": "Iwazaki, Suguru"
       },
       "rate": ".800"
     },
@@ -2737,7 +2869,9 @@
         "boxscoreName": "Tamamura",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "玉村　昇悟",
+        "fullLFMName": "Tamamura, Shogo"
       },
       "rate": ".800"
     },
@@ -2760,7 +2894,9 @@
         "boxscoreName": "Inoue",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "井上　温大",
+        "fullLFMName": "Inoue, Haruto"
       },
       "rate": ".800"
     },
@@ -2783,7 +2919,9 @@
         "boxscoreName": "Lucchesi",
         "pitchHand": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "Ｊ．ルケーシー",
+        "fullLFMName": "Lucchesi, Joey"
       },
       "rate": ".800"
     },
@@ -2806,7 +2944,9 @@
         "boxscoreName": "Ohno",
         "pitchHand": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "大野　雄大",
+        "fullLFMName": "Ohno, Yudai"
       },
       "rate": ".400"
     },
@@ -2829,7 +2969,9 @@
         "boxscoreName": "K.Nakagawa",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "中川　虎大",
+        "fullLFMName": "Nakagawa, Koh"
       },
       "rate": ".400"
     },
@@ -2852,7 +2994,9 @@
         "boxscoreName": "Martinez",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "Ｒ．マルティネス",
+        "fullLFMName": "Martinez, Raidel"
       },
       "rate": ".400"
     },
@@ -2875,7 +3019,9 @@
         "boxscoreName": "Marcelino",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "Ｈ．マルセリーノ",
+        "fullLFMName": "Marcelino, Hansel"
       },
       "rate": ".400"
     },
@@ -2898,7 +3044,9 @@
         "boxscoreName": "D.Tajima",
         "pitchHand": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "田嶋　大樹",
+        "fullLFMName": "Tajima, Daiki"
       },
       "rate": ".400"
     },
@@ -2921,7 +3069,9 @@
         "boxscoreName": "K.Azuma",
         "pitchHand": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "東　克樹",
+        "fullLFMName": "Azuma, Katsuki"
       },
       "rate": ".400"
     },
@@ -2944,7 +3094,9 @@
         "boxscoreName": "Hamaya",
         "pitchHand": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "浜屋　将太",
+        "fullLFMName": "Hamaya, Shota"
       },
       "rate": ".400"
     },
@@ -2967,7 +3119,9 @@
         "boxscoreName": "Fukushima",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "福島　蓮",
+        "fullLFMName": "Fukushima, Ren"
       },
       "rate": ".400"
     },
@@ -2990,7 +3144,9 @@
         "boxscoreName": "Sotani",
         "pitchHand": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "曽谷　龍平",
+        "fullLFMName": "Sotani, Ryuhei"
       },
       "rate": ".400"
     },
@@ -3013,7 +3169,9 @@
         "boxscoreName": "Ohtsu",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "大津　亮介",
+        "fullLFMName": "Ohtsu, Ryosuke"
       },
       "rate": ".400"
     },
@@ -3036,7 +3194,9 @@
         "boxscoreName": "Hirosawa",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "廣澤　優",
+        "fullLFMName": "Hirosawa, Yu"
       },
       "rate": ".200"
     },
@@ -3059,7 +3219,9 @@
         "boxscoreName": "Hashimoto",
         "pitchHand": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "橋本　侑樹",
+        "fullLFMName": "Hashimoto, Yuki"
       },
       "rate": ".200"
     },
@@ -3082,7 +3244,9 @@
         "boxscoreName": "Sakamoto",
         "pitchHand": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "坂本　光士郎",
+        "fullLFMName": "Sakamoto, Koshiro"
       },
       "rate": ".200"
     },
@@ -3105,7 +3269,9 @@
         "boxscoreName": "Shimomura",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "下村　海翔",
+        "fullLFMName": "Shimomura, Kaito"
       },
       "rate": ".200"
     },
@@ -3128,7 +3294,9 @@
         "boxscoreName": "Nishino",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "西野　勇士",
+        "fullLFMName": "Nishino, Yuji"
       },
       "rate": ".200"
     },
@@ -3151,7 +3319,9 @@
         "boxscoreName": "Yokoyama",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "横山　陸人",
+        "fullLFMName": "Yokoyama, Rikuto"
       },
       "rate": ".000"
     },
@@ -3174,7 +3344,9 @@
         "boxscoreName": "Hayakawa",
         "pitchHand": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "早川　隆久",
+        "fullLFMName": "Hayakawa, Takahisa"
       },
       "rate": ".000"
     },
@@ -3197,7 +3369,9 @@
         "boxscoreName": "Ruiz",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "Ｊ．ルイーズ",
+        "fullLFMName": "Ruiz, Jose"
       },
       "rate": ".000"
     },
@@ -3220,7 +3394,9 @@
         "boxscoreName": "Matsuyama",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "松山　晋也",
+        "fullLFMName": "Matsuyama, Shinya"
       },
       "rate": ".000"
     },
@@ -3243,7 +3419,9 @@
         "boxscoreName": "Dolis",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "Ｒ．ドリス",
+        "fullLFMName": "Dolis, Rafael"
       },
       "rate": ".000"
     },
@@ -3266,7 +3444,9 @@
         "boxscoreName": "S.Suzuki",
         "pitchHand": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "鈴木　翔天",
+        "fullLFMName": "Suzuki, Sora"
       },
       "rate": ".000"
     },
@@ -3289,7 +3469,9 @@
         "boxscoreName": "Tokoda",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "床田　寛樹",
+        "fullLFMName": "Tokoda, Hiroki"
       },
       "rate": ".750"
     },
@@ -3312,7 +3494,9 @@
         "boxscoreName": "Liranzo",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "Ｊ．リランソ",
+        "fullLFMName": "Liranzo, Jesus"
       },
       "rate": ".500"
     },
@@ -3335,7 +3519,9 @@
         "boxscoreName": "Kajiya",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "加治屋　蓮",
+        "fullLFMName": "Kajiya, Ren"
       },
       "rate": ".500"
     },
@@ -3358,7 +3544,9 @@
         "boxscoreName": "Yamasaki",
         "pitchHand": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "山﨑　福也",
+        "fullLFMName": "Yamasaki, Sachiya"
       },
       "rate": ".500"
     },
@@ -3381,7 +3569,9 @@
         "boxscoreName": "Wakui",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "涌井　秀章",
+        "fullLFMName": "Wakui, Hideaki"
       },
       "rate": ".500"
     },
@@ -3404,7 +3594,9 @@
         "boxscoreName": "T.Katoh",
         "pitchHand": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "加藤　貴之",
+        "fullLFMName": "Katoh, Takayuki"
       },
       "rate": ".500"
     },
@@ -3427,7 +3619,9 @@
         "boxscoreName": "Kinoshita",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "木下　里都",
+        "fullLFMName": "Kinoshita, Rito"
       },
       "rate": ".500"
     },
@@ -3450,7 +3644,9 @@
         "boxscoreName": "Yuasa",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "湯浅　京己",
+        "fullLFMName": "Yuasa, Atsuki"
       },
       "rate": ".500"
     },
@@ -3473,7 +3669,9 @@
         "boxscoreName": "H.Matsumoto",
         "pitchHand": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "松本　晴",
+        "fullLFMName": "Matsumoto, Haru"
       },
       "rate": ".500"
     },
@@ -3496,7 +3694,9 @@
         "boxscoreName": "H.Mori",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "森　博人",
+        "fullLFMName": "Mori, Hiroto"
       },
       "rate": ".500"
     },
@@ -3519,7 +3719,9 @@
         "boxscoreName": "Endoh",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "遠藤　淳志",
+        "fullLFMName": "Endoh, Atsushi"
       },
       "rate": ".500"
     },
@@ -3542,7 +3744,9 @@
         "boxscoreName": "Sakurai",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "櫻井　頼之介",
+        "fullLFMName": "Sakurai, Yorinosuke"
       },
       "rate": ".250"
     },
@@ -3565,7 +3769,9 @@
         "boxscoreName": "So.Satoh",
         "pitchHand": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "佐藤　爽",
+        "fullLFMName": "Satoh, Sou"
       },
       "rate": ".250"
     },
@@ -3588,7 +3794,9 @@
         "boxscoreName": "Takano",
         "pitchHand": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "高野　脩汰",
+        "fullLFMName": "Takano, Shuta"
       },
       "rate": ".250"
     },
@@ -3611,7 +3819,9 @@
         "boxscoreName": "E.Tanaka",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "田中　瑛斗",
+        "fullLFMName": "Tanaka, Eito"
       },
       "rate": ".250"
     },
@@ -3634,7 +3844,9 @@
         "boxscoreName": "Fujihira",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "藤平　尚真",
+        "fullLFMName": "Fujihira, Shoma"
       },
       "rate": ".250"
     },
@@ -3657,7 +3869,9 @@
         "boxscoreName": "Y.Saitoh",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "斉藤　優汰",
+        "fullLFMName": "Saitoh, Yuta"
       },
       "rate": ".250"
     },
@@ -3680,7 +3894,9 @@
         "boxscoreName": "Yanagawa",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "柳川　大晟",
+        "fullLFMName": "Yanagawa, Taisei"
       },
       "rate": ".250"
     },
@@ -3703,7 +3919,9 @@
         "boxscoreName": "Tsuji",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "辻　大雅",
+        "fullLFMName": "Tsuji, Taiga"
       },
       "rate": ".250"
     },
@@ -3726,7 +3944,9 @@
         "boxscoreName": "Abe",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "阿部　翔太",
+        "fullLFMName": "Abe, Shota"
       },
       "rate": ".250"
     },
@@ -3749,7 +3969,9 @@
         "boxscoreName": "H.Tanaka",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "田中　晴也",
+        "fullLFMName": "Tanaka, Haruya"
       },
       "rate": ".250"
     },
@@ -3772,7 +3994,9 @@
         "boxscoreName": "Akagi",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "赤木　晴哉",
+        "fullLFMName": "Akagi, Seiya"
       },
       "rate": ".000"
     },
@@ -3795,7 +4019,9 @@
         "boxscoreName": "Wingenter",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "Ｔ．ウィンゲンター",
+        "fullLFMName": "Wingenter, Trey"
       },
       "rate": ".000"
     },
@@ -3818,7 +4044,9 @@
         "boxscoreName": "Irie",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "入江　大生",
+        "fullLFMName": "Irie, Taisei"
       },
       "rate": ".000"
     },
@@ -3841,7 +4069,9 @@
         "boxscoreName": "Nishigaki",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "西垣　雅矢",
+        "fullLFMName": "Nishigaki, Masaya"
       },
       "rate": ".000"
     },
@@ -3864,7 +4094,9 @@
         "boxscoreName": "Iwata",
         "pitchHand": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "岩田　将貴",
+        "fullLFMName": "Iwata, Masaki"
       },
       "rate": ".000"
     },
@@ -3887,7 +4119,9 @@
         "boxscoreName": "Shibata",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "柴田　大地",
+        "fullLFMName": "Shibata, Daichi"
       },
       "rate": ".000"
     },
@@ -3910,7 +4144,9 @@
         "boxscoreName": "K.Ishida",
         "pitchHand": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "石田　健大",
+        "fullLFMName": "Ishida, Kenta"
       },
       "rate": ".667"
     },
@@ -3933,7 +4169,9 @@
         "boxscoreName": "Mataki",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "又木　鉄平",
+        "fullLFMName": "Mataki, Teppei"
       },
       "rate": ".667"
     },
@@ -3956,7 +4194,9 @@
         "boxscoreName": "Hernandez",
         "pitchHand": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "Ｄ．ヘルナンデス",
+        "fullLFMName": "Hernandez, Darwinzon"
       },
       "rate": ".667"
     },
@@ -3979,7 +4219,9 @@
         "boxscoreName": "S.Maruyama",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "丸山　翔大",
+        "fullLFMName": "Maruyama, Shota"
       },
       "rate": ".667"
     },
@@ -4002,7 +4244,9 @@
         "boxscoreName": "Norimoto",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "則本　昂大",
+        "fullLFMName": "Norimoto, Takahiro"
       },
       "rate": ".667"
     },
@@ -4025,7 +4269,9 @@
         "boxscoreName": "Y.Watanabe",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "渡邉　勇太朗",
+        "fullLFMName": "Watanabe, Yutaro"
       },
       "rate": ".667"
     },
@@ -4048,7 +4294,9 @@
         "boxscoreName": "Y.Takeda",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "竹田　祐",
+        "fullLFMName": "Takeda, Yu"
       },
       "rate": ".333"
     },
@@ -4071,7 +4319,9 @@
         "boxscoreName": "Tsuda",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "津田　淳哉",
+        "fullLFMName": "Tsuda, Junya"
       },
       "rate": ".333"
     },
@@ -4094,7 +4344,9 @@
         "boxscoreName": "Ogawa",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "小川　泰弘",
+        "fullLFMName": "Ogawa, Yasuhiro"
       },
       "rate": ".333"
     },
@@ -4117,7 +4369,9 @@
         "boxscoreName": "Perdomo",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "Ｌ．ペルドモ",
+        "fullLFMName": "Perdomo, Luis"
       },
       "rate": ".333"
     },
@@ -4140,7 +4394,9 @@
         "boxscoreName": "Mameda",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "豆田　泰志",
+        "fullLFMName": "Mameda, Taishi"
       },
       "rate": ".333"
     },
@@ -4163,7 +4419,9 @@
         "boxscoreName": "Howard",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "Ｓ．ハワード",
+        "fullLFMName": "Howard, Spencer"
       },
       "rate": ".333"
     },
@@ -4186,7 +4444,9 @@
         "boxscoreName": "Winans",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "Ａ．ワイナンス",
+        "fullLFMName": "Winans, Allan"
       },
       "rate": ".333"
     },
@@ -4209,7 +4469,9 @@
         "boxscoreName": "Taka",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "髙　太一",
+        "fullLFMName": "Taka, Taichi"
       },
       "rate": ".333"
     },
@@ -4232,7 +4494,9 @@
         "boxscoreName": "Machado",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "Ａ．マチャド",
+        "fullLFMName": "Machado, Andres"
       },
       "rate": ".333"
     },
@@ -4255,7 +4519,9 @@
         "boxscoreName": "Ono",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "小野　郁",
+        "fullLFMName": "Ono, Fumiya"
       },
       "rate": ".333"
     },
@@ -4278,7 +4544,9 @@
         "boxscoreName": "Contreras",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "Ｒ．コントレラス",
+        "fullLFMName": "Contreras, Roansy"
       },
       "rate": ".333"
     },
@@ -4301,7 +4569,9 @@
         "boxscoreName": "Suzuki",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "博志",
+        "fullLFMName": "Suzuki, Hiroshi"
       },
       "rate": ".333"
     },
@@ -4324,7 +4594,9 @@
         "boxscoreName": "M.Itoh",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "伊藤　将司",
+        "fullLFMName": "Itoh, Masashi"
       },
       "rate": ".333"
     },
@@ -4347,7 +4619,9 @@
         "boxscoreName": "Kudo",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "工藤　泰成",
+        "fullLFMName": "Kudo, Taisei"
       },
       "rate": ".333"
     },
@@ -4370,7 +4644,9 @@
         "boxscoreName": "Iwaki",
         "pitchHand": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "岩城　颯空",
+        "fullLFMName": "Iwaki, Hakua"
       },
       "rate": ".333"
     },
@@ -4393,7 +4669,9 @@
         "boxscoreName": "Moreta",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "Ｄ．モレッタ",
+        "fullLFMName": "Moreta, Dauri"
       },
       "rate": ".333"
     },
@@ -4416,7 +4694,9 @@
         "boxscoreName": "Masui",
         "pitchHand": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "増居　翔太",
+        "fullLFMName": "Masui, Shota"
       },
       "rate": ".333"
     },
@@ -4439,7 +4719,9 @@
         "boxscoreName": "Bido",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "Ｏ．ビド",
+        "fullLFMName": "Bido, Osvaldo"
       },
       "rate": ".000"
     },
@@ -4462,7 +4744,9 @@
         "boxscoreName": "Yoshida",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "吉田　輝星",
+        "fullLFMName": "Yoshida, Kosei"
       },
       "rate": ".000"
     },
@@ -4485,7 +4769,9 @@
         "boxscoreName": "Y.Maeda",
         "pitchHand": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "前田　悠伍",
+        "fullLFMName": "Maeda, Yugo"
       },
       "rate": ".000"
     },
@@ -4508,7 +4794,9 @@
         "boxscoreName": "Duplantier",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "Ｊ．デュプランティエ",
+        "fullLFMName": "Duplantier, Jon"
       },
       "rate": ".000"
     },
@@ -4531,7 +4819,9 @@
         "boxscoreName": "Tawa",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "田和　廉",
+        "fullLFMName": "Tawa, Ren"
       },
       "rate": ".000"
     },
@@ -4554,7 +4844,9 @@
         "boxscoreName": "Nakamori",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "中森　俊介",
+        "fullLFMName": "Nakamori, Shunsuke"
       },
       "rate": ".000"
     },
@@ -4577,7 +4869,9 @@
         "boxscoreName": "Yoshino",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "吉野　光樹",
+        "fullLFMName": "Yoshino, Teruki"
       },
       "rate": ".000"
     },
@@ -4600,7 +4894,9 @@
         "boxscoreName": "Fujinami",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "藤浪　晋太郎",
+        "fullLFMName": "Fujinami, Shintaro"
       },
       "rate": ".000"
     },
@@ -4623,7 +4919,9 @@
         "boxscoreName": "Iwasada",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "岩貞　祐太",
+        "fullLFMName": "Iwasada, Yuta"
       },
       "rate": ".000"
     },
@@ -4646,7 +4944,9 @@
         "boxscoreName": "Tai",
         "pitchHand": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "泰　勝利",
+        "fullLFMName": "Tai, Katsutoshi"
       },
       "rate": ".000"
     },
@@ -4669,7 +4969,9 @@
         "boxscoreName": "Suzuki",
         "pitchHand": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "鈴木　昭汰",
+        "fullLFMName": "Suzuki, Shota"
       },
       "rate": ".000"
     },
@@ -4692,7 +4994,9 @@
         "boxscoreName": "Masuda",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "益田　直也",
+        "fullLFMName": "Masuda, Naoya"
       },
       "rate": ".000"
     },
@@ -4715,7 +5019,9 @@
         "boxscoreName": "Nakagawa",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "中川　皓太",
+        "fullLFMName": "Nakagawa, Kota"
       },
       "rate": ".000"
     },
@@ -4738,7 +5044,9 @@
         "boxscoreName": "Yoshida",
         "pitchHand": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "吉田　聖弥",
+        "fullLFMName": "Yoshida, Seiya"
       },
       "rate": ".000"
     },
@@ -4761,7 +5069,9 @@
         "boxscoreName": "Osuna",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "Ｒ．オスナ",
+        "fullLFMName": "Osuna, Roberto"
       },
       "rate": "1.000"
     },
@@ -4784,7 +5094,9 @@
         "boxscoreName": "Fukutani",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "福谷　浩司",
+        "fullLFMName": "Fukutani, Koji"
       },
       "rate": "1.000"
     },
@@ -4807,7 +5119,9 @@
         "boxscoreName": "Tat.Itoh",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "伊藤　樹",
+        "fullLFMName": "Itoh, Tatsuki"
       },
       "rate": "1.000"
     },
@@ -4830,7 +5144,9 @@
         "boxscoreName": "Nishidate",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "西舘　勇陽",
+        "fullLFMName": "Nishidate, Yuhi"
       },
       "rate": "1.000"
     },
@@ -4853,7 +5169,9 @@
         "boxscoreName": "Kimura",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "木村　優人",
+        "fullLFMName": "Kimura, Yuto"
       },
       "rate": "1.000"
     },
@@ -4876,7 +5194,9 @@
         "boxscoreName": "Lucas",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "Ｅ．ルーカス",
+        "fullLFMName": "Lucas, Easton"
       },
       "rate": "1.000"
     },
@@ -4899,7 +5219,9 @@
         "boxscoreName": "Oyokawa",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "及川　雅貴",
+        "fullLFMName": "Oyokawa, Masaki"
       },
       "rate": "1.000"
     },
@@ -4922,7 +5244,9 @@
         "boxscoreName": "H.Nakagawa",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "中川　颯",
+        "fullLFMName": "Nakagawa, Hayate"
       },
       "rate": ".500"
     },
@@ -4945,7 +5269,9 @@
         "boxscoreName": "Horie",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "塹江　敦哉",
+        "fullLFMName": "Horie, Atsuya"
       },
       "rate": ".500"
     },
@@ -4968,7 +5294,9 @@
         "boxscoreName": "Fujishima",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "藤嶋　健人",
+        "fullLFMName": "Fujishima, Kento"
       },
       "rate": ".500"
     },
@@ -4991,7 +5319,9 @@
         "boxscoreName": "Hotta",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "堀田　賢慎",
+        "fullLFMName": "Hotta, Kenshin"
       },
       "rate": ".500"
     },
@@ -5014,7 +5344,9 @@
         "boxscoreName": "Yagi",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "八木　彬",
+        "fullLFMName": "Yagi, Akira"
       },
       "rate": ".500"
     },
@@ -5037,7 +5369,9 @@
         "boxscoreName": "S.Watanabe",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "渡辺　翔太",
+        "fullLFMName": "Watanabe, Shota"
       },
       "rate": ".500"
     },
@@ -5060,7 +5394,9 @@
         "boxscoreName": "Tanaka",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "田中　正義",
+        "fullLFMName": "Tanaka, Seigi"
       },
       "rate": ".500"
     },
@@ -5083,7 +5419,9 @@
         "boxscoreName": "Hashimoto",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "橋本　達弥",
+        "fullLFMName": "Hashimoto, Tatsuya"
       },
       "rate": ".500"
     },
@@ -5106,7 +5444,9 @@
         "boxscoreName": "Yamazaki",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "山﨑　颯一郎",
+        "fullLFMName": "Yamazaki, Soichiro"
       },
       "rate": ".500"
     },
@@ -5129,7 +5469,9 @@
         "boxscoreName": "Baba",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "馬場　皐輔",
+        "fullLFMName": "Baba, Kosuke"
       },
       "rate": ".500"
     },
@@ -5152,7 +5494,9 @@
         "boxscoreName": "Kotajima",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "古田島　成龍",
+        "fullLFMName": "Kotajima, Seiryu"
       },
       "rate": ".500"
     },
@@ -5175,7 +5519,9 @@
         "boxscoreName": "Sh.Sato",
         "pitchHand": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "佐藤　隼輔",
+        "fullLFMName": "Sato, Shunsuke"
       },
       "rate": ".500"
     },
@@ -5198,7 +5544,9 @@
         "boxscoreName": "Morita",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "森田　駿哉",
+        "fullLFMName": "Morita, Shunya"
       },
       "rate": ".500"
     },
@@ -5221,7 +5569,9 @@
         "boxscoreName": "Hada",
         "pitchHand": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "羽田　慎之介",
+        "fullLFMName": "Hada, Shinnosuke"
       },
       "rate": ".500"
     },
@@ -5244,7 +5594,9 @@
         "boxscoreName": "Suzuki",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "鈴木　健矢",
+        "fullLFMName": "Suzuki, Kenya"
       },
       "rate": ".500"
     },
@@ -5267,7 +5619,9 @@
         "boxscoreName": "Shu.Ishikawa",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "石川　柊太",
+        "fullLFMName": "Ishikawa, Shuta"
       },
       "rate": ".500"
     },
@@ -5290,7 +5644,9 @@
         "boxscoreName": "G.Ishigaki",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "石垣　元気",
+        "fullLFMName": "Ishigaki, Genki"
       },
       "rate": ".500"
     },
@@ -5313,7 +5669,9 @@
         "boxscoreName": "Moinelo",
         "pitchHand": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "Ｌ．モイネロ",
+        "fullLFMName": "Moinelo, Livan"
       },
       "rate": ".500"
     },
@@ -5336,7 +5694,9 @@
         "boxscoreName": "Kutani",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "九谷　瑠",
+        "fullLFMName": "Kutani, Ryu"
       },
       "rate": ".500"
     },
@@ -5359,7 +5719,9 @@
         "boxscoreName": "J.Maeda",
         "pitchHand": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "前田　純",
+        "fullLFMName": "Maeda, Jun"
       },
       "rate": ".500"
     },
@@ -5382,7 +5744,9 @@
         "boxscoreName": "CH.Sung",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "宋　家豪",
+        "fullLFMName": "Sung, Chia-Hao"
       },
       "rate": ".500"
     },
@@ -5405,7 +5769,9 @@
         "boxscoreName": "Abreu",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "Ａ．アブレウ",
+        "fullLFMName": "Abreu, Albert"
       },
       "rate": ".500"
     },
@@ -5428,7 +5794,9 @@
         "boxscoreName": "Fujiwara",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "藤原　聡大",
+        "fullLFMName": "Fujiwara, Sota"
       },
       "rate": ".500"
     },
@@ -5451,7 +5819,9 @@
         "boxscoreName": "Yoshikawa",
         "pitchHand": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "吉川　悠斗",
+        "fullLFMName": "Yoshikawa, Yuto"
       },
       "rate": ".500"
     },
@@ -5474,7 +5844,9 @@
         "boxscoreName": "YL.Sun",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "孫　易磊",
+        "fullLFMName": "Sun, Yi-Lei"
       },
       "rate": ".500"
     },
@@ -5497,7 +5869,9 @@
         "boxscoreName": "Shoji",
         "pitchHand": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "荘司　宏太",
+        "fullLFMName": "Shoji, Kota"
       },
       "rate": ".500"
     },
@@ -5520,7 +5894,9 @@
         "boxscoreName": "Itoh",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "伊藤　優輔",
+        "fullLFMName": "Itoh, Yusuke"
       },
       "rate": ".500"
     },
@@ -5543,7 +5919,9 @@
         "boxscoreName": "Mejia",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "Ｈ．メヒア",
+        "fullLFMName": "Mejia, Humberto"
       },
       "rate": ".500"
     },
@@ -5566,7 +5944,9 @@
         "boxscoreName": "Nakazaki",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "中﨑　翔太",
+        "fullLFMName": "Nakazaki, Shota"
       },
       "rate": ".000"
     },
@@ -5589,7 +5969,9 @@
         "boxscoreName": "Iriyama",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "入山　海斗",
+        "fullLFMName": "Iriyama, Kaito"
       },
       "rate": ".000"
     },
@@ -5612,7 +5994,9 @@
         "boxscoreName": "Funabasama",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "船迫　大雅",
+        "fullLFMName": "Funabasama, Hiromasa"
       },
       "rate": ".000"
     },
@@ -5635,7 +6019,9 @@
         "boxscoreName": "Makino",
         "pitchHand": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "牧野　憲伸",
+        "fullLFMName": "Makino, Kenshin"
       },
       "rate": ".000"
     },
@@ -5658,7 +6044,9 @@
         "boxscoreName": "Togo",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "戸郷　翔征",
+        "fullLFMName": "Togo, Shosei"
       },
       "rate": ".000"
     },
@@ -5681,7 +6069,9 @@
         "boxscoreName": "Akahoshi",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "赤星　優志",
+        "fullLFMName": "Akahoshi, Yuji"
       },
       "rate": ".000"
     },
@@ -5704,7 +6094,9 @@
         "boxscoreName": "Hori",
         "pitchHand": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "堀　瑞輝",
+        "fullLFMName": "Hori, Mizuki"
       },
       "rate": ".000"
     },
@@ -5727,7 +6119,9 @@
         "boxscoreName": "Miyagi",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "宮城　滝太",
+        "fullLFMName": "Miyagi, Daita"
       },
       "rate": ".000"
     },
@@ -5750,7 +6144,9 @@
         "boxscoreName": "Severino",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "Ａ．セベリーノ",
+        "fullLFMName": "Severino, Anderson"
       },
       "rate": ".000"
     },
@@ -5773,7 +6169,9 @@
         "boxscoreName": "Yoshimura",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "吉村　貢司郎",
+        "fullLFMName": "Yoshimura, Kojiro"
       },
       "rate": ".000"
     },
@@ -5796,7 +6194,9 @@
         "boxscoreName": "Tomiyama",
         "pitchHand": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "富山　凌雅",
+        "fullLFMName": "Tomiyama, Ryoga"
       },
       "rate": ".000"
     },
@@ -5819,7 +6219,9 @@
         "boxscoreName": "Sugiura",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "杉浦　稔大",
+        "fullLFMName": "Sugiura, Toshihiro"
       },
       "rate": ".000"
     },
@@ -5842,7 +6244,9 @@
         "boxscoreName": "Kawamura",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "河村　説人",
+        "fullLFMName": "Kawamura, Tokito"
       },
       "rate": ".000"
     },
@@ -5865,7 +6269,9 @@
         "boxscoreName": "Walters",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "Ｎ．ウォルターズ",
+        "fullLFMName": "Walters, Nash"
       },
       "rate": ".000"
     },
@@ -5888,7 +6294,9 @@
         "boxscoreName": "Ogasawara",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "小笠原　慎之介",
+        "fullLFMName": "Ogasawara, Shinnosuke"
       },
       "rate": ".000"
     },
@@ -5911,7 +6319,9 @@
         "boxscoreName": "Ramirez",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "Ｅ．ラミレス",
+        "fullLFMName": "Ramirez, Emmanuel"
       },
       "rate": ".000"
     },
@@ -5934,7 +6344,9 @@
         "boxscoreName": "Ota",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "大勢",
+        "fullLFMName": "Ota, Taisei"
       },
       "rate": ".000"
     },
@@ -5957,7 +6369,9 @@
         "boxscoreName": "Ibaragi",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "茨木　秀俊",
+        "fullLFMName": "Ibaragi, Hidetoshi"
       },
       "rate": ".000"
     },
@@ -5980,7 +6394,9 @@
         "boxscoreName": "Ueda",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "上田　大河",
+        "fullLFMName": "Ueda, Taiga"
       },
       "rate": ".000"
     },
@@ -6003,7 +6419,9 @@
         "boxscoreName": "Yut.Nakamura",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "中村　優斗",
+        "fullLFMName": "Nakamura, Yuto"
       },
       "rate": ".000"
     },
@@ -6026,7 +6444,9 @@
         "boxscoreName": "Kirishiki",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "桐敷　拓馬",
+        "fullLFMName": "Kirishiki, Takuma"
       },
       "rate": ".000"
     },
@@ -6049,7 +6469,9 @@
         "boxscoreName": "Fujiwara",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "藤原　大翔",
+        "fullLFMName": "Fujiwara, Haruto"
       },
       "rate": ".000"
     },
@@ -6072,7 +6494,9 @@
         "boxscoreName": "Izumi",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "泉　圭輔",
+        "fullLFMName": "Izumi, Keisuke"
       },
       "rate": ".000"
     },
@@ -6095,7 +6519,9 @@
         "boxscoreName": "Kondo",
         "pitchHand": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "近藤　廉",
+        "fullLFMName": "Kondo, Ren"
       },
       "rate": "1.000"
     },
@@ -6118,7 +6544,9 @@
         "boxscoreName": "Kizawa",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "木澤　尚文",
+        "fullLFMName": "Kizawa, Naofumi"
       },
       "rate": "1.000"
     },
@@ -6141,7 +6569,9 @@
         "boxscoreName": "Saito",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "齋藤　友貴哉",
+        "fullLFMName": "Saito, Yukiya"
       },
       "rate": "1.000"
     },
@@ -6164,7 +6594,9 @@
         "boxscoreName": "Saiki",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "才木　海翔",
+        "fullLFMName": "Saiki, Kaito"
       },
       "rate": "1.000"
     },
@@ -6187,7 +6619,9 @@
         "boxscoreName": "Ishii",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "石井　大智",
+        "fullLFMName": "Ishii, Daichi"
       },
       "rate": "1.000"
     },
@@ -6210,7 +6644,9 @@
         "boxscoreName": "Miyanishi",
         "pitchHand": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "宮西　尚生",
+        "fullLFMName": "Miyanishi, Naoki"
       },
       "rate": "1.000"
     },
@@ -6233,7 +6669,9 @@
         "boxscoreName": "Yamasaki",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "山﨑　康晃",
+        "fullLFMName": "Yamasaki, Yasuaki"
       },
       "rate": "1.000"
     },
@@ -6256,7 +6694,9 @@
         "boxscoreName": "Yamashiro",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "山城　京平",
+        "fullLFMName": "Yamashiro, Kyohei"
       },
       "rate": "1.000"
     },
@@ -6279,7 +6719,9 @@
         "boxscoreName": "Umeno",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "梅野　雄吾",
+        "fullLFMName": "Umeno, Yugo"
       },
       "rate": "1.000"
     },
@@ -6302,7 +6744,9 @@
         "boxscoreName": "Kanemura",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "金村　尚真",
+        "fullLFMName": "Kanemura, Shoma"
       },
       "rate": "1.000"
     },
@@ -6325,7 +6769,9 @@
         "boxscoreName": "Miyauchi",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "宮内　春輝",
+        "fullLFMName": "Miyauchi, Haruki"
       },
       "rate": "1.000"
     },
@@ -6348,7 +6794,9 @@
         "boxscoreName": "Yamada",
         "pitchHand": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "山田　修義",
+        "fullLFMName": "Yamada, Nobuyoshi"
       },
       "rate": "1.000"
     },
@@ -6371,7 +6819,9 @@
         "boxscoreName": "Kuroyanagi",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "畔柳　亨丞",
+        "fullLFMName": "Kuroyanagi, Kyosuke"
       },
       "rate": "1.000"
     },
@@ -6394,7 +6844,9 @@
         "boxscoreName": "Y.Nakamura",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "中村　祐太",
+        "fullLFMName": "Nakamura, Yuta"
       },
       "rate": "1.000"
     },
@@ -6417,7 +6869,9 @@
         "boxscoreName": "Ihara",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "伊原　陵人",
+        "fullLFMName": "Ihara, Takato"
       },
       "rate": "1.000"
     },
@@ -6440,7 +6894,9 @@
         "boxscoreName": "Miyagi",
         "pitchHand": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "宮城　大弥",
+        "fullLFMName": "Miyagi, Hiroya"
       },
       "rate": "1.000"
     },
@@ -6463,7 +6919,9 @@
         "boxscoreName": "Urena",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "Ｊ．ウレーニャ",
+        "fullLFMName": "Urena, Jose"
       },
       "rate": "1.000"
     },
@@ -6486,7 +6944,9 @@
         "boxscoreName": "Shimokawa",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "下川　隼佑",
+        "fullLFMName": "Shimokawa, Shunsuke"
       },
       "rate": "1.000"
     },
@@ -6509,7 +6969,9 @@
         "boxscoreName": "Shoji",
         "pitchHand": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "庄司　陽斗",
+        "fullLFMName": "Shoji, Haruto"
       },
       "rate": "1.000"
     },
@@ -6532,7 +6994,9 @@
         "boxscoreName": "Sugiyama",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "杉山　一樹",
+        "fullLFMName": "Sugiyama, Kazuki"
       },
       "rate": "1.000"
     },
@@ -6555,7 +7019,9 @@
         "boxscoreName": "Takahashi",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "髙橋　快秀",
+        "fullLFMName": "Takahashi, Kaishu"
       },
       "rate": ".000"
     },
@@ -6578,7 +7044,9 @@
         "boxscoreName": "Tsurusaki",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "津留﨑　大成",
+        "fullLFMName": "Tsurusaki, Taisei"
       },
       "rate": ".000"
     },
@@ -6601,7 +7069,9 @@
         "boxscoreName": "Ehara",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "江原　雅裕",
+        "fullLFMName": "Ehara, Masahiro"
       },
       "rate": ".000"
     },
@@ -6624,7 +7094,9 @@
         "boxscoreName": "Okadome",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "岡留　英貴",
+        "fullLFMName": "Okadome, Hidetaka"
       },
       "rate": ".000"
     },
@@ -6647,7 +7119,9 @@
         "boxscoreName": "Hasegawa",
         "pitchHand": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "長谷川　宙輝",
+        "fullLFMName": "Hasegawa, Hiroki"
       },
       "rate": ".000"
     },
@@ -6670,7 +7144,9 @@
         "boxscoreName": "Marte",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "Ｙ．マルテ",
+        "fullLFMName": "Marte, Yunior"
       },
       "rate": ".000"
     },
@@ -6693,7 +7169,9 @@
         "boxscoreName": "Miyahara",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "宮原　駿介",
+        "fullLFMName": "Miyahara, Shunsuke"
       },
       "rate": ".000"
     },
@@ -6716,7 +7194,9 @@
         "boxscoreName": "G.Suzuki",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "鈴木　豪太",
+        "fullLFMName": "Suzuki, Gota"
       },
       "rate": ".000"
     },
@@ -6739,7 +7219,9 @@
         "boxscoreName": "Matsuba",
         "pitchHand": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "松葉　貴大",
+        "fullLFMName": "Matsuba, Takahiro"
       },
       "rate": ".000"
     },
@@ -6762,7 +7244,9 @@
         "boxscoreName": "Kuroda",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "黒田　将矢",
+        "fullLFMName": "Kuroda, Masaya"
       },
       "rate": ".000"
     },
@@ -6785,7 +7269,9 @@
         "boxscoreName": "Shiiba",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "椎葉　剛",
+        "fullLFMName": "Shiiba, Tsuyoshi"
       },
       "rate": ".000"
     },
@@ -6808,7 +7294,9 @@
         "boxscoreName": "Ryo.Matsumoto",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "松本　凌人",
+        "fullLFMName": "Matsumoto, Ryoto"
       },
       "rate": ".000"
     },
@@ -6831,7 +7319,9 @@
         "boxscoreName": "Aduwa",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "アドゥワ　誠",
+        "fullLFMName": "Aduwa, Makoto"
       },
       "rate": ".000"
     },
@@ -6854,7 +7344,9 @@
         "boxscoreName": "Tsunehiro",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "常廣　羽也斗",
+        "fullLFMName": "Tsunehiro, Hayato"
       },
       "rate": ".000"
     },
@@ -6877,7 +7369,9 @@
         "boxscoreName": "Koga",
         "pitchHand": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "古賀　康誠",
+        "fullLFMName": "Koga, Kosei"
       },
       "rate": ".000"
     },
@@ -6900,7 +7394,9 @@
         "boxscoreName": "Shimauchi",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "島内　颯太郎",
+        "fullLFMName": "Shimauchi, Sotaro"
       },
       "rate": ".000"
     },
@@ -6923,7 +7419,9 @@
         "boxscoreName": "Mukunoki",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "椋木　蓮",
+        "fullLFMName": "Mukunoki, Ren"
       },
       "rate": ".000"
     },
@@ -6946,7 +7444,9 @@
         "boxscoreName": "Ishihara",
         "pitchHand": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "石原　勇輝",
+        "fullLFMName": "Ishihara, Yuki"
       },
       "rate": ".000"
     },
@@ -6969,7 +7469,9 @@
         "boxscoreName": "Nakachi",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "仲地　礼亜",
+        "fullLFMName": "Nakachi, Reia"
       },
       "rate": ".000"
     },
@@ -6992,7 +7494,9 @@
         "boxscoreName": "Uehara",
         "pitchHand": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "上原　健太",
+        "fullLFMName": "Uehara, Kenta"
       },
       "rate": ".000"
     },
@@ -7015,7 +7519,9 @@
         "boxscoreName": "Ohnishi",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "大西　広樹",
+        "fullLFMName": "Ohnishi, Hiroki"
       },
       "rate": ".000"
     },
@@ -7038,7 +7544,9 @@
         "boxscoreName": "Ohmichi",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "大道　温貴",
+        "fullLFMName": "Ohmichi, Haruki"
       },
       "rate": ".000"
     },
@@ -7061,7 +7569,9 @@
         "boxscoreName": "H.Kimura",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "木村　光",
+        "fullLFMName": "Kimura, Hikaru"
       },
       "rate": ".000"
     },
@@ -7084,7 +7594,9 @@
         "boxscoreName": "Kurohara",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "黒原　拓未",
+        "fullLFMName": "Kurohara, Takumi"
       },
       "rate": ".000"
     },
@@ -7107,7 +7619,9 @@
         "boxscoreName": "MH.Chen",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "陳　睦衡",
+        "fullLFMName": "Chen, Mu-Heng"
       },
       "rate": ".000"
     },
@@ -7130,7 +7644,9 @@
         "boxscoreName": "Iwai",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "岩井　俊介",
+        "fullLFMName": "Iwai, Shunsuke"
       },
       "rate": ".000"
     },
@@ -7153,7 +7669,9 @@
         "boxscoreName": "Nakanishi",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "中西　聖輝",
+        "fullLFMName": "Nakanishi, Masaki"
       },
       "rate": ".000"
     },
@@ -7176,7 +7694,9 @@
         "boxscoreName": "T.Saito",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "齊藤　汰直",
+        "fullLFMName": "Saito, Taichi"
       },
       "rate": ".000"
     },
@@ -7199,7 +7719,9 @@
         "boxscoreName": "Mombetsu",
         "pitchHand": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "門別　啓人",
+        "fullLFMName": "Mombetsu, Keito"
       },
       "rate": ".000"
     },
@@ -7222,7 +7744,9 @@
         "boxscoreName": "Hayakawa",
         "pitchHand": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "早川　太貴",
+        "fullLFMName": "Hayakawa, Daiki"
       },
       "rate": ".000"
     },
@@ -7245,7 +7769,9 @@
         "boxscoreName": "Shinohara",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "篠原　響",
+        "fullLFMName": "Shinohara, Hibiki"
       },
       "rate": ".000"
     },
@@ -7268,7 +7794,9 @@
         "boxscoreName": "Ishikawa",
         "pitchHand": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "石川　達也",
+        "fullLFMName": "Ishikawa, Tatsuya"
       },
       "rate": ".000"
     },
@@ -7291,7 +7819,9 @@
         "boxscoreName": "Itoh",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "伊藤　茉央",
+        "fullLFMName": "Itoh, Mao"
       },
       "rate": ".000"
     },
@@ -7314,7 +7844,9 @@
         "boxscoreName": "Ohsera",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "大瀬良　大地",
+        "fullLFMName": "Ohsera, Daichi"
       },
       "rate": ".000"
     },
@@ -7337,7 +7869,9 @@
         "boxscoreName": "Ohkawa",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "大川　慈英",
+        "fullLFMName": "Ohkawa, Jay"
       },
       "rate": ".000"
     },
@@ -7360,7 +7894,9 @@
         "boxscoreName": "Gonda",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "権田　琉成",
+        "fullLFMName": "Gonda, Ryusei"
       },
       "rate": ".000"
     },
@@ -7383,7 +7919,9 @@
         "boxscoreName": "Kobayashi",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "小林　樹斗",
+        "fullLFMName": "Kobayashi, Tatsuto"
       },
       "rate": ".000"
     },
@@ -7406,7 +7944,9 @@
         "boxscoreName": "Miyaguni",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "宮國　凌空",
+        "fullLFMName": "Miyaguni, Riku"
       },
       "rate": ".000"
     },
@@ -7429,7 +7969,9 @@
         "boxscoreName": "Wakamatsu",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "若松　尚輝",
+        "fullLFMName": "Wakamatsu, Naoki"
       },
       "rate": ".000"
     },
@@ -7452,7 +7994,9 @@
         "boxscoreName": "Sugai",
         "pitchHand": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "菅井　信也",
+        "fullLFMName": "Sugai, Shinya"
       },
       "rate": ".000"
     },
@@ -7475,7 +8019,9 @@
         "boxscoreName": "Yasaki",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "拓也",
+        "fullLFMName": "Yasaki, Takuya"
       },
       "rate": ".000"
     },
@@ -7498,7 +8044,9 @@
         "boxscoreName": "Horioka",
         "pitchHand": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "堀岡　隼人",
+        "fullLFMName": "Horioka, Hayato"
       },
       "rate": ".000"
     },
@@ -7521,7 +8069,9 @@
         "boxscoreName": "Fujii",
         "pitchHand": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "藤井　聖",
+        "fullLFMName": "Fujii, Masaru"
       },
       "rate": ".000"
     },
@@ -7544,7 +8094,9 @@
         "boxscoreName": "Matsumoto",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "松本　竜也",
+        "fullLFMName": "Matsumoto, Ryuya"
       },
       "rate": ".000"
     },
@@ -7567,7 +8119,9 @@
         "boxscoreName": "Hearn",
         "pitchHand": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "Ｔ．ハーン",
+        "fullLFMName": "Hearn, Taylor"
       },
       "rate": ".000"
     },
@@ -7590,7 +8144,9 @@
         "boxscoreName": "Shibata",
         "pitchHand": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "柴田　獅子",
+        "fullLFMName": "Shibata, Reo"
       },
       "rate": ".000"
     },
@@ -7613,7 +8169,9 @@
         "boxscoreName": "Neo",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "根尾　昂",
+        "fullLFMName": "Neo, Akira"
       },
       "rate": ".000"
     },
@@ -7636,7 +8194,9 @@
         "boxscoreName": "Tsumori",
         "pitchHand": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "津森　宥紀",
+        "fullLFMName": "Tsumori, Yuki"
       },
       "rate": ".000"
     },
@@ -7659,7 +8219,9 @@
         "boxscoreName": "Matsumoto",
         "pitchHand": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "松本　航",
+        "fullLFMName": "Matsumoto, Wataru"
       },
       "rate": ".000"
     },
@@ -7682,7 +8244,9 @@
         "boxscoreName": "Shinozaki",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "篠﨑　国忠",
+        "fullLFMName": "Shinozaki, Kunitada"
       },
       "rate": ".000"
     },
@@ -7705,7 +8269,9 @@
         "boxscoreName": "Yamaoka",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "山岡　泰輔",
+        "fullLFMName": "Yamaoka, Taisuke"
       },
       "rate": ".000"
     },
@@ -7728,7 +8294,9 @@
         "boxscoreName": "Yamaguchi",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "山口　廉王",
+        "fullLFMName": "Yamaguchi, Reo"
       },
       "rate": ".000"
     },
@@ -7751,7 +8319,9 @@
         "boxscoreName": "C.Tanaka",
         "pitchHand": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "田中　千晴",
+        "fullLFMName": "Tanaka, Chiharu"
       },
       "rate": ".000"
     },
@@ -7774,7 +8344,9 @@
         "boxscoreName": "H.Kikuchi",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "菊地　ハルン",
+        "fullLFMName": "Kikuchi, Harun"
       },
       "rate": ".000"
     },
@@ -7797,7 +8369,9 @@
         "boxscoreName": "Kusaka",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "草加　勝",
+        "fullLFMName": "Kusaka, Sho"
       },
       "rate": ".000"
     },
@@ -7820,7 +8394,9 @@
         "boxscoreName": "Masuda",
         "pitchHand": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "益田　武尚",
+        "fullLFMName": "Masuda, Takehisa"
       },
       "rate": ".000"
     },
@@ -7843,7 +8419,9 @@
         "boxscoreName": "Kozawa",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "小澤　怜史",
+        "fullLFMName": "Kozawa, Reiji"
       },
       "rate": ".000"
     },
@@ -7866,7 +8444,9 @@
         "boxscoreName": "Shimizu",
         "pitchHand": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "清水　達也",
+        "fullLFMName": "Shimizu, Tatsuya"
       },
       "rate": ".000"
     },
@@ -7889,7 +8469,9 @@
         "boxscoreName": "Sawada",
         "pitchHand": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "澤田　圭佑",
+        "fullLFMName": "Sawada, Keisuke"
       },
       "rate": ".000"
     },
@@ -7912,7 +8494,9 @@
         "boxscoreName": "Iida",
         "pitchHand": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "飯田　琉斗",
+        "fullLFMName": "Iida, Ryuto"
       },
       "rate": ".000"
     },
@@ -7935,7 +8519,9 @@
         "boxscoreName": "Luciano",
         "pitchHand": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "Ｅ．ルシアーノ",
+        "fullLFMName": "Luciano, Elvis"
       },
       "rate": ".000"
     },
@@ -7958,7 +8544,9 @@
         "boxscoreName": "Katayama",
         "pitchHand": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "片山　楽生",
+        "fullLFMName": "Katayama, Raiku"
       },
       "rate": ".000"
     }
@@ -7983,7 +8571,9 @@
         "boxscoreName": "Urata",
         "batSide": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "浦田　俊輔",
+        "fullLFMName": "Urata, Shunsuke"
       },
       "rate": ".750"
     },
@@ -8006,7 +8596,9 @@
         "boxscoreName": "Iwata",
         "batSide": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "岩田　幸宏",
+        "fullLFMName": "Iwata, Yukihiro"
       },
       "rate": ".830"
     },
@@ -8029,7 +8621,9 @@
         "boxscoreName": "Shuto",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "周東　佑京",
+        "fullLFMName": "Shuto, Ukyo"
       },
       "rate": ".857"
     },
@@ -8052,7 +8646,9 @@
         "boxscoreName": "Tatsumi",
         "batSide": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "辰見　鴻之介",
+        "fullLFMName": "Tatsumi, Konosuke"
       },
       "rate": ".800"
     },
@@ -8075,7 +8671,9 @@
         "boxscoreName": "Shoji",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "庄子　雄大",
+        "fullLFMName": "Shoji, Yudai"
       },
       "rate": ".846"
     },
@@ -8098,7 +8696,9 @@
         "boxscoreName": "Matsumoto",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "松本　剛",
+        "fullLFMName": "Matsumoto, Go"
       },
       "rate": ".654"
     },
@@ -8121,7 +8721,9 @@
         "boxscoreName": "Takizawa",
         "batSide": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "滝澤　夏央",
+        "fullLFMName": "Takizawa, Natsuo"
       },
       "rate": ".591"
     },
@@ -8144,7 +8746,9 @@
         "boxscoreName": "H.Watanabe",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "渡部　遼人",
+        "fullLFMName": "Watanabe, Haruto"
       },
       "rate": ".900"
     },
@@ -8167,7 +8771,9 @@
         "boxscoreName": "Mimori",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "三森　大貴",
+        "fullLFMName": "Mimori, Masaki"
       },
       "rate": ".800"
     },
@@ -8190,7 +8796,9 @@
         "boxscoreName": "Mizuno",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "水野　達稀",
+        "fullLFMName": "Mizuno, Tatsuki"
       },
       "rate": ".800"
     },
@@ -8213,7 +8821,9 @@
         "boxscoreName": "Canario",
         "batSide": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "Ａ．カナリオ",
+        "fullLFMName": "Canario, Alexander"
       },
       "rate": ".650"
     },
@@ -8236,7 +8846,9 @@
         "boxscoreName": "Ohmori",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "大盛　穂",
+        "fullLFMName": "Ohmori, Minoru"
       },
       "rate": ".600"
     },
@@ -8259,7 +8871,9 @@
         "boxscoreName": "Fukunaga",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "福永　裕基",
+        "fullLFMName": "Fukunaga, Hiroki"
       },
       "rate": ".789"
     },
@@ -8282,7 +8896,9 @@
         "boxscoreName": "Isobata",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "五十幡　亮汰",
+        "fullLFMName": "Isobata, Ryota"
       },
       "rate": ".722"
     },
@@ -8305,7 +8921,9 @@
         "boxscoreName": "Chikamoto",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "近本　光司",
+        "fullLFMName": "Chikamoto, Koji"
       },
       "rate": ".667"
     },
@@ -8328,7 +8946,9 @@
         "boxscoreName": "Tatsumi",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "辰己　涼介",
+        "fullLFMName": "Tatsumi, Ryosuke"
       },
       "rate": ".444"
     },
@@ -8351,7 +8971,9 @@
         "boxscoreName": "Sasaki",
         "batSide": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "佐々木　俊輔",
+        "fullLFMName": "Sasaki, Shunsuke"
       },
       "rate": ".529"
     },
@@ -8374,7 +8996,9 @@
         "boxscoreName": "Fujiwara",
         "batSide": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "藤原　恭大",
+        "fullLFMName": "Fujiwara, Kyota"
       },
       "rate": ".750"
     },
@@ -8397,7 +9021,9 @@
         "boxscoreName": "Namiki",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "並木　秀尊",
+        "fullLFMName": "Namiki, Hidetaka"
       },
       "rate": ".867"
     },
@@ -8420,7 +9046,9 @@
         "boxscoreName": "Takatera",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "髙寺　望夢",
+        "fullLFMName": "Takatera, Nozomu"
       },
       "rate": ".800"
     },
@@ -8443,7 +9071,9 @@
         "boxscoreName": "Taira",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "平良　竜哉",
+        "fullLFMName": "Taira, Ryuya"
       },
       "rate": ".800"
     },
@@ -8466,7 +9096,9 @@
         "boxscoreName": "T.Makihara",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "牧原　大成",
+        "fullLFMName": "Makihara, Taisei"
       },
       "rate": ".733"
     },
@@ -8489,7 +9121,9 @@
         "boxscoreName": "Nakashima",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "中島　大輔",
+        "fullLFMName": "Nakashima, Daisuke"
       },
       "rate": ".786"
     },
@@ -8512,7 +9146,9 @@
         "boxscoreName": "Ogawa",
         "batSide": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "小川　龍成",
+        "fullLFMName": "Ogawa, Ryusei"
       },
       "rate": ".571"
     },
@@ -8535,7 +9171,9 @@
         "boxscoreName": "Nakano",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "中野　拓夢",
+        "fullLFMName": "Nakano, Takumu"
       },
       "rate": ".692"
     },
@@ -8558,7 +9196,9 @@
         "boxscoreName": "Mune",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "宗　佑磨",
+        "fullLFMName": "Mune, Yuma"
       },
       "rate": ".462"
     },
@@ -8581,7 +9221,9 @@
         "boxscoreName": "Kobukata",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "小深田　大翔",
+        "fullLFMName": "Kobukata, Hiroto"
       },
       "rate": ".750"
     },
@@ -8604,7 +9246,9 @@
         "boxscoreName": "Ogoh",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "小郷　裕哉",
+        "fullLFMName": "Ogoh, Yuya"
       },
       "rate": ".667"
     },
@@ -8627,7 +9271,9 @@
         "boxscoreName": "Yazawa",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "矢澤　宏太",
+        "fullLFMName": "Yazawa, Kota"
       },
       "rate": ".500"
     },
@@ -8650,7 +9296,9 @@
         "boxscoreName": "Watarai",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "度会　隆輝",
+        "fullLFMName": "Watarai, Ryuki"
       },
       "rate": ".500"
     },
@@ -8673,7 +9321,9 @@
         "boxscoreName": "Tanaka",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "田中　幹也",
+        "fullLFMName": "Tanaka, Mikiya"
       },
       "rate": ".818"
     },
@@ -8696,7 +9346,9 @@
         "boxscoreName": "Izuguchi",
         "batSide": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "泉口　友汰",
+        "fullLFMName": "Izuguchi, Yuta"
       },
       "rate": ".818"
     },
@@ -8719,7 +9371,9 @@
         "boxscoreName": "Sato",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "佐藤　輝明",
+        "fullLFMName": "Sato, Teruaki"
       },
       "rate": ".727"
     },
@@ -8742,7 +9396,9 @@
         "boxscoreName": "Nabara",
         "batSide": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "名原　典彦",
+        "fullLFMName": "Nabara, Norihiko"
       },
       "rate": ".545"
     },
@@ -8765,7 +9421,9 @@
         "boxscoreName": "Nagaoka",
         "batSide": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "長岡　秀樹",
+        "fullLFMName": "Nagaoka, Hideki"
       },
       "rate": ".455"
     },
@@ -8788,7 +9446,9 @@
         "boxscoreName": "Akahane",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "赤羽　由紘",
+        "fullLFMName": "Akahane, Yoshihiro"
       },
       "rate": ".900"
     },
@@ -8811,7 +9471,9 @@
         "boxscoreName": "Murabayashi",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "村林　一輝",
+        "fullLFMName": "Murabayashi, Itsuki"
       },
       "rate": ".800"
     },
@@ -8834,7 +9496,9 @@
         "boxscoreName": "Hosokawa",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "細川　凌平",
+        "fullLFMName": "Hosokawa, Ryohei"
       },
       "rate": ".800"
     },
@@ -8857,7 +9521,9 @@
         "boxscoreName": "Fukushima",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "福島　圭音",
+        "fullLFMName": "Fukushima, Kein"
       },
       "rate": ".700"
     },
@@ -8880,7 +9546,9 @@
         "boxscoreName": "Ebina",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "蝦名　達夫",
+        "fullLFMName": "Ebina, Tatsuo"
       },
       "rate": ".600"
     },
@@ -8903,7 +9571,9 @@
         "boxscoreName": "Muneyama",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "宗山　塁",
+        "fullLFMName": "Muneyama, Rui"
       },
       "rate": ".500"
     },
@@ -8926,7 +9596,9 @@
         "boxscoreName": "Muramatsu",
         "batSide": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "村松　開人",
+        "fullLFMName": "Muramatsu, Kaito"
       },
       "rate": ".444"
     },
@@ -8949,7 +9621,9 @@
         "boxscoreName": "Hasegawa",
         "batSide": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "長谷川　信哉",
+        "fullLFMName": "Hasegawa, Shinya"
       },
       "rate": ".875"
     },
@@ -8972,7 +9646,9 @@
         "boxscoreName": "Kumagai",
         "batSide": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "熊谷　敬宥",
+        "fullLFMName": "Kumagai, Takahiro"
       },
       "rate": ".750"
     },
@@ -8995,7 +9671,9 @@
         "boxscoreName": "Katsuda",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "勝田　成",
+        "fullLFMName": "Katsuda, Naru"
       },
       "rate": ".625"
     },
@@ -9018,7 +9696,9 @@
         "boxscoreName": "Cabbage",
         "batSide": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "Ｔ．キャベッジ",
+        "fullLFMName": "Cabbage, Trey"
       },
       "rate": ".500"
     },
@@ -9041,7 +9721,9 @@
         "boxscoreName": "Ueda",
         "batSide": "S",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "植田　海",
+        "fullLFMName": "Ueda, Kai"
       },
       "rate": "1.000"
     },
@@ -9064,7 +9746,9 @@
         "boxscoreName": "Narama",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "奈良間　大己",
+        "fullLFMName": "Narama, Taiki"
       },
       "rate": "1.000"
     },
@@ -9087,7 +9771,9 @@
         "boxscoreName": "Higuma",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "モンテル",
+        "fullLFMName": "Higuma, Montell"
       },
       "rate": "1.000"
     },
@@ -9110,7 +9796,9 @@
         "boxscoreName": "Kondoh",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "近藤　健介",
+        "fullLFMName": "Kondoh, Kensuke"
       },
       "rate": ".857"
     },
@@ -9133,7 +9821,9 @@
         "boxscoreName": "K.Maruyama",
         "batSide": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "丸山　和郁",
+        "fullLFMName": "Maruyama, Kazuya"
       },
       "rate": ".857"
     },
@@ -9156,7 +9846,9 @@
         "boxscoreName": "Nishikawa",
         "batSide": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "西川　愛也",
+        "fullLFMName": "Nishikawa, Manaya"
       },
       "rate": ".714"
     },
@@ -9179,7 +9871,9 @@
         "boxscoreName": "Hayashi",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "林　琢真",
+        "fullLFMName": "Hayashi, Takuma"
       },
       "rate": "1.000"
     },
@@ -9202,7 +9896,9 @@
         "boxscoreName": "Higuchi",
         "batSide": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "樋口　正修",
+        "fullLFMName": "Higuchi, Seishu"
       },
       "rate": "1.000"
     },
@@ -9225,7 +9921,9 @@
         "boxscoreName": "Yoshikawa",
         "batSide": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "吉川　尚輝",
+        "fullLFMName": "Yoshikawa, Naoki"
       },
       "rate": "1.000"
     },
@@ -9248,7 +9946,9 @@
         "boxscoreName": "Takamatsu",
         "batSide": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "髙松　渡",
+        "fullLFMName": "Takamatsu, Wataru"
       },
       "rate": ".833"
     },
@@ -9271,7 +9971,9 @@
         "boxscoreName": "Kozono",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "小園　海斗",
+        "fullLFMName": "Kozono, Kaito"
       },
       "rate": ".667"
     },
@@ -9294,7 +9996,9 @@
         "boxscoreName": "Tamiya",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "田宮　裕涼",
+        "fullLFMName": "Tamiya, Yua"
       },
       "rate": ".667"
     },
@@ -9317,7 +10021,9 @@
         "boxscoreName": "Kita",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "来田　涼斗",
+        "fullLFMName": "Kita, Ryoto"
       },
       "rate": ".667"
     },
@@ -9340,7 +10046,9 @@
         "boxscoreName": "Nakagawa",
         "batSide": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "中川　圭太",
+        "fullLFMName": "Nakagawa, Keita"
       },
       "rate": ".500"
     },
@@ -9363,7 +10071,9 @@
         "boxscoreName": "R.Kikuchi",
         "batSide": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "菊池　涼介",
+        "fullLFMName": "Kikuchi, Ryosuke"
       },
       "rate": ".500"
     },
@@ -9386,7 +10096,9 @@
         "boxscoreName": "Sakakura",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "坂倉　将吾",
+        "fullLFMName": "Sakakura, Shogo"
       },
       "rate": ".500"
     },
@@ -9409,7 +10121,9 @@
         "boxscoreName": "Sasaki",
         "batSide": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "佐々木　泰",
+        "fullLFMName": "Sasaki, Tai"
       },
       "rate": ".500"
     },
@@ -9432,7 +10146,9 @@
         "boxscoreName": "Tomosugi",
         "batSide": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "友杉　篤輝",
+        "fullLFMName": "Tomosugi, Atsuki"
       },
       "rate": ".500"
     },
@@ -9455,7 +10171,9 @@
         "boxscoreName": "Hirayama",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "平山　功太",
+        "fullLFMName": "Hirayama, Kota"
       },
       "rate": "1.000"
     },
@@ -9478,7 +10196,9 @@
         "boxscoreName": "Castro",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "Ｒ．カストロ",
+        "fullLFMName": "Castro, Rodolfo"
       },
       "rate": ".800"
     },
@@ -9501,7 +10221,9 @@
         "boxscoreName": "Masuda",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "増田　珠",
+        "fullLFMName": "Masuda, Shu"
       },
       "rate": ".800"
     },
@@ -9524,7 +10246,9 @@
         "boxscoreName": "Wada",
         "batSide": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "和田　康士朗",
+        "fullLFMName": "Wada, Koshiro"
       },
       "rate": ".800"
     },
@@ -9547,7 +10271,9 @@
         "boxscoreName": "Oda",
         "batSide": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "尾田　剛樹",
+        "fullLFMName": "Oda, Gouki"
       },
       "rate": ".800"
     },
@@ -9570,7 +10296,9 @@
         "boxscoreName": "Nomura",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "野村　佑希",
+        "fullLFMName": "Nomura, Yuki"
       },
       "rate": ".800"
     },
@@ -9593,7 +10321,9 @@
         "boxscoreName": "Katsumata",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "勝又　温史",
+        "fullLFMName": "Katsumata, Atsushi"
       },
       "rate": ".600"
     },
@@ -9616,7 +10346,9 @@
         "boxscoreName": "Sato",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "佐藤　直樹",
+        "fullLFMName": "Sato, Naoki"
       },
       "rate": "1.000"
     },
@@ -9639,7 +10371,9 @@
         "boxscoreName": "Noma",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "野間　峻祥",
+        "fullLFMName": "Noma, Takayoshi"
       },
       "rate": "1.000"
     },
@@ -9662,7 +10396,9 @@
         "boxscoreName": "Ikeda",
         "batSide": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "池田　来翔",
+        "fullLFMName": "Ikeda, Raito"
       },
       "rate": "1.000"
     },
@@ -9685,7 +10421,9 @@
         "boxscoreName": "Takabe",
         "batSide": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "髙部　瑛斗",
+        "fullLFMName": "Takabe, Akito"
       },
       "rate": ".750"
     },
@@ -9708,7 +10446,9 @@
         "boxscoreName": "Kadowaki",
         "batSide": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "門脇　誠",
+        "fullLFMName": "Kadowaki, Makoto"
       },
       "rate": ".750"
     },
@@ -9731,7 +10471,9 @@
         "boxscoreName": "Uchiyama",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "内山　壮真",
+        "fullLFMName": "Uchiyama, Souma"
       },
       "rate": ".750"
     },
@@ -9754,7 +10496,9 @@
         "boxscoreName": "Nakayama",
         "batSide": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "中山　礼都",
+        "fullLFMName": "Nakayama, Raito"
       },
       "rate": ".750"
     },
@@ -9777,7 +10521,9 @@
         "boxscoreName": "Hosokawa",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "細川　成也",
+        "fullLFMName": "Hosokawa, Seiya"
       },
       "rate": ".750"
     },
@@ -9800,7 +10546,9 @@
         "boxscoreName": "Yamasaki",
         "batSide": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "山﨑　剛",
+        "fullLFMName": "Yamasaki, Tsuyoshi"
       },
       "rate": ".750"
     },
@@ -9823,7 +10571,9 @@
         "boxscoreName": "Maki",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "牧　秀悟",
+        "fullLFMName": "Maki, Shugo"
       },
       "rate": ".500"
     },
@@ -9846,7 +10596,9 @@
         "boxscoreName": "Nishikawa",
         "batSide": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "西川　史礁",
+        "fullLFMName": "Nishikawa, Misho"
       },
       "rate": ".500"
     },
@@ -9869,7 +10621,9 @@
         "boxscoreName": "Kinami",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "木浪　聖也",
+        "fullLFMName": "Kinami, Seiya"
       },
       "rate": ".500"
     },
@@ -9892,7 +10646,9 @@
         "boxscoreName": "Itoh",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "伊藤　琉偉",
+        "fullLFMName": "Itoh, Ryui"
       },
       "rate": ".500"
     },
@@ -9915,7 +10671,9 @@
         "boxscoreName": "Gibo",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "宜保　翔",
+        "fullLFMName": "Gibo, Sho"
       },
       "rate": ".500"
     },
@@ -9938,7 +10696,9 @@
         "boxscoreName": "Yamanaka",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "山中　稜真",
+        "fullLFMName": "Yamanaka, Ryoma"
       },
       "rate": ".500"
     },
@@ -9961,7 +10721,9 @@
         "boxscoreName": "Mizutani",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "水谷　瞬",
+        "fullLFMName": "Mizutani, Shun"
       },
       "rate": ".500"
     },
@@ -9984,7 +10746,9 @@
         "boxscoreName": "Kawamura",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "川村　友斗",
+        "fullLFMName": "Kawamura, Yuto"
       },
       "rate": ".500"
     },
@@ -10007,7 +10771,9 @@
         "boxscoreName": "Nishikawa",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "西川　龍馬",
+        "fullLFMName": "Nishikawa, Ryoma"
       },
       "rate": ".250"
     },
@@ -10030,7 +10796,9 @@
         "boxscoreName": "Morishita",
         "batSide": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "森下　翔太",
+        "fullLFMName": "Morishita, Shota"
       },
       "rate": "1.000"
     },
@@ -10053,7 +10821,9 @@
         "boxscoreName": "Miyashita",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "宮下　朝陽",
+        "fullLFMName": "Miyashita, Asahi"
       },
       "rate": "1.000"
     },
@@ -10076,7 +10846,9 @@
         "boxscoreName": "Kishi",
         "batSide": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "岸　潤一郎",
+        "fullLFMName": "Kishi, Junichiro"
       },
       "rate": "1.000"
     },
@@ -10099,7 +10871,9 @@
         "boxscoreName": "Takeda",
         "batSide": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "愛斗",
+        "fullLFMName": "Takeda, Aito"
       },
       "rate": "1.000"
     },
@@ -10122,7 +10896,9 @@
         "boxscoreName": "Nomura",
         "batSide": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "野村　勇",
+        "fullLFMName": "Nomura, Isami"
       },
       "rate": "1.000"
     },
@@ -10145,7 +10921,9 @@
         "boxscoreName": "S.Watanabe",
         "batSide": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "渡部　聖弥",
+        "fullLFMName": "Watanabe, Seiya"
       },
       "rate": "1.000"
     },
@@ -10168,7 +10946,9 @@
         "boxscoreName": "Motoyama",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "元山　飛優",
+        "fullLFMName": "Motoyama, Hiyu"
       },
       "rate": "1.000"
     },
@@ -10191,7 +10971,9 @@
         "boxscoreName": "Okabayashi",
         "batSide": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "岡林　勇希",
+        "fullLFMName": "Okabayashi, Yuki"
       },
       "rate": ".667"
     },
@@ -10214,7 +10996,9 @@
         "boxscoreName": "Sakamoto",
         "batSide": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "坂本　誠志郎",
+        "fullLFMName": "Sakamoto, Seishiro"
       },
       "rate": ".667"
     },
@@ -10237,7 +11021,9 @@
         "boxscoreName": "Kurokawa",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "黒川　史陽",
+        "fullLFMName": "Kurokawa, Fumiya"
       },
       "rate": ".667"
     },
@@ -10260,7 +11046,9 @@
         "boxscoreName": "Kiyomiya",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "清宮　幸太郎",
+        "fullLFMName": "Kiyomiya, Kotaro"
       },
       "rate": ".667"
     },
@@ -10283,7 +11071,9 @@
         "boxscoreName": "Mugitani",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "麦谷　祐介",
+        "fullLFMName": "Mugitani, Yusuke"
       },
       "rate": ".667"
     },
@@ -10306,7 +11096,9 @@
         "boxscoreName": "Y.Koga",
         "batSide": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto"
       },
       "rate": ".667"
     },
@@ -10329,7 +11121,9 @@
         "boxscoreName": "Yano",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "矢野　雅哉",
+        "fullLFMName": "Yano, Masaya"
       },
       "rate": ".667"
     },
@@ -10352,7 +11146,9 @@
         "boxscoreName": "Noguchi",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "野口　智哉",
+        "fullLFMName": "Noguchi, Tomoya"
       },
       "rate": ".667"
     },
@@ -10375,7 +11171,9 @@
         "boxscoreName": "D.Masuda",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "増田　大輝",
+        "fullLFMName": "Masuda, Daiki"
       },
       "rate": ".667"
     },
@@ -10398,7 +11196,9 @@
         "boxscoreName": "Arizono",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "有薗　直輝",
+        "fullLFMName": "Arizono, Naoki"
       },
       "rate": ".667"
     },
@@ -10421,7 +11221,9 @@
         "boxscoreName": "Tak.Ishikawa",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "石川　昂弥",
+        "fullLFMName": "Ishikawa, Takaya"
       },
       "rate": ".333"
     },
@@ -10444,7 +11246,9 @@
         "boxscoreName": "Y.Suzuki",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "鈴木　大和",
+        "fullLFMName": "Suzuki, Yamato"
       },
       "rate": ".333"
     },
@@ -10467,7 +11271,9 @@
         "boxscoreName": "Kuwahara",
         "batSide": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "桑原　将志",
+        "fullLFMName": "Kuwahara, Masayuki"
       },
       "rate": "1.000"
     },
@@ -10490,7 +11296,9 @@
         "boxscoreName": "Nishikawa",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "西川　遥輝",
+        "fullLFMName": "Nishikawa, Haruki"
       },
       "rate": "1.000"
     },
@@ -10513,7 +11321,9 @@
         "boxscoreName": "Kajiwara",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "梶原　昂希",
+        "fullLFMName": "Kajiwara, Kouki"
       },
       "rate": "1.000"
     },
@@ -10536,7 +11346,9 @@
         "boxscoreName": "Oka",
         "batSide": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "岡　大海",
+        "fullLFMName": "Oka, Hiromi"
       },
       "rate": "1.000"
     },
@@ -10559,7 +11371,9 @@
         "boxscoreName": "Umeno",
         "batSide": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "梅野　隆太郎",
+        "fullLFMName": "Umeno, Ryutaro"
       },
       "rate": "1.000"
     },
@@ -10582,7 +11396,9 @@
         "boxscoreName": "Mutoh",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "武藤　敦貴",
+        "fullLFMName": "Mutoh, Atsuki"
       },
       "rate": "1.000"
     },
@@ -10605,7 +11421,9 @@
         "boxscoreName": "Koga",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "古賀　優大",
+        "fullLFMName": "Koga, Yudai"
       },
       "rate": "1.000"
     },
@@ -10628,7 +11446,9 @@
         "boxscoreName": "K.Suzuki",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "鈴木　叶",
+        "fullLFMName": "Suzuki, Kyo"
       },
       "rate": "1.000"
     },
@@ -10651,7 +11471,9 @@
         "boxscoreName": "Uebayashi",
         "batSide": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "上林　誠知",
+        "fullLFMName": "Uebayashi, Seiji"
       },
       "rate": "1.000"
     },
@@ -10674,7 +11496,9 @@
         "boxscoreName": "Yamagata",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "山縣　秀",
+        "fullLFMName": "Yamagata, Shu"
       },
       "rate": "1.000"
     },
@@ -10697,7 +11521,9 @@
         "boxscoreName": "Hanada",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "花田　旭",
+        "fullLFMName": "Hanada, Asahi"
       },
       "rate": ".500"
     },
@@ -10720,7 +11546,9 @@
         "boxscoreName": "Hirasawa",
         "batSide": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "平沢　大河",
+        "fullLFMName": "Hirasawa, Taiga"
       },
       "rate": ".500"
     },
@@ -10743,7 +11571,9 @@
         "boxscoreName": "Tonosaki",
         "batSide": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "外崎　修汰",
+        "fullLFMName": "Tonosaki, Shuta"
       },
       "rate": ".500"
     },
@@ -10766,7 +11596,9 @@
         "boxscoreName": "Obata",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "小幡　竜平",
+        "fullLFMName": "Obata, Ryuhei"
       },
       "rate": ".500"
     },
@@ -10789,7 +11621,9 @@
         "boxscoreName": "Kamizato",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "神里　和毅",
+        "fullLFMName": "Kamizato, Kazuki"
       },
       "rate": ".500"
     },
@@ -10812,7 +11646,9 @@
         "boxscoreName": "Ukai",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "鵜飼　航丞",
+        "fullLFMName": "Ukai, Kosuke"
       },
       "rate": ".500"
     },
@@ -10835,7 +11671,9 @@
         "boxscoreName": "Takeoka",
         "batSide": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "武岡　龍世",
+        "fullLFMName": "Takeoka, Ryusei"
       },
       "rate": ".500"
     },
@@ -10858,7 +11696,9 @@
         "boxscoreName": "Matsuo",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "松尾　汐恩",
+        "fullLFMName": "Matsuo, Shion"
       },
       "rate": ".500"
     },
@@ -10881,7 +11721,9 @@
         "boxscoreName": "Ishikami",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "石上　泰輝",
+        "fullLFMName": "Ishikami, Taiki"
       },
       "rate": ".500"
     },
@@ -10904,7 +11746,9 @@
         "boxscoreName": "Itayama",
         "batSide": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "板山　祐太郎",
+        "fullLFMName": "Itayama, Yutaro"
       },
       "rate": ".500"
     },
@@ -10927,7 +11771,9 @@
         "boxscoreName": "Maru",
         "batSide": "L",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "丸　佳浩",
+        "fullLFMName": "Maru, Yoshihiro"
       },
       "rate": ".500"
     },
@@ -10950,7 +11796,9 @@
         "boxscoreName": "Sasahara",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "笹原　操希",
+        "fullLFMName": "Sasahara, Misaki"
       },
       "rate": ".500"
     },
@@ -10973,7 +11821,9 @@
         "boxscoreName": "Genda",
         "batSide": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "源田　壮亮",
+        "fullLFMName": "Genda, Sosuke"
       },
       "rate": ".500"
     },
@@ -10996,7 +11846,9 @@
         "boxscoreName": "Tobashira",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "戸柱　恭孝",
+        "fullLFMName": "Tobashira, Yasutaka"
       },
       "rate": ".500"
     },
@@ -11019,7 +11871,9 @@
         "boxscoreName": "Tanigawara",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "谷川原　健太",
+        "fullLFMName": "Tanigawara, Kenta"
       },
       "rate": ".500"
     },
@@ -11042,7 +11896,9 @@
         "boxscoreName": "Ohta",
         "batSide": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "太田　椋",
+        "fullLFMName": "Ohta, Ryo"
       },
       "rate": ".000"
     },
@@ -11065,7 +11921,9 @@
         "boxscoreName": "Osuna",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "Ｊ．オスナ",
+        "fullLFMName": "Osuna, Jose"
       },
       "rate": ".000"
     },
@@ -11088,7 +11946,9 @@
         "boxscoreName": "T.Mori",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "森　友哉",
+        "fullLFMName": "Mori, Tomoya"
       },
       "rate": ".000"
     },
@@ -11111,7 +11971,9 @@
         "boxscoreName": "Ishii",
         "batSide": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "石井　一成",
+        "fullLFMName": "Ishii, Kazunari"
       },
       "rate": ".000"
     },
@@ -11134,7 +11996,9 @@
         "boxscoreName": "Nevin",
         "batSide": "R",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "Ｔ．ネビン",
+        "fullLFMName": "Nevin, Tyler"
       },
       "rate": ".000"
     },
@@ -11157,7 +12021,9 @@
         "boxscoreName": "Nishimura",
         "batSide": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "西村　瑠伊斗",
+        "fullLFMName": "Nishimura, Ruito"
       },
       "rate": ".000"
     },
@@ -11180,7 +12046,9 @@
         "boxscoreName": "Katoh",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "加藤　匠馬",
+        "fullLFMName": "Katoh, Takuma"
       },
       "rate": "1.000"
     },
@@ -11203,7 +12071,9 @@
         "boxscoreName": "Kyoda",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "京田　陽太",
+        "fullLFMName": "Kyoda, Yota"
       },
       "rate": "1.000"
     },
@@ -11226,7 +12096,9 @@
         "boxscoreName": "Ohshima",
         "batSide": "L",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "大島　洋平",
+        "fullLFMName": "Ohshima, Yohei"
       },
       "rate": "1.000"
     },
@@ -11249,7 +12121,9 @@
         "boxscoreName": "Hagio",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "萩尾　匡也",
+        "fullLFMName": "Hagio, Masaya"
       },
       "rate": "1.000"
     },
@@ -11272,7 +12146,9 @@
         "boxscoreName": "Asamura",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "浅村　栄斗",
+        "fullLFMName": "Asamura, Hideto"
       },
       "rate": "1.000"
     },
@@ -11295,7 +12171,9 @@
         "boxscoreName": "Satoh",
         "batSide": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "佐藤　都志也",
+        "fullLFMName": "Satoh, Toshiya"
       },
       "rate": "1.000"
     },
@@ -11318,7 +12196,9 @@
         "boxscoreName": "R.Masuda",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "増田　陸",
+        "fullLFMName": "Masuda, Riku"
       },
       "rate": "1.000"
     },
@@ -11341,7 +12221,9 @@
         "boxscoreName": "Asama",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "淺間　大基",
+        "fullLFMName": "Asama, Daiki"
       },
       "rate": "1.000"
     },
@@ -11364,7 +12246,9 @@
         "boxscoreName": "Calixte",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "Ｏ．カリステ",
+        "fullLFMName": "Calixte, Orlando"
       },
       "rate": "1.000"
     },
@@ -11387,7 +12271,9 @@
         "boxscoreName": "Tateishi",
         "batSide": "R",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "立石　正広",
+        "fullLFMName": "Tateishi, Masahiro"
       },
       "rate": "1.000"
     },
@@ -11410,7 +12296,9 @@
         "boxscoreName": "Sugisawa",
         "batSide": "L",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "杉澤　龍",
+        "fullLFMName": "Sugisawa, Ryu"
       },
       "rate": "1.000"
     },
@@ -11433,7 +12321,9 @@
         "boxscoreName": "Shiomi",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "塩見　泰隆",
+        "fullLFMName": "Shiomi, Yasutaka"
       },
       "rate": "1.000"
     },
@@ -11456,7 +12346,9 @@
         "boxscoreName": "Ishii",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "石井　巧",
+        "fullLFMName": "Ishii, Takumi"
       },
       "rate": "1.000"
     },
@@ -11479,7 +12371,9 @@
         "boxscoreName": "Kubo",
         "batSide": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "久保　修",
+        "fullLFMName": "Kubo, Shu"
       },
       "rate": "1.000"
     },
@@ -11502,7 +12396,9 @@
         "boxscoreName": "Kurebayashi",
         "batSide": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "紅林　弘太郎",
+        "fullLFMName": "Kurebayashi, Kotaro"
       },
       "rate": "1.000"
     },
@@ -11525,7 +12421,9 @@
         "boxscoreName": "Yoshida",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "吉田　賢吾",
+        "fullLFMName": "Yoshida, Kengo"
       },
       "rate": "1.000"
     },
@@ -11548,7 +12446,9 @@
         "boxscoreName": "Downs",
         "batSide": "R",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "Ｊ．ダウンズ",
+        "fullLFMName": "Downs, Jeter"
       },
       "rate": "1.000"
     },
@@ -11571,7 +12471,9 @@
         "boxscoreName": "Encarnacion",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "Ｊ．エンカーナシオン",
+        "fullLFMName": "Encarnacion, Jerar"
       },
       "rate": "1.000"
     },
@@ -11594,7 +12496,9 @@
         "boxscoreName": "Miyamoto",
         "batSide": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "宮本　丈",
+        "fullLFMName": "Miyamoto, Takeshi"
       },
       "rate": "1.000"
     },
@@ -11617,7 +12521,9 @@
         "boxscoreName": "Komori",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "小森　航大郎",
+        "fullLFMName": "Komori, Kohtaro"
       },
       "rate": "1.000"
     },
@@ -11640,7 +12546,9 @@
         "boxscoreName": "Imagawa",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "今川　優馬",
+        "fullLFMName": "Imagawa, Yuma"
       },
       "rate": "1.000"
     },
@@ -11663,7 +12571,9 @@
         "boxscoreName": "Ogata",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "緒方　理貢",
+        "fullLFMName": "Ogata, Riku"
       },
       "rate": "1.000"
     },
@@ -11686,7 +12596,9 @@
         "boxscoreName": "K.Sato",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "佐藤　啓介",
+        "fullLFMName": "Sato, Keisuke"
       },
       "rate": "1.000"
     },
@@ -11709,7 +12621,9 @@
         "boxscoreName": "Matsushita",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "松下　歩叶",
+        "fullLFMName": "Matsushita, Ayuto"
       },
       "rate": "1.000"
     },
@@ -11732,7 +12646,9 @@
         "boxscoreName": "Tanaka",
         "batSide": "L",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "田中　陽翔",
+        "fullLFMName": "Tanaka, Haruto"
       },
       "rate": "1.000"
     },
@@ -11755,7 +12671,9 @@
         "boxscoreName": "Horiuchi",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "堀内　謙伍",
+        "fullLFMName": "Horiuchi, Kengo"
       },
       "rate": "1.000"
     },
@@ -11778,7 +12696,9 @@
         "boxscoreName": "Hayashi",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "林　晃汰",
+        "fullLFMName": "Hayashi, Kota"
       },
       "rate": "1.000"
     },
@@ -11801,7 +12721,9 @@
         "boxscoreName": "Ohta",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru"
       },
       "rate": ".000"
     },
@@ -11824,7 +12746,9 @@
         "boxscoreName": "Hirooka",
         "batSide": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "廣岡　大志",
+        "fullLFMName": "Hirooka, Taishi"
       },
       "rate": ".000"
     },
@@ -11847,7 +12771,9 @@
         "boxscoreName": "Matsukawa",
         "batSide": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "松川　虎生",
+        "fullLFMName": "Matsukawa, Kou"
       },
       "rate": ".000"
     },
@@ -11870,7 +12796,9 @@
         "boxscoreName": "Yamamoto",
         "batSide": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "山本　大斗",
+        "fullLFMName": "Yamamoto, Daito"
       },
       "rate": ".000"
     },
@@ -11893,7 +12821,9 @@
         "boxscoreName": "K.Ueda",
         "batSide": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "上田　希由翔",
+        "fullLFMName": "Ueda, Kyuto"
       },
       "rate": ".000"
     },
@@ -11916,7 +12846,9 @@
         "boxscoreName": "Gunji",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "郡司　裕也",
+        "fullLFMName": "Gunji, Yuya"
       },
       "rate": ".000"
     },
@@ -11939,7 +12871,9 @@
         "boxscoreName": "Waters",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "ワォーターズ",
+        "fullLFMName": "Waters, RikaiJyumile"
       },
       "rate": ".000"
     },
@@ -11962,7 +12896,9 @@
         "boxscoreName": "Ishii",
         "batSide": "R",
         "teamCode": "D",
-        "teamName": "Dragons"
+        "teamName": "Dragons",
+        "jaRegisteredName": "石伊　雄太",
+        "fullLFMName": "Ishii, Yuta"
       },
       "rate": ".000"
     },
@@ -11985,7 +12921,9 @@
         "boxscoreName": "Chano",
         "batSide": "L",
         "teamCode": "L",
-        "teamName": "Lions"
+        "teamName": "Lions",
+        "jaRegisteredName": "茶野　篤政",
+        "fullLFMName": "Chano, Tokumasa"
       },
       "rate": ".000"
     },
@@ -12008,7 +12946,9 @@
         "boxscoreName": "Sasagawa",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "笹川　吉康",
+        "fullLFMName": "Sasagawa, Yoshiyasu"
       },
       "rate": ".000"
     },
@@ -12031,7 +12971,9 @@
         "boxscoreName": "Kamikawabata",
         "batSide": "L",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "上川畑　大悟",
+        "fullLFMName": "Kamikawabata, Daigo"
       },
       "rate": ".000"
     },
@@ -12054,7 +12996,9 @@
         "boxscoreName": "Naruse",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "成瀬　脩人",
+        "fullLFMName": "Naruse, Shuto"
       },
       "rate": ".000"
     },
@@ -12077,7 +13021,9 @@
         "boxscoreName": "Sano",
         "batSide": "L",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "佐野　恵太",
+        "fullLFMName": "Sano, Keita"
       },
       "rate": ".000"
     },
@@ -12100,7 +13046,9 @@
         "boxscoreName": "Shimada",
         "batSide": "L",
         "teamCode": "T",
-        "teamName": "Tigers"
+        "teamName": "Tigers",
+        "jaRegisteredName": "島田　海吏",
+        "fullLFMName": "Shimada, Kairi"
       },
       "rate": ".000"
     },
@@ -12123,7 +13071,9 @@
         "boxscoreName": "Ishihara",
         "batSide": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "石原　貴規",
+        "fullLFMName": "Ishihara, Tomoki"
       },
       "rate": ".000"
     },
@@ -12146,7 +13096,9 @@
         "boxscoreName": "Asano",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "浅野　翔吾",
+        "fullLFMName": "Asano, Shogo"
       },
       "rate": ".000"
     },
@@ -12169,7 +13121,9 @@
         "boxscoreName": "Miyazaki",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "宮﨑　敏郎",
+        "fullLFMName": "Miyazaki, Toshiro"
       },
       "rate": ".000"
     },
@@ -12192,7 +13146,9 @@
         "boxscoreName": "Mannami",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "万波　中正",
+        "fullLFMName": "Mannami, Chusei"
       },
       "rate": ".000"
     },
@@ -12215,7 +13171,9 @@
         "boxscoreName": "Akiyama",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "秋山　翔吾",
+        "fullLFMName": "Akiyama, Shogo"
       },
       "rate": ".000"
     },
@@ -12238,7 +13196,9 @@
         "boxscoreName": "Yamanobe",
         "batSide": "R",
         "teamCode": "S",
-        "teamName": "Swallows"
+        "teamName": "Swallows",
+        "jaRegisteredName": "山野辺　翔",
+        "fullLFMName": "Yamanobe, Kakeru"
       },
       "rate": ".000"
     },
@@ -12261,7 +13221,9 @@
         "boxscoreName": "Yamaguchi",
         "batSide": "R",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "山口　航輝",
+        "fullLFMName": "Yamaguchi, Koki"
       },
       "rate": ".000"
     },
@@ -12284,7 +13246,9 @@
         "boxscoreName": "Kaneko",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "金子　京介",
+        "fullLFMName": "Kaneko, Kyosuke"
       },
       "rate": ".000"
     },
@@ -12307,7 +13271,9 @@
         "boxscoreName": "Shintoh",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "進藤　勇也",
+        "fullLFMName": "Shintoh, Yuya"
       },
       "rate": ".000"
     },
@@ -12330,7 +13296,9 @@
         "boxscoreName": "Kawase",
         "batSide": "L",
         "teamCode": "H",
-        "teamName": "Hawks"
+        "teamName": "Hawks",
+        "jaRegisteredName": "川瀬　晃",
+        "fullLFMName": "Kawase, Hikaru"
       },
       "rate": ".000"
     },
@@ -12353,7 +13321,9 @@
         "boxscoreName": "T.Inoue",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "井上　朋也",
+        "fullLFMName": "Inoue, Tomoya"
       },
       "rate": ".000"
     },
@@ -12376,7 +13346,9 @@
         "boxscoreName": "Furuichi",
         "batSide": "R",
         "teamCode": "DB",
-        "teamName": "Baystars"
+        "teamName": "Baystars",
+        "jaRegisteredName": "古市　尊",
+        "fullLFMName": "Furuichi, Takeru"
       },
       "rate": ".000"
     },
@@ -12399,7 +13371,9 @@
         "boxscoreName": "Mochimaru",
         "batSide": "L",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "持丸　泰輝",
+        "fullLFMName": "Mochimaru, Taiki"
       },
       "rate": "---"
     },
@@ -12422,7 +13396,9 @@
         "boxscoreName": "Naito",
         "batSide": "R",
         "teamCode": "B",
-        "teamName": "Buffaloes"
+        "teamName": "Buffaloes",
+        "jaRegisteredName": "内藤　鵬",
+        "fullLFMName": "Naito, Ho"
       },
       "rate": "---"
     },
@@ -12445,7 +13421,9 @@
         "boxscoreName": "Martinez",
         "batSide": "R",
         "teamCode": "F",
-        "teamName": "Fighters"
+        "teamName": "Fighters",
+        "jaRegisteredName": "Ａ．マルティネス",
+        "fullLFMName": "Martinez, Ariel"
       },
       "rate": "---"
     },
@@ -12468,7 +13446,9 @@
         "boxscoreName": "McCusker",
         "batSide": "R",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "Ｃ．マッカスカー",
+        "fullLFMName": "McCusker, Carson"
       },
       "rate": "---"
     },
@@ -12491,7 +13471,9 @@
         "boxscoreName": "Terachi",
         "batSide": "L",
         "teamCode": "M",
-        "teamName": "Marines"
+        "teamName": "Marines",
+        "jaRegisteredName": "寺地　隆成",
+        "fullLFMName": "Terachi, Ryusei"
       },
       "rate": "---"
     },
@@ -12514,7 +13496,9 @@
         "boxscoreName": "Ishizuka",
         "batSide": "R",
         "teamCode": "G",
-        "teamName": "Giants"
+        "teamName": "Giants",
+        "jaRegisteredName": "石塚　裕惺",
+        "fullLFMName": "Ishizuka, Yusei"
       },
       "rate": "---"
     },
@@ -12537,7 +13521,9 @@
         "boxscoreName": "Yasuda",
         "batSide": "L",
         "teamCode": "E",
-        "teamName": "Eagles"
+        "teamName": "Eagles",
+        "jaRegisteredName": "YG安田",
+        "fullLFMName": "Yasuda, Yuma"
       },
       "rate": "---"
     },
@@ -12560,7 +13546,9 @@
         "boxscoreName": "S.Nakamura",
         "batSide": "R",
         "teamCode": "C",
-        "teamName": "Carp"
+        "teamName": "Carp",
+        "jaRegisteredName": "中村　奨成",
+        "fullLFMName": "Nakamura, Shosei"
       },
       "rate": "---"
     }

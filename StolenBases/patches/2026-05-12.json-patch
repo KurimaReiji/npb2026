@@ -1,0 +1,107 @@
+[
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "path": "/2026-05-12:41245153:3:SB:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "desc": "top 3 （走者・髙寺）二塁盗塁成功 小澤 古賀",
+    "path": "/2026-05-12:41245153:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "path": "/2026-05-12:33535159:5:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "desc": "bottom 5 （走者・度会）二塁盗塁成功 金丸 石伊",
+    "path": "/2026-05-12:33535159:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "path": "/2026-05-12:51055138:3:SB:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "desc": "top 3 （走者・田宮）二塁盗塁成功 ジャクソン 佐藤",
+    "path": "/2026-05-12:51055138:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "path": "/2026-05-12:63165155:8:SB:2B:1/catcher",
+    "value": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "teamCode": "M",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "desc": "top 8 （走者・水野）二塁盗塁成功 ジャクソン 佐藤",
+    "path": "/2026-05-12:63165155:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "path": "/2026-05-12:51455136:7:SB:2B:1/catcher",
+    "value": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    }
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "replace",
+    "desc": "top 7 （走者・西川）二塁盗塁成功 上茶谷 ",
+    "path": "/2026-05-12:51455136:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-05-12",
+    "op": "remove",
+    "path": "/2026-05-12:51455136:7:SB:2B:1/catchers"
+  }
+]

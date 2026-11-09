@@ -1,0 +1,127 @@
+[
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "path": "/2026-10-03:33535159:1:CS:2B:1/catcher",
+    "value": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "teamCode": "G",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "desc": "top 1 （走者・度会）二塁盗塁失敗 井上 大城",
+    "path": "/2026-10-03:33535159:1:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "path": "/2026-10-03:81685157:7:SB:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "desc": "top 7 （走者・福永）二塁盗塁成功 高梨 ",
+    "path": "/2026-10-03:81685157:7:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "remove",
+    "path": "/2026-10-03:81685157:7:SB:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "path": "/2026-10-03:41845132:5:SB:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "desc": "bottom 5 （走者・村林）二塁盗塁成功 九里 若月",
+    "path": "/2026-10-03:41845132:5:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "path": "/2026-10-03:11015138:6:SB:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "desc": "bottom 6 （走者・辰己）二塁盗塁成功 九里 若月",
+    "path": "/2026-10-03:11015138:6:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "path": "/2026-10-03:01905151:8:SB:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "desc": "bottom 8 （走者・黒川）二塁盗塁成功 富山 若月",
+    "path": "/2026-10-03:01905151:8:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "path": "/2026-10-03:11715153:3:CS:2B:1/catcher",
+    "value": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino",
+      "teamCode": "H",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
+    }
+  },
+  {
+    "effectiveDate": "2026-10-03",
+    "op": "replace",
+    "desc": "bottom 3 （走者・小川）二塁盗塁失敗 松本晴 海野 けん制飛び出し（小川）",
+    "path": "/2026-10-03:11715153:3:CS:2B:1/countsAsStealAttempt",
+    "value": "N"
+  }
+]

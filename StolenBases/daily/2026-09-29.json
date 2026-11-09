@@ -1,0 +1,63 @@
+{
+  "2026-09-29:31635138:3:CS:2B:1": {
+    "id": "2026-09-29:31635138:3:CS:2B:1",
+    "date": "2026-09-29",
+    "runner": {
+      "id": "31635138",
+      "jaBoxscoreName": "藤原",
+      "boxscoreName": "Fujiwara",
+      "batSide": "L",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "藤原　恭大",
+      "fullLFMName": "Fujiwara, Kyota"
+    },
+    "batter": {
+      "id": "31335151",
+      "jaBoxscoreName": "井上",
+      "boxscoreName": "Inoue",
+      "batSide": "R",
+      "teamCode": "M",
+      "teamName": "Marines",
+      "jaRegisteredName": "井上　広大",
+      "fullLFMName": "Inoue, Kouta"
+    },
+    "pitcher": {
+      "id": "31335152",
+      "jaBoxscoreName": "伊藤樹",
+      "boxscoreName": "Tat.Itoh",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "jaRegisteredName": "伊藤　樹",
+      "fullLFMName": "Itoh, Tatsuki"
+    },
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "teamCode": "E",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru"
+    },
+    "scoring": "CS",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "away": 5,
+      "home": 2
+    },
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル",
+      "name": "Rakuten Mobile SAIKYO Park Miyagi",
+      "jaName": "楽天モバイル 最強パーク宮城"
+    },
+    "jaText": "（走者・藤原）二塁盗塁失敗",
+    "link": "https://npb.jp/scores/2026/0929/e-m-23/playbyplay.html#com3-1",
+    "countsAsStealAttempt": "Y"
+  }
+}

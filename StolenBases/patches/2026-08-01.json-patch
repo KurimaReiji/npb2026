@@ -1,0 +1,92 @@
+[
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "replace",
+    "path": "/2026-08-01:13115153:1:CS:2B:1/catcher",
+    "value": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城",
+      "boxscoreName": "Ohshiro",
+      "teamCode": "G",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "replace",
+    "desc": "top 1 （走者・牧）二塁盗塁失敗 竹丸 ",
+    "path": "/2026-08-01:13115153:1:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "remove",
+    "path": "/2026-08-01:13115153:1:CS:2B:1/catchers"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "replace",
+    "path": "/2026-08-01:11915132:2:CS:2B:1/catcher",
+    "value": {
+      "id": "01005159",
+      "jaBoxscoreName": "鈴木叶",
+      "boxscoreName": "K.Suzuki",
+      "teamCode": "S",
+      "jaRegisteredName": "鈴木　叶",
+      "fullLFMName": "Suzuki, Kyo"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "replace",
+    "desc": "top 2 （走者・坂本）二塁盗塁失敗 高橋 鈴木叶",
+    "path": "/2026-08-01:11915132:2:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "replace",
+    "path": "/2026-08-01:81685157:3:SB:2B:1/catcher",
+    "value": {
+      "id": "81885151",
+      "jaBoxscoreName": "持丸",
+      "boxscoreName": "Mochimaru",
+      "teamCode": "C",
+      "jaRegisteredName": "持丸　泰輝",
+      "fullLFMName": "Mochimaru, Taiki"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "replace",
+    "desc": "top 3 （走者・福永）二塁盗塁成功 斉藤優 持丸",
+    "path": "/2026-08-01:81685157:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "replace",
+    "path": "/2026-08-01:21425159:3:SB:2B:1/catcher",
+    "value": {
+      "id": "93195138",
+      "jaBoxscoreName": "渡邉",
+      "boxscoreName": "Watanabe",
+      "teamCode": "H",
+      "jaRegisteredName": "渡邉　陸",
+      "fullLFMName": "Watanabe, Riku"
+    }
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "replace",
+    "desc": "bottom 3 （走者・中島）二塁盗塁成功 上茶谷 ",
+    "path": "/2026-08-01:21425159:3:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "op": "remove",
+    "path": "/2026-08-01:21425159:3:SB:2B:1/catchers"
+  }
+]

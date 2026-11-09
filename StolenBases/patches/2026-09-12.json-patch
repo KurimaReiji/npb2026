@@ -1,0 +1,102 @@
+[
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "path": "/2026-09-12:51355155:2:SB:2B:1/catcher",
+    "value": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "boxscoreName": "Ishii",
+      "teamCode": "D",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "desc": "top 2 （走者・岩田）二塁盗塁成功 涌井 石伊",
+    "path": "/2026-09-12:51355155:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "path": "/2026-09-12:61465152:7:PO:3B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "desc": "bottom 7 （走者・花田）三塁牽制アウト 清水 古賀",
+    "path": "/2026-09-12:61465152:7:PO:3B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "path": "/2026-09-12:71975159:1:SB:2B:1/catcher",
+    "value": {
+      "id": "21825157",
+      "jaBoxscoreName": "松尾",
+      "boxscoreName": "Matsuo",
+      "teamCode": "DB",
+      "jaRegisteredName": "松尾　汐恩",
+      "fullLFMName": "Matsuo, Shion"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "desc": "bottom 1 （走者・佐藤啓）二塁盗塁成功 尾形 松尾",
+    "path": "/2026-09-12:71975159:1:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "path": "/2026-09-12:63165155:3:CS:2B:1/catcher",
+    "value": {
+      "id": "41745152",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Kojima",
+      "teamCode": "L",
+      "jaRegisteredName": "小島　大河",
+      "fullLFMName": "Kojima, Taiga"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "desc": "top 3 （走者・水野）二塁盗塁失敗 隅田 小島 1塁けん制／盗塁失敗（水野）",
+    "path": "/2026-09-12:63165155:3:CS:2B:1/countsAsStealAttempt",
+    "value": "N"
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "path": "/2026-09-12:81385138:5:CS:2B:1/catcher",
+    "value": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "teamCode": "B",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    }
+  },
+  {
+    "effectiveDate": "2026-09-12",
+    "op": "replace",
+    "desc": "top 5 （走者・小郷）二塁盗塁失敗 エスピノーザ 若月",
+    "path": "/2026-09-12:81385138:5:CS:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]

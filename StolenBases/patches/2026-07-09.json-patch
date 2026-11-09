@@ -1,0 +1,42 @@
+[
+  {
+    "effectiveDate": "2026-07-09",
+    "op": "replace",
+    "path": "/2026-07-09:21325138:2:SB:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-09",
+    "op": "replace",
+    "desc": "bottom 2 （走者・大盛）二塁盗塁成功 ウォルターズ 古賀",
+    "path": "/2026-07-09:21325138:2:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  },
+  {
+    "effectiveDate": "2026-07-09",
+    "op": "replace",
+    "path": "/2026-07-09:81585157:9:SB:2B:1/catcher",
+    "value": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "teamCode": "S",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai"
+    }
+  },
+  {
+    "effectiveDate": "2026-07-09",
+    "op": "replace",
+    "desc": "bottom 9 （走者・久保）二塁盗塁成功 キハダ 古賀",
+    "path": "/2026-07-09:81585157:9:SB:2B:1/countsAsStealAttempt",
+    "value": "Y"
+  }
+]
