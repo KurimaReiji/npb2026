@@ -3,6 +3,105 @@
   "title": "自由契約選手 | 2026年度公示 | NPB.jp 日本野球機構",
   "rows": [
     {
+      "date": "2026-11-03",
+      "teamCode": "E",
+      "playerId": "53555152",
+      "jaRegisteredName": "Ｒ．コントレラス",
+      "jaPosition": "投手",
+      "primaryNumber": "15",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-11-03",
+      "teamCode": "E",
+      "playerId": "73575132",
+      "jaRegisteredName": "宋　家豪",
+      "jaPosition": "投手",
+      "primaryNumber": "43",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-11-02",
+      "teamCode": "D",
+      "playerId": "73575159",
+      "jaRegisteredName": "Ａ．アブレウ",
+      "jaPosition": "投手",
+      "primaryNumber": "28",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-11-02",
+      "teamCode": "D",
+      "playerId": "93295157",
+      "jaRegisteredName": "Ｈ．メヒア",
+      "jaPosition": "投手",
+      "primaryNumber": "91",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-11-02",
+      "teamCode": "D",
+      "playerId": "93795157",
+      "jaRegisteredName": "Ｏ．カリステ",
+      "jaPosition": "内野手",
+      "primaryNumber": "4",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-10-12",
+      "teamCode": "B",
+      "playerId": "13215157",
+      "jaRegisteredName": "Ｌ．ペルドモ",
+      "jaPosition": "投手",
+      "primaryNumber": "59",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-10-08",
+      "teamCode": "S",
+      "playerId": "13915157",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "jaPosition": "内野手",
+      "primaryNumber": "98",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-07-17",
+      "teamCode": "L",
+      "playerId": "43045155",
+      "jaRegisteredName": "ボー・タカハシ",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-07-17",
+      "teamCode": "DB",
+      "playerId": "13715150",
+      "jaRegisteredName": "Ｊ．デュプランティエ",
+      "jaPosition": "投手",
+      "primaryNumber": "0",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-06-08",
+      "teamCode": "DB",
+      "playerId": "83385152",
+      "jaRegisteredName": "Ａ．コックス",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2026-06-04",
+      "teamCode": "E",
+      "playerId": "93095150",
+      "jaRegisteredName": "Ｏ．ゴンザレス",
+      "jaPosition": "外野手",
+      "primaryNumber": "12",
+      "jaNote": "（ウエイバー不請求）"
+    },
+    {
       "date": "2026-02-25",
       "teamCode": "C",
       "playerId": "71475138",

@@ -56,8 +56,25 @@ function createFilterStream(predicate) {
   });
 }
 
+async function getReadableNdJsonStream(dbfile) {
+  let readableStream;
+  if (typeof window === 'undefined') {
+    const { createReadStream: nodeCreateReadStream } = await import('node:fs');
+    const { Readable: nodeReadable } = await import('node:stream');
+    if (dbfile.startsWith('http')) {
+      readableStream = (await fetch(dbfile)).body;
+    } else {
+      readableStream = nodeReadable.toWeb(nodeCreateReadStream(dbfile));
+    }
+  } else {
+    readableStream = (await fetch(dbfile, { cache: "no-cache" })).body;
+  }
+  return readableStream;
+}
+
 export {
   NdJsonStream,
   parseNdJson,
   createFilterStream,
+  getReadableNdJsonStream,
 }

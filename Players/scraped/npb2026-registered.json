@@ -4,7 +4,7 @@
     "year": "2026",
     "teamCode": "B",
     "title": "2026年度 支配下選手登録（オリックス・バファローズ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "65名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -533,9 +533,89 @@
         "primaryNumber": "99",
         "playerId": "61965132",
         "jaRegisteredName": "杉本　裕太郎"
+      },
+      {
+        "mmdd": "04-30",
+        "teamCode": "B",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "53",
+        "playerId": "51755138",
+        "jaRegisteredName": "宜保　翔"
+      },
+      {
+        "mmdd": "05-07",
+        "teamCode": "B",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "65",
+        "playerId": "63165159",
+        "jaRegisteredName": "宮國　凌空"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "B",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "46",
+        "playerId": "61665136",
+        "jaRegisteredName": "本田　仁海"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "B",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "54",
+        "playerId": "61665150",
+        "jaRegisteredName": "東山　玲士"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "B",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "92",
+        "playerId": "43545150",
+        "jaRegisteredName": "陳　睦衡"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-04-30",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "51755138",
+        "jaRegisteredName": "宜保　翔",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-05-07",
+        "jaPrimaryPosition": "投手",
+        "playerId": "63165159",
+        "jaRegisteredName": "宮國　凌空",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61665136",
+        "jaRegisteredName": "本田　仁海",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61665150",
+        "jaRegisteredName": "東山　玲士",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "43545150",
+        "jaRegisteredName": "陳　睦衡",
+        "desc": ""
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
@@ -559,7 +639,7 @@
     "year": "2026",
     "teamCode": "C",
     "title": "2026年度 支配下選手登録（広島東洋カープ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "68名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -1104,9 +1184,41 @@
         "primaryNumber": "97",
         "playerId": "61265157",
         "jaRegisteredName": "中村　貴浩"
+      },
+      {
+        "mmdd": "05-21",
+        "teamCode": "C",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "92",
+        "playerId": "11415157",
+        "jaRegisteredName": "名原　典彦"
+      },
+      {
+        "mmdd": "07-21",
+        "teamCode": "C",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "50",
+        "playerId": "51055159",
+        "jaRegisteredName": "杉田　健"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-05-21",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "11415157",
+        "jaRegisteredName": "名原　典彦",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-21",
+        "jaPrimaryPosition": "投手",
+        "playerId": "51055159",
+        "jaRegisteredName": "杉田　健",
+        "desc": ""
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
@@ -1138,7 +1250,7 @@
     "year": "2026",
     "teamCode": "D",
     "title": "2026年度 支配下選手登録（中日ドラゴンズ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -1675,6 +1787,38 @@
         "primaryNumber": "68",
         "playerId": "37035159",
         "jaRegisteredName": "牧野　憲伸"
+      },
+      {
+        "mmdd": "04-14",
+        "teamCode": "D",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "33",
+        "playerId": "61765139",
+        "jaRegisteredName": "杉浦　稔大"
+      },
+      {
+        "mmdd": "07-16",
+        "teamCode": "D",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "53",
+        "playerId": "53155157",
+        "jaRegisteredName": "宮内　春輝"
+      },
+      {
+        "mmdd": "07-16",
+        "teamCode": "D",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "62",
+        "playerId": "53355153",
+        "jaRegisteredName": "森　博人"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "D",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "40",
+        "playerId": "31835155",
+        "jaRegisteredName": "福元　悠真"
       }
     ],
     "notes": [
@@ -1685,6 +1829,38 @@
         "playerId": "37035159",
         "jaRegisteredName": "牧野　憲伸",
         "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-16",
+        "jaPrimaryPosition": "投手",
+        "playerId": "53155157",
+        "jaRegisteredName": "宮内　春輝",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-16",
+        "jaPrimaryPosition": "投手",
+        "playerId": "53355153",
+        "jaRegisteredName": "森　博人",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-31",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "31835155",
+        "jaRegisteredName": "福元　悠真",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（トレード）】",
+        "date": "2026-04-14",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61765139",
+        "jaRegisteredName": "杉浦　稔大",
+        "desc": "← 北海道日本ハムファイターズ"
       },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
@@ -1709,7 +1885,7 @@
     "year": "2026",
     "teamCode": "DB",
     "title": "2026年度 支配下選手登録（横浜DeNAベイスターズ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -2246,9 +2422,121 @@
         "primaryNumber": "98",
         "playerId": "33235155",
         "jaRegisteredName": "Ｈ．マルセリーノ"
+      },
+      {
+        "mmdd": "05-13",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "36",
+        "playerId": "61365136",
+        "jaRegisteredName": "尾形　崇斗"
+      },
+      {
+        "mmdd": "05-13",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "40",
+        "playerId": "01305153",
+        "jaRegisteredName": "井上　朋也"
+      },
+      {
+        "mmdd": "06-01",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "93",
+        "playerId": "81985159",
+        "jaRegisteredName": "庄司　陽斗"
+      },
+      {
+        "mmdd": "06-16",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "42",
+        "playerId": "13015152",
+        "jaRegisteredName": "Ｏ．ビド"
+      },
+      {
+        "mmdd": "06-16",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "69",
+        "playerId": "33035152",
+        "jaRegisteredName": "Ｊ．エンカーナシオン"
+      },
+      {
+        "mmdd": "07-10",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "52",
+        "playerId": "71675134",
+        "jaRegisteredName": "浜地　真澄"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "96",
+        "playerId": "41445136",
+        "jaRegisteredName": "馬場　皐輔"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "66",
+        "playerId": "11215159",
+        "jaRegisteredName": "高見澤　郁魅"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-06-01",
+        "jaPrimaryPosition": "投手",
+        "playerId": "81985159",
+        "jaRegisteredName": "庄司　陽斗",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-10",
+        "jaPrimaryPosition": "投手",
+        "playerId": "71675134",
+        "jaRegisteredName": "浜地　真澄",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "41445136",
+        "jaRegisteredName": "馬場　皐輔",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "11215159",
+        "jaRegisteredName": "高見澤　郁魅",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（トレード）】",
+        "date": "2026-05-13",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61365136",
+        "jaRegisteredName": "尾形　崇斗",
+        "desc": "← 福岡ソフトバンクホークス"
+      },
+      {
+        "item": "【支配下選手登録（トレード）】",
+        "date": "2026-05-13",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "01305153",
+        "jaRegisteredName": "井上　朋也",
+        "desc": "← 福岡ソフトバンクホークス"
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
@@ -2266,12 +2554,44 @@
         "desc": "← 埼玉西武ライオンズ"
       },
       {
+        "item": "【支配下選手登録抹消（トレード）】",
+        "date": "2026-05-13",
+        "jaPrimaryPosition": "捕手",
+        "playerId": "23125136",
+        "jaRegisteredName": "山本　祐大",
+        "desc": "→ 福岡ソフトバンクホークス"
+      },
+      {
         "item": "【支配下選手登録抹消（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
         "jaPrimaryPosition": "内野手",
         "playerId": "91095138",
         "jaRegisteredName": "知野　直人",
         "desc": "→ 中日ドラゴンズ"
+      },
+      {
+        "item": "【自由契約選手】",
+        "date": "2026-06-08",
+        "jaPrimaryPosition": "投手",
+        "playerId": "83385152",
+        "jaRegisteredName": "Ａ．コックス",
+        "desc": ""
+      },
+      {
+        "item": "【自由契約選手】",
+        "date": "2026-07-17",
+        "jaPrimaryPosition": "投手",
+        "playerId": "13715150",
+        "jaRegisteredName": "Ｊ．デュプランティエ",
+        "desc": ""
+      },
+      {
+        "item": "【任意引退選手】",
+        "date": "2026-05-25",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "13715132",
+        "jaRegisteredName": "Ｄ．ビシエド",
+        "desc": ""
       }
     ]
   },
@@ -2280,7 +2600,7 @@
     "year": "2026",
     "teamCode": "E",
     "title": "2026年度 支配下選手登録（東北楽天ゴールデンイーグルス） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "69名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -2841,9 +3161,33 @@
         "primaryNumber": "29",
         "playerId": "91095157",
         "jaRegisteredName": "田中　千晴"
+      },
+      {
+        "mmdd": "05-15",
+        "teamCode": "E",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "98",
+        "playerId": "11715152",
+        "jaRegisteredName": "金子　京介"
+      },
+      {
+        "mmdd": "07-21",
+        "teamCode": "E",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "23",
+        "playerId": "13015150",
+        "jaRegisteredName": "Ｙ．マルテ"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-05-15",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "11715152",
+        "jaRegisteredName": "金子　京介",
+        "desc": ""
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
@@ -2867,6 +3211,14 @@
         "playerId": "71075157",
         "jaRegisteredName": "辰見　鴻之介",
         "desc": "→ 広島東洋カープ"
+      },
+      {
+        "item": "【自由契約選手】",
+        "date": "2026-06-04",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "93095150",
+        "jaRegisteredName": "Ｏ．ゴンザレス",
+        "desc": ""
       }
     ]
   },
@@ -2875,7 +3227,7 @@
     "year": "2026",
     "teamCode": "F",
     "title": "2026年度 支配下選手登録（北海道日本ハムファイターズ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -3420,9 +3772,57 @@
         "primaryNumber": "38",
         "playerId": "83985152",
         "jaRegisteredName": "Ｌ．リン"
+      },
+      {
+        "mmdd": "06-19",
+        "teamCode": "F",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "93",
+        "playerId": "61665151",
+        "jaRegisteredName": "松岡　洸希"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "F",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "94",
+        "playerId": "41945138",
+        "jaRegisteredName": "清宮　虎多朗"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "F",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "95",
+        "playerId": "41245152",
+        "jaRegisteredName": "常谷　拓輝"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-06-19",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61665151",
+        "jaRegisteredName": "松岡　洸希",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "41945138",
+        "jaRegisteredName": "清宮　虎多朗",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "41245152",
+        "jaRegisteredName": "常谷　拓輝",
+        "desc": ""
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
@@ -3430,6 +3830,14 @@
         "playerId": "31735155",
         "jaRegisteredName": "菊地　大稀",
         "desc": "← 読売ジャイアンツ"
+      },
+      {
+        "item": "【支配下選手登録抹消（トレード）】",
+        "date": "2026-04-14",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61765139",
+        "jaRegisteredName": "杉浦　稔大",
+        "desc": "→ 中日ドラゴンズ"
       },
       {
         "item": "【支配下選手登録抹消（現役ドラフトに伴うトレード）】",
@@ -3446,7 +3854,7 @@
     "year": "2026",
     "teamCode": "G",
     "title": "2026年度 支配下選手登録（読売ジャイアンツ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "64名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -3983,6 +4391,62 @@
         "primaryNumber": "68",
         "playerId": "01305159",
         "jaRegisteredName": "宇都宮　葵星"
+      },
+      {
+        "mmdd": "04-06",
+        "teamCode": "G",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "69",
+        "playerId": "41645159",
+        "jaRegisteredName": "平山　功太"
+      },
+      {
+        "mmdd": "05-25",
+        "teamCode": "G",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "50",
+        "playerId": "13015153",
+        "jaRegisteredName": "Ｊ．ティマ"
+      },
+      {
+        "mmdd": "06-18",
+        "teamCode": "G",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "98",
+        "playerId": "71575132",
+        "jaRegisteredName": "小笠原　慎之介"
+      },
+      {
+        "mmdd": "06-25",
+        "teamCode": "G",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "95",
+        "playerId": "21925155",
+        "jaRegisteredName": "笹原　操希"
+      },
+      {
+        "mmdd": "07-06",
+        "teamCode": "G",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "94",
+        "playerId": "77775159",
+        "jaRegisteredName": "知念　大成"
+      },
+      {
+        "mmdd": "07-20",
+        "teamCode": "G",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "25",
+        "playerId": "11015155",
+        "jaRegisteredName": "代木　大和"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "G",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "59",
+        "playerId": "91095155",
+        "jaRegisteredName": "鈴木　大和"
       }
     ],
     "notes": [
@@ -4003,12 +4467,68 @@
         "desc": ""
       },
       {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-04-06",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "41645159",
+        "jaRegisteredName": "平山　功太",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-05-25",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "13015153",
+        "jaRegisteredName": "Ｊ．ティマ",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-06-25",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "21925155",
+        "jaRegisteredName": "笹原　操希",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-06",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "77775159",
+        "jaRegisteredName": "知念　大成",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-20",
+        "jaPrimaryPosition": "投手",
+        "playerId": "11015155",
+        "jaRegisteredName": "代木　大和",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-31",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "91095155",
+        "jaRegisteredName": "鈴木　大和",
+        "desc": ""
+      },
+      {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
         "jaPrimaryPosition": "投手",
         "playerId": "33135155",
         "jaRegisteredName": "松浦　慶斗",
         "desc": "← 北海道日本ハムファイターズ"
+      },
+      {
+        "item": "【支配下選手登録抹消（トレード）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "53555153",
+        "jaRegisteredName": "若林　楽人",
+        "desc": "→ 埼玉西武ライオンズ"
       },
       {
         "item": "【支配下選手登録抹消（現役ドラフトに伴うトレード）】",
@@ -4041,7 +4561,7 @@
     "year": "2026",
     "teamCode": "H",
     "title": "2026年度 支配下選手登録（福岡ソフトバンクホークス） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "63名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -4554,9 +5074,145 @@
         "primaryNumber": "77",
         "playerId": "93595155",
         "jaRegisteredName": "山本　恵大"
+      },
+      {
+        "mmdd": "04-18",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "59",
+        "playerId": "21325155",
+        "jaRegisteredName": "大竹　風雅"
+      },
+      {
+        "mmdd": "05-08",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "22",
+        "playerId": "01805159",
+        "jaRegisteredName": "藤原　大翔"
+      },
+      {
+        "mmdd": "05-13",
+        "teamCode": "H",
+        "jaPrimaryPosition": "捕手",
+        "primaryNumber": "39",
+        "playerId": "23125136",
+        "jaRegisteredName": "山本　祐大"
+      },
+      {
+        "mmdd": "05-25",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "34",
+        "playerId": "33735155",
+        "jaRegisteredName": "Ａ．アルメンタ"
+      },
+      {
+        "mmdd": "07-02",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "43",
+        "playerId": "11815152",
+        "jaRegisteredName": "北斗"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "17",
+        "playerId": "63565150",
+        "jaRegisteredName": "張　峻瑋"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "85",
+        "playerId": "83285155",
+        "jaRegisteredName": "Ｌ．ロドリゲス"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "95",
+        "playerId": "61965153",
+        "jaRegisteredName": "小林　樹斗"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "14",
+        "playerId": "23025152",
+        "jaRegisteredName": "Ｊ．ラトリッジ"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-04-18",
+        "jaPrimaryPosition": "投手",
+        "playerId": "21325155",
+        "jaRegisteredName": "大竹　風雅",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-05-08",
+        "jaPrimaryPosition": "投手",
+        "playerId": "01805159",
+        "jaRegisteredName": "藤原　大翔",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-05-25",
+        "jaPrimaryPosition": "投手",
+        "playerId": "33735155",
+        "jaRegisteredName": "Ａ．アルメンタ",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-02",
+        "jaPrimaryPosition": "投手",
+        "playerId": "11815152",
+        "jaRegisteredName": "北斗",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "63565150",
+        "jaRegisteredName": "張　峻瑋",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "83285155",
+        "jaRegisteredName": "Ｌ．ロドリゲス",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61965153",
+        "jaRegisteredName": "小林　樹斗",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（トレード）】",
+        "date": "2026-05-13",
+        "jaPrimaryPosition": "捕手",
+        "playerId": "23125136",
+        "jaRegisteredName": "山本　祐大",
+        "desc": "← 横浜DeNAベイスターズ"
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
@@ -4564,6 +5220,22 @@
         "playerId": "01205138",
         "jaRegisteredName": "中村　稔弥",
         "desc": "← 千葉ロッテマリーンズ"
+      },
+      {
+        "item": "【支配下選手登録抹消（トレード）】",
+        "date": "2026-05-13",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61365136",
+        "jaRegisteredName": "尾形　崇斗",
+        "desc": "→ 横浜DeNAベイスターズ"
+      },
+      {
+        "item": "【支配下選手登録抹消（トレード）】",
+        "date": "2026-05-13",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "01305153",
+        "jaRegisteredName": "井上　朋也",
+        "desc": "→ 横浜DeNAベイスターズ"
       },
       {
         "item": "【支配下選手登録抹消（現役ドラフトに伴うトレード）】",
@@ -4580,7 +5252,7 @@
     "year": "2026",
     "teamCode": "L",
     "title": "2026年度 支配下選手登録（埼玉西武ライオンズ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -5133,6 +5805,38 @@
         "primaryNumber": "67",
         "playerId": "91895150",
         "jaRegisteredName": "冨士　大和"
+      },
+      {
+        "mmdd": "04-30",
+        "teamCode": "L",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "75",
+        "playerId": "31035150",
+        "jaRegisteredName": "佐藤　爽"
+      },
+      {
+        "mmdd": "07-01",
+        "teamCode": "L",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "28",
+        "playerId": "71875138",
+        "jaRegisteredName": "森脇　亮介"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "L",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "49",
+        "playerId": "53555153",
+        "jaRegisteredName": "若林　楽人"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "L",
+        "jaPrimaryPosition": "捕手",
+        "primaryNumber": "65",
+        "playerId": "91795157",
+        "jaRegisteredName": "是澤　涼輔"
       }
     ],
     "notes": [
@@ -5143,6 +5847,38 @@
         "playerId": "91895150",
         "jaRegisteredName": "冨士　大和",
         "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-04-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "31035150",
+        "jaRegisteredName": "佐藤　爽",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-01",
+        "jaPrimaryPosition": "投手",
+        "playerId": "71875138",
+        "jaRegisteredName": "森脇　亮介",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-31",
+        "jaPrimaryPosition": "捕手",
+        "playerId": "91795157",
+        "jaRegisteredName": "是澤　涼輔",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（トレード）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "53555153",
+        "jaRegisteredName": "若林　楽人",
+        "desc": "← 読売ジャイアンツ"
       },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
@@ -5167,6 +5903,14 @@
         "playerId": "91895155",
         "jaRegisteredName": "古市　尊",
         "desc": "→ 横浜DeNAベイスターズ"
+      },
+      {
+        "item": "【自由契約選手】",
+        "date": "2026-07-17",
+        "jaPrimaryPosition": "投手",
+        "playerId": "43045155",
+        "jaRegisteredName": "ボー・タカハシ",
+        "desc": ""
       }
     ]
   },
@@ -5175,7 +5919,7 @@
     "year": "2026",
     "teamCode": "M",
     "title": "2026年度 支配下選手登録（千葉ロッテマリーンズ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -5712,9 +6456,65 @@
         "primaryNumber": "42",
         "playerId": "43745159",
         "jaRegisteredName": "Ａ．ジャクソン"
+      },
+      {
+        "mmdd": "06-05",
+        "teamCode": "M",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "38",
+        "playerId": "73175136",
+        "jaRegisteredName": "山﨑　剛"
+      },
+      {
+        "mmdd": "07-23",
+        "teamCode": "M",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "48",
+        "playerId": "93095152",
+        "jaRegisteredName": "Ｊ．ルケーシー"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "M",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "92",
+        "playerId": "61865136",
+        "jaRegisteredName": "森　遼大朗"
+      },
+      {
+        "mmdd": "07-30",
+        "teamCode": "M",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "93",
+        "playerId": "11215152",
+        "jaRegisteredName": "髙橋　快秀"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-06-05",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "73175136",
+        "jaRegisteredName": "山﨑　剛",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61865136",
+        "jaRegisteredName": "森　遼大朗",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-30",
+        "jaPrimaryPosition": "投手",
+        "playerId": "11215152",
+        "jaRegisteredName": "髙橋　快秀",
+        "desc": ""
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2025-12-16",
@@ -5738,7 +6538,7 @@
     "year": "2026",
     "teamCode": "S",
     "title": "2026年度 支配下選手登録（東京ヤクルトスワローズ） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "68名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -6283,6 +7083,30 @@
         "primaryNumber": "70",
         "playerId": "11815150",
         "jaRegisteredName": "廣澤　優"
+      },
+      {
+        "mmdd": "05-22",
+        "teamCode": "S",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "90",
+        "playerId": "23125157",
+        "jaRegisteredName": "モンテル"
+      },
+      {
+        "mmdd": "06-17",
+        "teamCode": "S",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "98",
+        "playerId": "13915157",
+        "jaRegisteredName": "Ｌ．セデーニョ"
+      },
+      {
+        "mmdd": "07-22",
+        "teamCode": "S",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "14",
+        "playerId": "11615159",
+        "jaRegisteredName": "西舘　昂汰"
       }
     ],
     "notes": [
@@ -6292,6 +7116,22 @@
         "jaPrimaryPosition": "投手",
         "playerId": "11815150",
         "jaRegisteredName": "廣澤　優",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-05-22",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "23125157",
+        "jaRegisteredName": "モンテル",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-22",
+        "jaPrimaryPosition": "投手",
+        "playerId": "11615159",
+        "jaRegisteredName": "西舘　昂汰",
         "desc": ""
       },
       {
@@ -6311,6 +7151,14 @@
         "desc": "→ 阪神タイガース"
       },
       {
+        "item": "【自由契約選手】",
+        "date": "2026-10-08",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "13915157",
+        "jaRegisteredName": "Ｌ．セデーニョ",
+        "desc": ""
+      },
+      {
         "item": "【任意引退選手】",
         "date": "2026-03-16",
         "jaPrimaryPosition": "内野手",
@@ -6325,7 +7173,7 @@
     "year": "2026",
     "teamCode": "T",
     "title": "2026年度 支配下選手登録（阪神タイガース） | 2026年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-16",
@@ -6862,6 +7710,38 @@
         "primaryNumber": "85",
         "playerId": "31235150",
         "jaRegisteredName": "嶋村　麟士朗"
+      },
+      {
+        "mmdd": "03-30",
+        "teamCode": "T",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "92",
+        "playerId": "11815159",
+        "jaRegisteredName": "福島　圭音"
+      },
+      {
+        "mmdd": "07-03",
+        "teamCode": "T",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "97",
+        "playerId": "53055152",
+        "jaRegisteredName": "Ａ．セベリーノ"
+      },
+      {
+        "mmdd": "07-03",
+        "teamCode": "T",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "95",
+        "playerId": "71075152",
+        "jaRegisteredName": "神宮　僚介"
+      },
+      {
+        "mmdd": "07-21",
+        "teamCode": "T",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "94",
+        "playerId": "73075152",
+        "jaRegisteredName": "Ｄ．ガルシア"
       }
     ],
     "notes": [
@@ -6871,6 +7751,22 @@
         "jaPrimaryPosition": "捕手",
         "playerId": "31235150",
         "jaRegisteredName": "嶋村　麟士朗",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-03-30",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "11815159",
+        "jaRegisteredName": "福島　圭音",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2026-07-03",
+        "jaPrimaryPosition": "投手",
+        "playerId": "71075152",
+        "jaRegisteredName": "神宮　僚介",
         "desc": ""
       },
       {

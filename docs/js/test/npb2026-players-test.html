@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mocha Test Report for npb2026-players.js</title>
+  <link rel="stylesheet" href="https://unpkg.com/mocha/mocha.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/10.0.0/mocha.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/4.3.4/chai.min.js"></script>
+  <style>
+    h1 {
+      font-size: 1.125em;
+      margin-block: 1em;
+      margin-inline-start: 65px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Mocha Test Report for npb2026-players.js</h1>
+  <div id="mocha"></div>
+  <script type="module">
+    import { getPlayers, createFindPlayerById } from '../npb2026-players.js';
+
+    mocha.setup('bdd');
+    
+let findPlayerOnMay12, findPlayerOnMay13;
+
+before(async function () {
+  findPlayerOnMay12 = await createFindPlayerById(await getPlayers('2026-05-12'));
+  findPlayerOnMay13 = await createFindPlayerById(await getPlayers('2026-05-13'));
+})
+
+describe("Registered players on May 12", async function () {
+  it("should return Yamamoto as a Baystar, Ogata as a Hawk", function () {
+    const yuudai = findPlayerOnMay12('23125136');
+    const ogata = findPlayerOnMay12('61365136');
+    chai.expect(ogata.teamCode).to.equal('H');
+    chai.expect(yuudai.teamCode).to.equal('DB');
+  });
+});
+
+describe("Registered players on May 13", async function () {
+  it("should return Yamamoto as a Hawk, Ogata as a Baystar", function () {
+    const yuudai = findPlayerOnMay13('23125136');
+    const ogata = findPlayerOnMay13('61365136');
+    chai.expect(ogata.teamCode).to.equal('DB');
+    chai.expect(yuudai.teamCode).to.equal('H');
+  });
+});
+
+describe("Registered players on July 31", async function () {
+  it("should return correct numbers", async function () {
+    const playersOnJul31 = await getPlayers('2026-07-31');
+    const dragons = playersOnJul31.filter((player) => player.teamCode === 'D' && player.status === "RegisteredPlayer");
+    chai.expect(dragons.length).to.equal(70);
+  });
+});
+
+    mocha.run();
+
+  </script>
+</body>
+
+</html>
