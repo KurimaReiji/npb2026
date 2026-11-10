@@ -1,7 +1,5 @@
 # npb2026
 
-# Baserunning
-
 ## Baserunning
 
 - [CS% Catchers](https://kurimareiji.github.io/npb2026/baserunning.html?lang=en&table=catcher)
