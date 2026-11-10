@@ -1,5 +1,12 @@
 # npb2026
 
+# Baserunning
+
+## Baserunning
+
+- [CS% Catchers](https://kurimareiji.github.io/npb2026/baserunning.html?lang=en&table=catcher)
+- [盗塁阻止率](https://kurimareiji.github.io/npb2026/baserunning.html?lang=ja&table=catcher)
+
 # Teams
 
 - [Mocha Test Report – npb-teams.js](https://kurimareiji.github.io/npb2026/js/test/npb-teams-test.html)
