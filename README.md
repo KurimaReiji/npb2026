@@ -6,11 +6,15 @@
 - [盗塁阻止率](https://kurimareiji.github.io/npb2026/baserunning.html?lang=ja&table=catcher)
 - [Data Grid](https://kurimareiji.github.io/npb2026/baserunning-grid.html)
 
-# Teams
+## Teams
 
 - [Mocha Test Report – npb-teams.js](https://kurimareiji.github.io/npb2026/js/test/npb-teams-test.html)
 
-# Stadiums
+## Players
+
+- [Mocha Test Report – npb2026-players.js](https://kurimareiji.github.io/npb2026/js/test/npb2026-players-test.html)
+
+## Stadiums
 
 - [Mocha Test Report – npb2026-venues.js](https://kurimareiji.github.io/npb2026/js/test/npb2026-venues-test.html)
 
