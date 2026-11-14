@@ -351,12 +351,12 @@ function mergeLocalData(data) {
   const movies = JSON.parse(localStorage.getItem('movies') || '[]');
   movies.forEach((movieObj) => {
     const cur = data.find((d) => d.eventId === movieObj.eventId);
-    cur.movies.forEach((c) => {
+    cur?.movies.forEach((c) => {
       if (isEquivalentMovie({ eventId: cur.eventId, movie: { url: c.url } }, movieObj)) {
         movieObj.isPublic = true;
       }
     });
-    cur.movies.push(movieObj.movie);
+    cur?.movies.push(movieObj.movie);
   });
   const toSave = movies.filter((o) => !o.isPublic)
   localStorage.setItem('movies', JSON.stringify(toSave));
