@@ -370,7 +370,7 @@ function createRow(cur, root) {
     const dialog = root.querySelector('#addMovie');
     dialog.addEventListener('click', createBackdropClickHandler(dialog));
     dialog.dataset.eventId = cur.eventId;
-    if (cur.movies.length > 0) {
+    if (cur.movies?.length > 0) {
       const ul = document.createElement('ul');
       const lis = cur.movies.map((m) => {
         const li = document.createElement('li');
