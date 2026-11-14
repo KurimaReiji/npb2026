@@ -194,7 +194,7 @@ class SplitHomeRoad extends TransformStream {
   }
 }
 
-async function generateStandings(readable, startDate = '2025-03-28', endDate = '2025-10-24') {
+async function generateStandings(readable, startDate = '2026-03-27', endDate = '2026-10-08') {
   function last10(wlt) {
     const streak = `${wlt.replace(/T/g, "").at(-1)}${wlt.replace(/T/g, "").match(/W+$|L+$/)[0].length}`;
     const last10 = wlt.slice(-10);
@@ -344,14 +344,14 @@ async function generateStandings(readable, startDate = '2025-03-28', endDate = '
     "records": [
       {
         standingsType: "regular season",
-        season: "2025",
+        season: "2026",
         league: "Central League",
         lastUpdated: cl.map(o => o.lastUpdated).sort().at(-1),
         teamRecords: cl,
       },
       {
         standingsType: "regular season",
-        season: "2025",
+        season: "2026",
         league: "Pacific League",
         lastUpdated: pl.map(o => o.lastUpdated).sort().at(-1),
         teamRecords: pl,

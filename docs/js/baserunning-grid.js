@@ -348,18 +348,21 @@ function manageFilterClass(method, criterion, root) {
 }
 
 function mergeLocalData(data) {
-  const movies = JSON.parse(localStorage.getItem('movies') || '[]');
+  for (const cur of data) {
+    cur.movies = cur.movies ?? [];
+  }
+  const movies = JSON.parse(localStorage.getItem('movies2026') || '[]');
   movies.forEach((movieObj) => {
-    const cur = data.find((d) => d.eventId === movieObj.eventId);
-    cur?.movies.forEach((c) => {
-      if (isEquivalentMovie({ eventId: cur.eventId, movie: { url: c.url } }, movieObj)) {
+    const cur = data.find((d) => d.id === movieObj.id);
+    cur?.movies?.forEach((c) => {
+      if (isEquivalentMovie({ id: cur.id, movie: { url: c.url } }, movieObj)) {
         movieObj.isPublic = true;
       }
     });
     cur?.movies.push(movieObj.movie);
   });
   const toSave = movies.filter((o) => !o.isPublic)
-  localStorage.setItem('movies', JSON.stringify(toSave));
+  localStorage.setItem('movies2026', JSON.stringify(toSave));
 }
 
 function createRow(cur, root) {
@@ -369,7 +372,7 @@ function createRow(cur, root) {
     const row = currentTarget.closest('tr');
     const dialog = root.querySelector('#addMovie');
     dialog.addEventListener('click', createBackdropClickHandler(dialog));
-    dialog.dataset.eventId = cur.eventId;
+    dialog.dataset.eventId = cur.id;
     if (cur.movies?.length > 0) {
       const ul = document.createElement('ul');
       const lis = cur.movies.map((m) => {
@@ -386,10 +389,10 @@ function createRow(cur, root) {
       e.preventDefault();
       const movieUrl = e.target.movieUrl.value;
       if (movieUrl) {
-        const data = { eventId: cur.eventId, movie: { url: movieUrl } };
-        const movies = JSON.parse(localStorage.getItem('movies')) || [];
+        const data = { id: cur.id, movie: { url: movieUrl } };
+        const movies = JSON.parse(localStorage.getItem('movies2026')) || [];
         movies.push(data);
-        localStorage.setItem('movies', JSON.stringify(movies));
+        localStorage.setItem('movies2026', JSON.stringify(movies));
 
         postMovieData(data);
 
@@ -411,7 +414,7 @@ function createRow(cur, root) {
       td.textContent = cur[item.replace('Team', '')].teamCode || '-';
     } else if (item === 'date') {
       td.textContent = cur.date.split('-').slice(-2).join('');
-      td.dataset.eventId = cur.eventId;
+      td.dataset.eventId = cur.id;
     } else if (item === 'inning') {
       td.textContent = [cur.halfInning.at(0), String(cur.inning).padStart(2)].join('');
     } else if (item === 'result') {
@@ -459,7 +462,7 @@ function multiMovies(movies) {
 
 function moviesToTd(cur) {
   if (cur.movies?.length > 1) {
-    console.log(cur.eventId);
+    console.log(cur.id);
     return multiMovies(cur.movies);
   } else if (cur.movies?.length === 1) {
     return urlToAnchor(cur.movies.at(0));
@@ -481,7 +484,7 @@ function postMovieData(data) {
 }
 
 function isEquivalentMovie(obj1, obj2) {
-  return obj1.eventId === obj2.eventId && obj1.movie.url === obj2.movie.url;
+  return obj1.id === obj2.id && obj1.movie.url === obj2.movie.url;
 }
 
 
